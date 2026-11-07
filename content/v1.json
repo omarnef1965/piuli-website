@@ -1,0 +1,1081 @@
+{
+  "schema": 1,
+  "version": "2026-11-07.1",
+  "collections": [
+    {
+      "id": "human-greatness",
+      "name": "Human Greatness",
+      "icon": "star",
+      "status": "active",
+      "tagline": "Twelve people who reached greatness, one word each. Find yours.",
+      "intro": "Welcome to Human Greatness. Twelve people from different times and walks of life. Each walked a different path. A boy born without arms who learned to make music with his feet. A woman who would not give up her seat. A man who forgave the men who jailed him. None of them were perfect. None were born great. They chose greatness, one step, one word, one action at a time. Watch their stories and find that same greatness within you.",
+      "items": [
+        {
+          "id": "purpose",
+          "word": "Purpose",
+          "person": "Steve Jobs",
+          "channel": "Stanford",
+          "title": "Steve Jobs' 2005 Stanford Commencement Address",
+          "youtubeId": "UF8uR6Z6KLc",
+          "segments": [
+            {
+              "start": 0,
+              "end": 335
+            }
+          ],
+          "intro": "Purpose. A college dropout faces his first graduation, at Stanford. Steve Jobs tells three stories. Watch the dots connect.",
+          "quote": {
+            "text": "You can’t connect the dots looking forward; you can only connect them looking backward.",
+            "source": "Stanford, 2005"
+          },
+          "live": true
+        },
+        {
+          "id": "perseverance",
+          "word": "Perseverance",
+          "person": "Tony Melendez",
+          "channel": "Vision Video",
+          "title": "The Gift Of Hope: Tony Melendez Story (2005) | Full Movie",
+          "youtubeId": "K0qeKK-dt0g",
+          "segments": [
+            {
+              "start": 1373,
+              "end": 1663
+            }
+          ],
+          "intro": "Perseverance. Tony Melendez practiced, practiced and practiced to learn guitar with his feet. He played for the Pope, and his life changed.",
+          "quote": {
+            "text": "My father always told me: ‘Tony, you have to try… you have to do it by yourself!’",
+            "source": "in an interview"
+          },
+          "live": true
+        },
+        {
+          "id": "dignity",
+          "word": "Dignity",
+          "person": "Rosa Parks",
+          "channel": "BBC News",
+          "title": "Rosa Parks: The 'no' that sparked the civil rights movement",
+          "youtubeId": "76kS_7qanH8",
+          "segments": [
+            {
+              "start": 0,
+              "end": 158
+            }
+          ],
+          "intro": "Dignity. 1955. A 42-year-old tailor on a bus. A white man stands. The driver orders her to move. Rosa Parks responds…",
+          "quote": {
+            "text": "The only tired I was, was tired of giving in.",
+            "source": "her autobiography, 1992"
+          },
+          "live": true
+        },
+        {
+          "id": "love",
+          "word": "Love",
+          "person": "Mother Teresa",
+          "channel": "60 Minutes Australia",
+          "title": "Rare interview with Mother Teresa in the slums of India",
+          "youtubeId": "nQJ7wLp9lA4",
+          "segments": [
+            {
+              "start": 43,
+              "end": 353
+            }
+          ],
+          "intro": "Love. The poorest of the poor, of every faith, dying alone. Mother Teresa saw each as a human in need, and simply served them.",
+          "quote": {
+            "text": "It is not how much we do, but how much love we put in the action that we do.",
+            "source": "Nobel lecture, 1979"
+          },
+          "live": true
+        },
+        {
+          "id": "curiosity",
+          "word": "Curiosity",
+          "person": "Jane Goodall",
+          "channel": "ABC News In-depth",
+          "title": "The inspirational life of Jane Goodall | 7.30",
+          "youtubeId": "ZNch4V9MC44",
+          "segments": [
+            {
+              "start": 0,
+              "end": 247
+            }
+          ],
+          "intro": "Curiosity. 1960. A 26-year-old secretary, no degree, walks into an African forest. Just a notebook, and patience. Jane Goodall.",
+          "quote": {
+            "text": "Only if we understand can we care. Only if we care will we help. Only if we help shall all be saved.",
+            "source": "Jane Goodall Institute"
+          },
+          "live": true
+        },
+        {
+          "id": "courage",
+          "word": "Courage",
+          "person": "Nelson Mandela",
+          "channel": "Nelson Mandela Foundation",
+          "title": "Nelson Mandela Speech From The Dock",
+          "youtubeId": "N2A60NCFfN0",
+          "segments": [
+            {
+              "start": 0,
+              "end": 87
+            }
+          ],
+          "intro": "Courage. 1964. A 45-year-old lawyer on trial. The judge will decide: the death penalty, or life in prison. Nelson Mandela stands up and says…",
+          "quote": {
+            "text": "I learned that courage was not the absence of fear, but the triumph over it.",
+            "source": "Long Walk to Freedom, 1994"
+          },
+          "live": true,
+          "captions": true
+        },
+        {
+          "id": "hope",
+          "word": "Hope",
+          "person": "Terry Fox",
+          "channel": "Terry Fox Foundation",
+          "title": "The Terry Fox Story",
+          "youtubeId": "f1QOtPDAAeY",
+          "segments": [
+            {
+              "start": 0,
+              "end": 244
+            }
+          ],
+          "intro": "Hope. At 21, Terry Fox decided to run across Canada. One marathon a day. Every day. For 143 days. To give others hope.",
+          "quote": {
+            "text": "I just wish people would realize that anything’s possible if you try; dreams are made possible if you try.",
+            "source": "terryfox.org"
+          },
+          "live": true
+        },
+        {
+          "id": "change",
+          "word": "Change",
+          "person": "Mahatma Gandhi",
+          "channel": "British Pathé",
+          "title": "Gandhi in 5 Minutes | 20th Century Hall of Fame",
+          "youtubeId": "codWemzsW40",
+          "segments": [
+            {
+              "start": 0,
+              "end": 279
+            }
+          ],
+          "intro": "Change, from within. Gandhi traded London suits for homespun cloth. He pleaded guilty. He walked 24 days to pick up salt. He changed others.",
+          "quote": {
+            "text": "If we could change ourselves, the tendencies in the world would also change… We need not wait to see what others do.",
+            "source": "1913, the source of “Be the change”",
+            "by": "Mahatma Gandhi"
+          },
+          "live": true
+        },
+        {
+          "id": "authenticity",
+          "word": "Authenticity",
+          "person": "Freddie Mercury",
+          "channel": "Live Aid",
+          "title": "Queen - Hammer To Fall (Live Aid 1985)",
+          "youtubeId": "D5bzrb-v9Y0",
+          "segments": [
+            {
+              "start": 0,
+              "end": 288
+            }
+          ],
+          "intro": "Authenticity. Born to an Indian family in Africa, Farrokh Bulsara moved to London and became Freddie Mercury. Then millions of voices sang with him.",
+          "quote": {
+            "text": "I have to win people over, otherwise it’s not a successful gig.",
+            "source": "The Sun, 1985"
+          },
+          "live": true
+        },
+        {
+          "id": "mastery",
+          "word": "Mastery",
+          "person": "Leonardo da Vinci",
+          "channel": "NBC News Learn",
+          "title": "Leonardo Da Vinci, Renaissance Man",
+          "youtubeId": "MzNz-0Aw-vY",
+          "segments": [
+            {
+              "start": 0,
+              "end": 233
+            }
+          ],
+          "intro": "Mastery. Born outside marriage, with little schooling. Leonardo da Vinci watched the world so closely that he became a Renaissance genius, painter and inventor.",
+          "quote": {
+            "text": "Obstacles cannot crush me. Every obstacle yields to stern resolve.",
+            "source": "Leonardo’s notebooks (Richter 682)"
+          },
+          "live": true
+        },
+        {
+          "id": "creativity",
+          "word": "Creativity",
+          "person": "Elon Musk",
+          "channel": "SpaceX",
+          "title": "How Not to Land an Orbital Rocket Booster",
+          "youtubeId": "bvim4rsNHkQ",
+          "segments": [
+            {
+              "start": 0,
+              "end": 129
+            }
+          ],
+          "intro": "Creativity. For sixty years, first-stage rockets flew once. Elon Musk challenged this: Why can't rockets come back? Then his team did this…",
+          "quote": {
+            "text": "If something’s important enough, you should try, even if the probable outcome is failure.",
+            "source": "60 Minutes, March 30, 2014"
+          },
+          "live": true
+        },
+        {
+          "id": "discovery",
+          "word": "Discovery",
+          "person": "Marie Curie",
+          "channel": "TED-Ed",
+          "title": "The genius of Marie Curie - Shohini Ghose",
+          "youtubeId": "w6JFRi0Qm_s",
+          "segments": [
+            {
+              "start": 0,
+              "end": 303
+            }
+          ],
+          "intro": "Discovery. Banned from university, Maria studied in secret. She left for Paris with almost nothing. Meet Marie Curie.",
+          "quote": {
+            "text": "One never notices what has been done; one can only see what remains to be done.",
+            "source": "letter to her brother, 1894"
+          },
+          "live": true
+        }
+      ]
+    },
+    {
+      "id": "more-than-gold",
+      "name": "More Than Gold",
+      "icon": "trophy",
+      "status": "active",
+      "tagline": "Twelve moments from the Games. The lesson is not the medal.",
+      "intro": "More Than Gold. What makes it possible? Around the world, children play their own Olympic Games. Bottle caps, wrapped in gold paper, become medals. A park bench becomes a podium. Every four years, thousands of volunteers give their time to serve. What makes it possible? It is the flame of the Games. Here are twelve of its sparks.",
+      "items": [
+        {
+          "id": "fair-play",
+          "word": "Fair Play",
+          "person": "Nikki Hamblin & Abbey D’Agostino",
+          "channel": "Olympics",
+          "title": "Hamblin and D’Agostino: the spirit of Rio 2016",
+          "youtubeId": "dCVlRFWOjgE",
+          "segments": [
+            {
+              "start": 0,
+              "end": 159
+            }
+          ],
+          "intro": "Fair Play. Two runners from opposite sides of the world. They have never met. In minutes, they will never forget each other.",
+          "quote": {
+            "text": "That girl is the Olympic spirit right there.",
+            "source": "Rio 2016 (Fox News/AP)",
+            "by": "Nikki Hamblin"
+          },
+          "live": true
+        },
+        {
+          "id": "sharing",
+          "word": "Sharing",
+          "person": "Gianmarco Tamberi & Mutaz Essa Barshim",
+          "channel": "Olympics",
+          "title": "Tamberi and Barshim share high jump gold, Tokyo 2020",
+          "youtubeId": "8pzFZqUVjb4",
+          "segments": [
+            {
+              "start": 0,
+              "end": 198
+            }
+          ],
+          "intro": "Sharing. Two rivals, friends for years. Both clear 2.37 metres. Both miss 2.39. One Olympic final, only one gold.",
+          "quote": {
+            "text": "Can we have two golds?",
+            "source": "Tokyo 2020 (Oman Observer/AFP)",
+            "by": "Mutaz Essa Barshim"
+          },
+          "live": true
+        },
+        {
+          "id": "daring",
+          "word": "Daring",
+          "person": "The Jamaican bobsleigh team",
+          "channel": "CBC",
+          "title": "Jamaica’s first bobsleigh team trains for Calgary (1987)",
+          "youtubeId": "Ks8cULxfJSc",
+          "segments": [
+            {
+              "start": 0,
+              "end": 137
+            }
+          ],
+          "intro": "Daring. A Caribbean island. Sun, sea… and no snow. A few young men have a winter dream.",
+          "quote": {
+            "text": "Certainly, it was very difficult, but we never felt that we wouldn’t be able to achieve it.",
+            "source": "Olympics.com",
+            "by": "Devon Harris"
+          },
+          "live": true
+        },
+        {
+          "id": "grit",
+          "word": "Grit",
+          "person": "John Stephen Akhwari",
+          "channel": "Olympics",
+          "title": "The Olympic legend who finished in last place",
+          "youtubeId": "lzn_mAsNaU4",
+          "segments": [
+            {
+              "start": 37,
+              "end": 260
+            }
+          ],
+          "intro": "Grit. His parents taught him one thing: what you start, you finish. On this night, John remembers their words.",
+          "quote": {
+            "text": "My country did not send me 5,000 miles to start the race; they sent me 5,000 miles to finish the race.",
+            "source": "Mexico City, 1968",
+            "by": "John Stephen Akhwari"
+          },
+          "live": true
+        },
+        {
+          "id": "family",
+          "word": "Family",
+          "person": "Derek and Jim Redmond",
+          "channel": "Olympics",
+          "title": "Derek Redmond’s 400m, Barcelona 1992",
+          "youtubeId": "yrboO72eJKg",
+          "segments": [
+            {
+              "start": 208,
+              "end": 362
+            }
+          ],
+          "intro": "Family. Years of training, injury after injury. His father, there from the start. Now, Derek lines up.",
+          "quote": {
+            "text": "We started this thing together and now we’ll finish it together.",
+            "source": "to his son Derek (Scroll.in)",
+            "by": "Jim Redmond"
+          },
+          "live": true
+        },
+        {
+          "id": "vision",
+          "word": "Vision",
+          "person": "Pierre de Coubertin",
+          "channel": "Sotheby’s",
+          "title": "Pierre de Coubertin and the Olympic manifesto",
+          "youtubeId": "Oy257hipU1s",
+          "segments": [
+            {
+              "start": 0,
+              "end": 71
+            }
+          ],
+          "intro": "Vision. A young Frenchman dreams of bringing the world together through sport. Where did it all begin? With Pierre’s pen.",
+          "quote": {
+            "text": "The important thing in life is not the triumph but the struggle; the essential thing is not to have conquered but to have fought well.",
+            "source": "the Olympic Creed",
+            "by": "Pierre de Coubertin"
+          },
+          "live": true
+        },
+        {
+          "id": "humanity",
+          "word": "Humanity",
+          "person": "Jesse Owens",
+          "channel": "HISTORY",
+          "title": "Jesse Owens at the 1936 Berlin Games",
+          "youtubeId": "XmoxNWQcvmo",
+          "segments": [
+            {
+              "start": 0,
+              "end": 300
+            }
+          ],
+          "intro": "Humanity. Berlin, 1936. The host wants these Games to prove one race is better. Then Jesse meets the host’s hope.",
+          "quote": {
+            "text": "Friendship born on the field of athletic strife is the real gold of competition. Awards become corroded, friends gather no dust.",
+            "source": "“My Greatest Olympic Prize”",
+            "by": "Jesse Owens"
+          },
+          "live": true
+        },
+        {
+          "id": "opportunity",
+          "word": "Opportunity",
+          "person": "Alex Zanardi",
+          "channel": "Paralympic Games",
+          "title": "Alex Zanardi, London 2012",
+          "youtubeId": "sKfrNKqUWTk",
+          "segments": [
+            {
+              "start": 0,
+              "end": 77
+            }
+          ],
+          "intro": "Opportunity. A racing driver’s life changes in one afternoon. Years later, Alex returns to a racetrack. A new race begins.",
+          "quote": {
+            "text": "I’ve started to think the accident was the greatest opportunity of my life.",
+            "source": "Motor Sport, 2016",
+            "by": "Alex Zanardi"
+          },
+          "live": true
+        },
+        {
+          "id": "resilience",
+          "word": "Resilience",
+          "person": "Gail Devers",
+          "channel": "Olympics",
+          "title": "Gail Devers, Barcelona 1992",
+          "youtubeId": "ERdwMXSTmyM",
+          "segments": [
+            {
+              "start": 0,
+              "end": 269
+            }
+          ],
+          "intro": "Resilience. Not long ago, she could barely walk. Doctors almost took her feet. Now, Gail’s feet have a promise to keep.",
+          "quote": {
+            "text": "I believe I’m stronger at having to go through what I went through.",
+            "source": "CNN, 2021",
+            "by": "Gail Devers"
+          },
+          "live": true
+        },
+        {
+          "id": "possibility",
+          "word": "Possibility",
+          "person": "Sitting volleyball players",
+          "channel": "Paralympic Games",
+          "title": "Sitting volleyball",
+          "youtubeId": "uXLSzwJoT4M",
+          "segments": [
+            {
+              "start": 0,
+              "end": 137
+            }
+          ],
+          "intro": "Possibility. They lost their legs, or the use of them. Not their love for the game. So the game changed for them.",
+          "quote": {
+            "text": "Look up at the stars and not down at your feet.",
+            "source": "London 2012 Paralympic Games",
+            "by": "Stephen Hawking"
+          },
+          "live": true
+        },
+        {
+          "id": "trust",
+          "word": "Trust",
+          "person": "Blind football players",
+          "channel": "Paralympic Games",
+          "title": "Football 5-a-side",
+          "youtubeId": "8Yc3Mj-IGUc",
+          "segments": [
+            {
+              "start": 0,
+              "end": 127
+            }
+          ],
+          "intro": "Trust. Four players, eyes covered. Voices guide them. Now, a whole stadium falls silent. Listen closely.",
+          "quote": {
+            "text": "The way to make people trust-worthy is to trust them.",
+            "source": "Selected Letters 1917–1961",
+            "by": "Ernest Hemingway"
+          },
+          "live": true
+        },
+        {
+          "id": "belonging",
+          "word": "Belonging",
+          "person": "Yusra Mardini",
+          "channel": "Olympics",
+          "title": "From Syria to Rio 2016: the story of Yusra Mardini",
+          "youtubeId": "1REQm6TIBR0",
+          "segments": [
+            {
+              "start": 0,
+              "end": 202
+            }
+          ],
+          "intro": "Belonging. For the first time, athletes with no country to compete for get a team of their own. Yusra is one of them.",
+          "quote": {
+            "text": "When you’re an athlete no one can ask, ‘where you’re from?’ You’re an athlete.",
+            "source": "Rio 2016 press conference (HuffPost/AP)",
+            "by": "Yusra Mardini"
+          },
+          "live": true
+        }
+      ]
+    },
+    {
+      "id": "c1v0",
+      "name": "Twelve Seeds",
+      "icon": "sprout",
+      "status": "active",
+      "tagline": "Twelve stories from nature and old wisdom. Each one, a seed.",
+      "intro": "Twelve Seeds. Every tree began as a seed. A seed looks like nothing. Yet inside, a whole tree is waiting. Here are twelve stories, twelve seeds. In each of us, they can grow into a tree, or stay a seed. The choice is ours.",
+      "items": [
+        {
+          "id": "patience",
+          "word": "Patience",
+          "person": "A bamboo seed",
+          "channel": "Piuli",
+          "title": "A Piuli Story",
+          "youtubeId": null,
+          "segments": [],
+          "intro": "Patience. You act, every day. You wait. You act, and you wait. Still, no results. Nature has an answer.",
+          "live": false,
+          "quote": {
+            "text": "Adopt the pace of Nature: her secret is patience.",
+            "by": "Ralph Waldo Emerson",
+            "source": "Education"
+          }
+        },
+        {
+          "id": "leadership",
+          "word": "Leadership",
+          "person": "Birds flying in a V",
+          "channel": "Seeker",
+          "title": "Why birds fly in a V",
+          "youtubeId": "pB6XSixrCC8",
+          "segments": [
+            {
+              "start": 0,
+              "end": 124
+            }
+          ],
+          "intro": "Leadership. Look up at the sky. A long V of birds passes by. Someone flies in front. But who? And why?",
+          "live": true,
+          "quote": {
+            "text": "The servant-leader is servant first.",
+            "by": "Robert K. Greenleaf",
+            "source": "The Servant as Leader, 1970"
+          }
+        },
+        {
+          "id": "responsibility",
+          "word": "Responsibility",
+          "person": "Wangari Maathai",
+          "channel": "Dirt! The Movie",
+          "title": "I will be a hummingbird",
+          "youtubeId": "IGMW6YWjMxw",
+          "segments": [
+            {
+              "start": 0,
+              "end": 121
+            }
+          ],
+          "intro": "Responsibility. A huge challenge appears. Everyone watches… sure nothing can be done. Wait. Really? Listen to Wangari.",
+          "live": true,
+          "quote": {
+            "text": "Look at the word responsibility—“response-ability”—the ability to choose your response.",
+            "by": "Stephen R. Covey",
+            "source": "The 7 Habits of Highly Effective People"
+          }
+        },
+        {
+          "id": "determination",
+          "word": "Determination",
+          "person": "The salmon",
+          "channel": "Nat Geo Animals",
+          "title": "The salmon’s journey upstream",
+          "youtubeId": "aPf4qtCDRtE",
+          "segments": [
+            {
+              "start": 0,
+              "end": 171
+            }
+          ],
+          "intro": "Determination. Your goal is upstream. The current pushes you back, again and again. What keeps you going? Watch the salmon.",
+          "live": true,
+          "quote": {
+            "text": "Fall seven times, stand up eight.",
+            "by": "Japanese proverb",
+            "source": "Nana korobi ya oki"
+          }
+        },
+        {
+          "id": "perspective",
+          "word": "Perspective",
+          "person": "The Chinese farmer",
+          "channel": "After Skool",
+          "title": "Maybe: the story of the Chinese farmer",
+          "youtubeId": "j4TZMxkxySc",
+          "segments": [
+            {
+              "start": 0,
+              "end": 107
+            }
+          ],
+          "intro": "Perspective. Things happen, every day. Good, or bad? Everyone has an answer. How can we know? Listen to the farmer.",
+          "live": true,
+          "quote": {
+            "text": "There is nothing either good or bad, but thinking makes it so.",
+            "by": "William Shakespeare",
+            "source": "Hamlet, Act 2, Scene 2"
+          }
+        },
+        {
+          "id": "letting-go",
+          "word": "Letting go",
+          "person": "Two monks",
+          "channel": "Piuli",
+          "title": "A Piuli Story",
+          "youtubeId": null,
+          "segments": [],
+          "intro": "Letting go. Something happened hours ago. Days ago. Years ago. What are we still carrying? Let’s walk with two monks.",
+          "live": false,
+          "quote": {
+            "text": "Letting go gives us freedom, and freedom is the only condition for happiness.",
+            "by": "Thich Nhat Hanh",
+            "source": "The Heart of the Buddha’s Teaching"
+          }
+        },
+        {
+          "id": "freedom",
+          "word": "Freedom",
+          "person": "A monk and a cow",
+          "channel": "Piuli",
+          "title": "A Piuli Story",
+          "youtubeId": null,
+          "segments": [],
+          "intro": "Freedom. Like a railing, something holds us steady. Nothing changes. Nothing improves. What happens without it?",
+          "live": false,
+          "quote": {
+            "text": "A ship in harbor is safe, but that is not what ships are built for.",
+            "by": "John A. Shedd",
+            "source": "Salt from My Attic, 1928"
+          }
+        },
+        {
+          "id": "choice",
+          "word": "Choice",
+          "person": "An old story",
+          "channel": "Anasazi Foundation",
+          "title": "The two wolves",
+          "youtubeId": "x95_BTeanI8",
+          "segments": [
+            {
+              "start": 0,
+              "end": 209
+            }
+          ],
+          "intro": "Choice. A critique. A compliment. Both wait for our response. Who decides it? Listen to an old story.",
+          "live": true,
+          "quote": {
+            "text": "Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.",
+            "by": "Viktor Frankl",
+            "source": "Man’s Search for Meaning"
+          }
+        },
+        {
+          "id": "action",
+          "word": "Action",
+          "person": "A mentor and a rock",
+          "channel": "Piuli",
+          "title": "A Piuli Story",
+          "youtubeId": null,
+          "segments": [],
+          "intro": "Action. We want it. We plan it. We talk about it. But the goal stays far away. Why?",
+          "live": false,
+          "quote": {
+            "text": "Do. Or do not. There is no try.",
+            "by": "Yoda",
+            "source": "The Empire Strikes Back, 1980"
+          }
+        },
+        {
+          "id": "legacy",
+          "word": "Legacy",
+          "person": "Monarch butterflies",
+          "channel": "National Geographic",
+          "title": "Monarch migration and metamorphosis",
+          "youtubeId": "bZdIyCeahXk",
+          "segments": [
+            {
+              "start": 0,
+              "end": 286
+            }
+          ],
+          "intro": "Legacy. Life is a long journey. One day, our body grows tired. Is that the end?",
+          "live": true,
+          "quote": {
+            "text": "He plants trees to benefit another generation.",
+            "by": "Caecilius Statius",
+            "source": "quoted by Cicero, On Old Age"
+          }
+        },
+        {
+          "id": "solidarity",
+          "word": "Solidarity",
+          "person": "Emperor penguins",
+          "channel": "Nature on PBS",
+          "title": "Emperor penguins huddle for warmth",
+          "youtubeId": "OL7O5O7U4Gs",
+          "segments": [
+            {
+              "start": 0,
+              "end": 163
+            }
+          ],
+          "intro": "Solidarity. Challenges come to everyone. Some of us stand protected. Others face the hardest part. Forever?",
+          "live": true,
+          "quote": {
+            "text": "Alone we can do so little; together we can do so much.",
+            "by": "Helen Keller",
+            "source": "in Joseph Lash, Helen and Teacher, 1980"
+          }
+        },
+        {
+          "id": "leap",
+          "word": "Leap",
+          "person": "Emperor penguin chicks",
+          "channel": "National Geographic",
+          "title": "Emperor penguin chicks jump off a 50-foot cliff",
+          "youtubeId": "4PwDFddpo4c",
+          "segments": [
+            {
+              "start": 0,
+              "end": 271
+            }
+          ],
+          "intro": "Leap. We stand at the edge of something new. Ahead, the unknown. Behind, everything we know. What do we do?",
+          "live": true,
+          "quote": {
+            "text": "To venture causes anxiety, but not to venture is to lose oneself.",
+            "by": "Søren Kierkegaard",
+            "source": "The Sickness Unto Death, 1849"
+          }
+        }
+      ]
+    },
+    {
+      "id": "c2v0",
+      "name": "Upbeat World",
+      "icon": "music",
+      "status": "active",
+      "tagline": "Twelve songs the world sings together.",
+      "intro": "Upbeat World. Every culture has its music. Every heart has a beat. Some songs were born in hard times, and still they lift us. From Honolulu to Mogadishu, from Liverpool to Tucumán, here are twelve songs the world sings together. Listen, and feel the beat.",
+      "items": [
+        {
+          "id": "rise",
+          "word": "Rise",
+          "person": "K'naan",
+          "channel": "KnaanVEVO",
+          "title": "Wavin’ Flag",
+          "youtubeId": "VrurenhpPxE",
+          "segments": [
+            {
+              "start": 0,
+              "end": 218
+            }
+          ],
+          "intro": "Rise. A boy grows up in war. Years later, he sings for that boy. Listen to K'naan.",
+          "live": true,
+          "quote": {
+            "text": "I feel so very lucky. It’s all an incredible dream in motion.",
+            "by": "K'naan",
+            "source": "Maclean’s, 2010"
+          }
+        },
+        {
+          "id": "wonder",
+          "word": "Wonder",
+          "person": "Louis Armstrong",
+          "channel": "Louis Armstrong",
+          "title": "What a Wonderful World (At the BBC)",
+          "youtubeId": "CaCSuzR4DwM",
+          "segments": [
+            {
+              "start": 0,
+              "end": 135
+            }
+          ],
+          "intro": "Wonder. 1967. War fills the news. A different song. The boss hates it. Louis sings it anyway.",
+          "live": true,
+          "quote": {
+            "text": "There’s so much in ‘Wonderful World’ that brings me back to my neighborhood where I live in Corona, New York… it’s just like one big family.",
+            "by": "Louis Armstrong",
+            "source": "interview, 1968"
+          }
+        },
+        {
+          "id": "triumph",
+          "word": "Triumph",
+          "person": "Freddie Mercury and Queen",
+          "channel": "Queen Official",
+          "title": "We Are the Champions (Official Video)",
+          "youtubeId": "04854XqcfCY",
+          "segments": [
+            {
+              "start": 0,
+              "end": 179
+            }
+          ],
+          "intro": "Triumph. Freddie thinks of football crowds. From the World Cup to lacrosse, champions sing his song. Why this one?",
+          "live": true,
+          "quote": {
+            "text": "I wanted a participation song, something that the fans could latch on to.",
+            "by": "Freddie Mercury",
+            "source": "on writing the song (Songfacts)"
+          }
+        },
+        {
+          "id": "rhythm",
+          "word": "Rhythm",
+          "person": "Sérgio Mendes",
+          "channel": "North Sea Jazz Archive",
+          "title": "Mas Que Nada, live at North Sea Jazz, 2008",
+          "youtubeId": "1mNuPVoHkSw",
+          "segments": [
+            {
+              "start": 0,
+              "end": 285
+            }
+          ],
+          "intro": "Rhythm. 1964. A young Brazilian musician moves to California. Samba in his hands. Bossa in his heart. Can anyone beat Sérgio’s rhythm?",
+          "live": true,
+          "quote": {
+            "text": "…the diversity that I love about Brazilian music: the rhythms, the melody, the joy.",
+            "by": "Sérgio Mendes",
+            "source": "NPR, 2020"
+          },
+          "titleMeaning": "roughly “No way!”",
+          "translateCaptions": true
+        },
+        {
+          "id": "celebration",
+          "word": "Celebration",
+          "person": "A.R. Rahman",
+          "channel": "Nobel Peace Prize Concert",
+          "title": "Jai Ho, Nobel Peace Prize Concert 2010",
+          "youtubeId": "0PRzlpvHLPE",
+          "segments": [
+            {
+              "start": 0,
+              "end": 223
+            }
+          ],
+          "intro": "Celebration. At nine, a boy loses his father. He plays piano to feed the family. One day, Rahman writes a song to celebrate.",
+          "live": true,
+          "quote": {
+            "text": "All my life, I had a choice of hate and love. I chose love and I’m here.",
+            "by": "A.R. Rahman",
+            "source": "accepting the Oscar for Jai Ho, 2009"
+          },
+          "titleMeaning": "“May you be victorious”",
+          "translateCaptions": true
+        },
+        {
+          "id": "dreams",
+          "word": "Dreams",
+          "person": "Israel “IZ” Kamakawiwoʻole",
+          "channel": "Mountain Apple Company",
+          "title": "Somewhere Over the Rainbow / What a Wonderful World",
+          "youtubeId": "V1bFr2SWP1I",
+          "segments": [
+            {
+              "start": 0,
+              "end": 207
+            }
+          ],
+          "intro": "Dreams. Honolulu, 3:30 in the morning. Iz wants to record, now. One voice. One ukulele. One take.",
+          "live": true,
+          "quote": {
+            "text": "I’m not scared for myself for dying. Because we Hawaiians, we live in both worlds.",
+            "by": "Israel Kamakawiwoʻole",
+            "source": "NPR, The Voice of Hawaii"
+          }
+        },
+        {
+          "id": "light",
+          "word": "Light",
+          "person": "Chris Martin and Coldplay",
+          "channel": "Coldplay",
+          "title": "A Sky Full of Stars (Official Video)",
+          "youtubeId": "VPRjCeoBqrI",
+          "segments": [
+            {
+              "start": 0,
+              "end": 233
+            }
+          ],
+          "intro": "Light. A busy street in Sydney. A man walks by, singing alone. Others join him. Can you listen without dancing?",
+          "live": true,
+          "quote": {
+            "text": "That song is unashamedly happy and danceable because that’s what it needed to be.",
+            "by": "Chris Martin",
+            "source": "Fuse, 2014"
+          }
+        },
+        {
+          "id": "oneness",
+          "word": "Oneness",
+          "person": "Bob Marley",
+          "channel": "BobMarleyVEVO",
+          "title": "One Love (in support of UNICEF)",
+          "youtubeId": "wXLumLvHWfA",
+          "segments": [
+            {
+              "start": 0,
+              "end": 206
+            }
+          ],
+          "intro": "Oneness. Gunmen attack a singer at his home. Two days later, he sings for 80,000 people. Bob has one message.",
+          "live": true,
+          "quote": {
+            "text": "Reggae is a vehicle to carry the message of freedom and peace.",
+            "by": "Bob Marley",
+            "source": "interview after the Boston show, 1980"
+          }
+        },
+        {
+          "id": "victory",
+          "word": "Victory",
+          "person": "Luciano Pavarotti",
+          "channel": "Warner Classics",
+          "title": "Nessun dorma, The Three Tenors in Concert 1994",
+          "youtubeId": "cWc7vYjgnTs",
+          "segments": [
+            {
+              "start": 0,
+              "end": 186
+            }
+          ],
+          "intro": "Victory. A composer dies before finishing his opera. On opening night, the conductor stops where the music ends. Luciano brings it to life.",
+          "live": true,
+          "quote": {
+            "text": "In this there is all the hope of a man.",
+            "by": "Luciano Pavarotti",
+            "source": "The New Yorker, 1993"
+          },
+          "titleMeaning": "“None shall sleep”",
+          "translateCaptions": true
+        },
+        {
+          "id": "peace",
+          "word": "Peace",
+          "person": "John Lennon",
+          "channel": "johnlennon",
+          "title": "Imagine (Ultimate Mix, 2020)",
+          "youtubeId": "YkgkThdzX-8",
+          "segments": [
+            {
+              "start": 0,
+              "end": 228
+            }
+          ],
+          "intro": "Peace. Yoko writes a small book that asks us to imagine. John sits at the piano. What if?",
+          "live": true,
+          "quote": {
+            "text": "Yoko actually helped a lot with the lyrics, but I wasn’t man enough to let her have credit for it.",
+            "by": "John Lennon",
+            "source": "All We Are Saying (David Sheff), 1980"
+          }
+        },
+        {
+          "id": "brotherhood",
+          "word": "Brotherhood",
+          "person": "Beethoven, and a town in Spain",
+          "channel": "Banco Sabadell",
+          "title": "Ode to Joy: Som Sabadell flashmob",
+          "youtubeId": "GBaHPND2QJg",
+          "segments": [
+            {
+              "start": 0,
+              "end": 340
+            }
+          ],
+          "intro": "Brotherhood. Vienna. Beside the conductor stands a man who cannot hear. The last note fades. Does Ludwig hear the crowd?",
+          "live": true,
+          "quote": {
+            "text": "All people become brothers.",
+            "by": "Friedrich Schiller",
+            "source": "Ode to Joy (1785), set to music by Beethoven"
+          }
+        },
+        {
+          "id": "gratitude",
+          "word": "Gratitude",
+          "person": "Mercedes Sosa",
+          "channel": "Mercedes Sosa",
+          "title": "Gracias a la vida, live in Lugano, 1980",
+          "youtubeId": "qR4fwenppPQ",
+          "segments": [
+            {
+              "start": 0,
+              "end": 265
+            }
+          ],
+          "intro": "Gratitude. Violeta writes a song. A singer is arrested on stage, then banned at home. Far away, Mercedes remembers her.",
+          "live": true,
+          "quote": {
+            "text": "Violeta Parra meant to me… finding songs that stayed with me.",
+            "by": "Mercedes Sosa",
+            "source": "TVN, Pé a Pa (1990s)"
+          },
+          "titleMeaning": "“Thanks to life”",
+          "translateCaptions": true
+        }
+      ]
+    },
+    {
+      "id": "c3v0",
+      "name": "Champions",
+      "icon": "flag",
+      "status": "coming",
+      "items": []
+    },
+    {
+      "id": "c4v0",
+      "name": "Great Speeches",
+      "icon": "mic",
+      "status": "coming",
+      "items": []
+    },
+    {
+      "id": "c5v0",
+      "name": "Talks That Change Minds",
+      "icon": "bulb",
+      "status": "coming",
+      "items": []
+    },
+    {
+      "id": "c6v0",
+      "name": "Wisdom for Life",
+      "icon": "book",
+      "status": "coming",
+      "items": []
+    },
+    {
+      "id": "c7v0",
+      "name": "Leaders Who Changed the World",
+      "icon": "globe",
+      "status": "coming",
+      "items": []
+    },
+    {
+      "id": "c9v0",
+      "name": "Clean Laughter",
+      "icon": "smile",
+      "status": "coming",
+      "items": []
+    },
+    {
+      "id": "c11v0",
+      "name": "Ads That Moved Us",
+      "icon": "screen",
+      "status": "coming",
+      "items": []
+    }
+  ]
+}
