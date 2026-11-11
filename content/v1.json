@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": "2026-11-10.1",
+  "version": "2026-11-10.2",
   "collections": [
     {
       "id": "human-greatness",
@@ -767,27 +767,6 @@
       "intro": "Upbeat World. Every culture has its music. Every heart has a beat. Some songs were born in hard times, and still they lift us. From Seoul to Kingston, from London to Melbourne, here are twelve songs the world sings together. Listen, and feel the beat.",
       "items": [
         {
-          "id": "rise",
-          "word": "Rise",
-          "person": "K'naan",
-          "channel": "KnaanVEVO",
-          "title": "Wavin’ Flag",
-          "youtubeId": "VrurenhpPxE",
-          "segments": [
-            {
-              "start": 0,
-              "end": 218
-            }
-          ],
-          "intro": "Rise. A boy grows up in war. Years later, he sings for that boy. Listen to K'naan.",
-          "live": true,
-          "quote": {
-            "text": "I feel so very lucky. It’s all an incredible dream in motion.",
-            "by": "K'naan",
-            "source": "Maclean’s, 2010"
-          }
-        },
-        {
           "id": "smile",
           "word": "Smile",
           "person": "Pharrell Williams",
@@ -806,27 +785,6 @@
             "text": "It was like no longer my song.",
             "by": "Pharrell Williams",
             "source": "Oprah Prime, 2014"
-          }
-        },
-        {
-          "id": "triumph",
-          "word": "Triumph",
-          "person": "Freddie Mercury and Queen",
-          "channel": "Queen Official",
-          "title": "We Are the Champions (Official Video)",
-          "youtubeId": "04854XqcfCY",
-          "segments": [
-            {
-              "start": 0,
-              "end": 179
-            }
-          ],
-          "intro": "Triumph. Freddie thinks of football crowds. From the World Cup to lacrosse, champions sing his song. Why this one?",
-          "live": true,
-          "quote": {
-            "text": "I wanted a participation song, something that the fans could latch on to.",
-            "by": "Freddie Mercury",
-            "source": "on writing the song (Songfacts)"
           }
         },
         {
@@ -852,88 +810,24 @@
           "titleMeaning": "roughly “No way!”"
         },
         {
-          "id": "celebration",
-          "word": "Celebration",
-          "person": "A.R. Rahman",
-          "channel": "Nobel Peace Prize Concert",
-          "title": "Jai Ho, Nobel Peace Prize Concert 2010",
-          "youtubeId": "0PRzlpvHLPE",
+          "id": "rise",
+          "word": "Rise",
+          "person": "K'naan",
+          "channel": "KnaanVEVO",
+          "title": "Wavin’ Flag",
+          "youtubeId": "VrurenhpPxE",
           "segments": [
             {
               "start": 0,
-              "end": 223
+              "end": 218
             }
           ],
-          "intro": "Celebration. At nine, a boy loses his father. He plays piano to feed the family. One day, Rahman writes a song to celebrate.",
+          "intro": "Rise. A boy grows up in war. Years later, he sings for that boy. Listen to K'naan.",
           "live": true,
           "quote": {
-            "text": "All my life, I had a choice of hate and love. I chose love and I’m here.",
-            "by": "A.R. Rahman",
-            "source": "accepting the Oscar for Jai Ho, 2009"
-          },
-          "titleMeaning": "“May you be victorious”"
-        },
-        {
-          "id": "adventure",
-          "word": "Adventure",
-          "person": "Colin Hay and Men at Work",
-          "channel": "Men At Work",
-          "title": "Down Under (Official Video)",
-          "youtubeId": "XfR9iY5y94s",
-          "segments": [
-            {
-              "start": 0,
-              "end": 210
-            }
-          ],
-          "intro": "Adventure. At 14, Colin leaves Scotland for a land on the other side of the world. What does he find there?",
-          "live": true,
-          "quote": {
-            "text": "It is actually about ultimately celebrating the country.",
-            "by": "Colin Hay",
-            "source": "Songfacts interview"
-          }
-        },
-        {
-          "id": "light",
-          "word": "Light",
-          "person": "Chris Martin and Coldplay",
-          "channel": "Coldplay",
-          "title": "A Sky Full of Stars (Official Video)",
-          "youtubeId": "VPRjCeoBqrI",
-          "segments": [
-            {
-              "start": 0,
-              "end": 233
-            }
-          ],
-          "intro": "Light. A busy street in Sydney. A man walks by, singing alone. Others join him. Can you listen without dancing?",
-          "live": true,
-          "quote": {
-            "text": "That song is unashamedly happy and danceable because that’s what it needed to be.",
-            "by": "Chris Martin",
-            "source": "Fuse, 2014"
-          }
-        },
-        {
-          "id": "oneness",
-          "word": "Oneness",
-          "person": "Bob Marley",
-          "channel": "BobMarleyVEVO",
-          "title": "One Love (in support of UNICEF)",
-          "youtubeId": "wXLumLvHWfA",
-          "segments": [
-            {
-              "start": 0,
-              "end": 206
-            }
-          ],
-          "intro": "Oneness. Gunmen attack a singer at his home. Two days later, he sings for 80,000 people. Bob has one message.",
-          "live": true,
-          "quote": {
-            "text": "Reggae is a vehicle to carry the message of freedom and peace.",
-            "by": "Bob Marley",
-            "source": "interview after the Boston show, 1980"
+            "text": "I feel so very lucky. It’s all an incredible dream in motion.",
+            "by": "K'naan",
+            "source": "Maclean’s, 2010"
           }
         },
         {
@@ -960,6 +854,69 @@
           "translateCaptions": true
         },
         {
+          "id": "adventure",
+          "word": "Adventure",
+          "person": "Colin Hay and Men at Work",
+          "channel": "Men At Work",
+          "title": "Down Under (Official Video)",
+          "youtubeId": "XfR9iY5y94s",
+          "segments": [
+            {
+              "start": 0,
+              "end": 210
+            }
+          ],
+          "intro": "Adventure. At 14, Colin leaves Scotland for a land on the other side of the world. What does he find there?",
+          "live": true,
+          "quote": {
+            "text": "It is actually about ultimately celebrating the country.",
+            "by": "Colin Hay",
+            "source": "Songfacts interview"
+          }
+        },
+        {
+          "id": "oneness",
+          "word": "Oneness",
+          "person": "Bob Marley",
+          "channel": "BobMarleyVEVO",
+          "title": "One Love (in support of UNICEF)",
+          "youtubeId": "wXLumLvHWfA",
+          "segments": [
+            {
+              "start": 0,
+              "end": 206
+            }
+          ],
+          "intro": "Oneness. Gunmen attack a singer at his home. Two days later, he sings for 80,000 people. Bob has one message.",
+          "live": true,
+          "quote": {
+            "text": "Reggae is a vehicle to carry the message of freedom and peace.",
+            "by": "Bob Marley",
+            "source": "interview after the Boston show, 1980"
+          }
+        },
+        {
+          "id": "triumph",
+          "word": "Triumph",
+          "person": "Freddie Mercury and Queen",
+          "channel": "Queen Official",
+          "title": "We Are the Champions (Official Video)",
+          "youtubeId": "04854XqcfCY",
+          "segments": [
+            {
+              "start": 0,
+              "end": 179
+            }
+          ],
+          "intro": "Triumph. Freddie thinks of football crowds. From the World Cup to lacrosse, champions sing his song. Why this one?",
+          "live": true,
+          "quote": {
+            "text": "I wanted a participation song, something that the fans could latch on to.",
+            "by": "Freddie Mercury",
+            "source": "on writing the song (Songfacts)"
+          }
+        },
+        {
           "id": "life",
           "word": "Life",
           "person": "Marc Anthony",
@@ -982,27 +939,6 @@
           "titleMeaning": "“Live my life”"
         },
         {
-          "id": "brotherhood",
-          "word": "Brotherhood",
-          "person": "Beethoven, and a town in Spain",
-          "channel": "Banco Sabadell",
-          "title": "Ode to Joy: Som Sabadell flashmob",
-          "youtubeId": "GBaHPND2QJg",
-          "segments": [
-            {
-              "start": 0,
-              "end": 340
-            }
-          ],
-          "intro": "Brotherhood. Vienna. Beside the conductor stands a man who cannot hear. The last note fades. Does Ludwig hear the crowd?",
-          "live": true,
-          "quote": {
-            "text": "All people become brothers.",
-            "by": "Friedrich Schiller",
-            "source": "Ode to Joy (1785), set to music by Beethoven"
-          }
-        },
-        {
           "id": "colour",
           "word": "Colour",
           "person": "Kizz Daniel and Tekno",
@@ -1023,6 +959,70 @@
             "source": "The Breakfast Club, 2022"
           },
           "titleMeaning": "“show off your success”"
+        },
+        {
+          "id": "light",
+          "word": "Light",
+          "person": "Chris Martin and Coldplay",
+          "channel": "Coldplay",
+          "title": "A Sky Full of Stars (Official Video)",
+          "youtubeId": "VPRjCeoBqrI",
+          "segments": [
+            {
+              "start": 0,
+              "end": 233
+            }
+          ],
+          "intro": "Light. A busy street in Sydney. A man walks by, singing alone. Others join him. Can you listen without dancing?",
+          "live": true,
+          "quote": {
+            "text": "That song is unashamedly happy and danceable because that’s what it needed to be.",
+            "by": "Chris Martin",
+            "source": "Fuse, 2014"
+          }
+        },
+        {
+          "id": "celebration",
+          "word": "Celebration",
+          "person": "A.R. Rahman",
+          "channel": "Nobel Peace Prize Concert",
+          "title": "Jai Ho, Nobel Peace Prize Concert 2010",
+          "youtubeId": "0PRzlpvHLPE",
+          "segments": [
+            {
+              "start": 0,
+              "end": 223
+            }
+          ],
+          "intro": "Celebration. At nine, a boy loses his father. He plays piano to feed the family. One day, Rahman writes a song to celebrate.",
+          "live": true,
+          "quote": {
+            "text": "All my life, I had a choice of hate and love. I chose love and I’m here.",
+            "by": "A.R. Rahman",
+            "source": "accepting the Oscar for Jai Ho, 2009"
+          },
+          "titleMeaning": "“May you be victorious”"
+        },
+        {
+          "id": "brotherhood",
+          "word": "Brotherhood",
+          "person": "Beethoven, and a town in Spain",
+          "channel": "Banco Sabadell",
+          "title": "Ode to Joy: Som Sabadell flashmob",
+          "youtubeId": "GBaHPND2QJg",
+          "segments": [
+            {
+              "start": 0,
+              "end": 340
+            }
+          ],
+          "intro": "Brotherhood. Vienna. Beside the conductor stands a man who cannot hear. The last note fades. Does Ludwig hear the crowd?",
+          "live": true,
+          "quote": {
+            "text": "All people become brothers.",
+            "by": "Friedrich Schiller",
+            "source": "Ode to Joy (1785), set to music by Beethoven"
+          }
         }
       ]
     },
