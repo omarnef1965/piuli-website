@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": "2026-11-07.1",
+  "version": "2026-11-10.1",
   "collections": [
     {
       "id": "human-greatness",
@@ -764,7 +764,7 @@
       "icon": "music",
       "status": "active",
       "tagline": "Twelve songs the world sings together.",
-      "intro": "Upbeat World. Every culture has its music. Every heart has a beat. Some songs were born in hard times, and still they lift us. From Honolulu to Mogadishu, from Liverpool to Tucumán, here are twelve songs the world sings together. Listen, and feel the beat.",
+      "intro": "Upbeat World. Every culture has its music. Every heart has a beat. Some songs were born in hard times, and still they lift us. From Seoul to Kingston, from London to Melbourne, here are twelve songs the world sings together. Listen, and feel the beat.",
       "items": [
         {
           "id": "rise",
@@ -788,24 +788,24 @@
           }
         },
         {
-          "id": "wonder",
-          "word": "Wonder",
-          "person": "Louis Armstrong",
-          "channel": "Louis Armstrong",
-          "title": "What a Wonderful World (At the BBC)",
-          "youtubeId": "CaCSuzR4DwM",
+          "id": "smile",
+          "word": "Smile",
+          "person": "Pharrell Williams",
+          "channel": "Pharrell Williams",
+          "title": "Happy (Official Video)",
+          "youtubeId": "ZbZSe6N_BXs",
           "segments": [
             {
               "start": 0,
-              "end": 135
+              "end": 230
             }
           ],
-          "intro": "Wonder. 1967. War fills the news. A different song. The boss hates it. Louis sings it anyway.",
+          "intro": "Smile. Nine songs for a children's movie. Nine times rejected. Tired, Pharrell writes number ten.",
           "live": true,
           "quote": {
-            "text": "There’s so much in ‘Wonderful World’ that brings me back to my neighborhood where I live in Corona, New York… it’s just like one big family.",
-            "by": "Louis Armstrong",
-            "source": "interview, 1968"
+            "text": "It was like no longer my song.",
+            "by": "Pharrell Williams",
+            "source": "Oprah Prime, 2014"
           }
         },
         {
@@ -849,8 +849,7 @@
             "by": "Sérgio Mendes",
             "source": "NPR, 2020"
           },
-          "titleMeaning": "roughly “No way!”",
-          "translateCaptions": true
+          "titleMeaning": "roughly “No way!”"
         },
         {
           "id": "celebration",
@@ -872,28 +871,27 @@
             "by": "A.R. Rahman",
             "source": "accepting the Oscar for Jai Ho, 2009"
           },
-          "titleMeaning": "“May you be victorious”",
-          "translateCaptions": true
+          "titleMeaning": "“May you be victorious”"
         },
         {
-          "id": "dreams",
-          "word": "Dreams",
-          "person": "Israel “IZ” Kamakawiwoʻole",
-          "channel": "Mountain Apple Company",
-          "title": "Somewhere Over the Rainbow / What a Wonderful World",
-          "youtubeId": "V1bFr2SWP1I",
+          "id": "adventure",
+          "word": "Adventure",
+          "person": "Colin Hay and Men at Work",
+          "channel": "Men At Work",
+          "title": "Down Under (Official Video)",
+          "youtubeId": "XfR9iY5y94s",
           "segments": [
             {
               "start": 0,
-              "end": 207
+              "end": 210
             }
           ],
-          "intro": "Dreams. Honolulu, 3:30 in the morning. Iz wants to record, now. One voice. One ukulele. One take.",
+          "intro": "Adventure. At 14, Colin leaves Scotland for a land on the other side of the world. What does he find there?",
           "live": true,
           "quote": {
-            "text": "I’m not scared for myself for dying. Because we Hawaiians, we live in both worlds.",
-            "by": "Israel Kamakawiwoʻole",
-            "source": "NPR, The Voice of Hawaii"
+            "text": "It is actually about ultimately celebrating the country.",
+            "by": "Colin Hay",
+            "source": "Songfacts interview"
           }
         },
         {
@@ -939,48 +937,49 @@
           }
         },
         {
-          "id": "victory",
-          "word": "Victory",
-          "person": "Luciano Pavarotti",
-          "channel": "Warner Classics",
-          "title": "Nessun dorma, The Three Tenors in Concert 1994",
-          "youtubeId": "cWc7vYjgnTs",
+          "id": "play",
+          "word": "Play",
+          "person": "PSY",
+          "channel": "officialpsy",
+          "title": "Gangnam Style (Official Video)",
+          "youtubeId": "9bZkp7q19f0",
           "segments": [
             {
               "start": 0,
-              "end": 186
+              "end": 246
             }
           ],
-          "intro": "Victory. A composer dies before finishing his opera. On opening night, the conductor stops where the music ends. Luciano brings it to life.",
+          "intro": "Play. Growing up, we forget it. We worry how we look. In Seoul, PSY doesn't. The world plays along.",
           "live": true,
           "quote": {
-            "text": "In this there is all the hope of a man.",
-            "by": "Luciano Pavarotti",
-            "source": "The New Yorker, 1993"
+            "text": "Dress classy and dance cheesy.",
+            "by": "PSY",
+            "source": "Ryan Seacrest interview, 2012"
           },
-          "titleMeaning": "“None shall sleep”",
+          "titleMeaning": "“the style of Gangnam”, a rich part of Seoul",
           "translateCaptions": true
         },
         {
-          "id": "peace",
-          "word": "Peace",
-          "person": "John Lennon",
-          "channel": "johnlennon",
-          "title": "Imagine (Ultimate Mix, 2020)",
-          "youtubeId": "YkgkThdzX-8",
+          "id": "life",
+          "word": "Life",
+          "person": "Marc Anthony",
+          "channel": "Marc Anthony",
+          "title": "Vivir Mi Vida (Official Video)",
+          "youtubeId": "YXnjy5YlDwk",
           "segments": [
             {
-              "start": 0,
-              "end": 228
+              "start": 26,
+              "end": 315
             }
           ],
-          "intro": "Peace. Yoko writes a small book that asks us to imagine. John sits at the piano. What if?",
+          "intro": "Life. Heavy days. Light days. They just come. How we live them is our choice. Marc sings his.",
           "live": true,
           "quote": {
-            "text": "Yoko actually helped a lot with the lyrics, but I wasn’t man enough to let her have credit for it.",
-            "by": "John Lennon",
-            "source": "All We Are Saying (David Sheff), 1980"
-          }
+            "text": "Life happens, life doesn’t stop because I am on stage.",
+            "by": "Marc Anthony",
+            "source": "El Diario NY, 2014"
+          },
+          "titleMeaning": "“Live my life”"
         },
         {
           "id": "brotherhood",
@@ -1004,27 +1003,26 @@
           }
         },
         {
-          "id": "gratitude",
-          "word": "Gratitude",
-          "person": "Mercedes Sosa",
-          "channel": "Mercedes Sosa",
-          "title": "Gracias a la vida, live in Lugano, 1980",
-          "youtubeId": "qR4fwenppPQ",
+          "id": "colour",
+          "word": "Colour",
+          "person": "Kizz Daniel and Tekno",
+          "channel": "Kizz Daniel",
+          "title": "Buga (Official Video)",
+          "youtubeId": "bLF90M96m2Q",
           "segments": [
             {
               "start": 0,
-              "end": 265
+              "end": 175
             }
           ],
-          "intro": "Gratitude. Violeta writes a song. A singer is arrested on stage, then banned at home. Far away, Mercedes remembers her.",
+          "intro": "Colour. A dream comes true after years. Some of us keep it quiet. Kizz Daniel paints the town.",
           "live": true,
           "quote": {
-            "text": "Violeta Parra meant to me… finding songs that stayed with me.",
-            "by": "Mercedes Sosa",
-            "source": "TVN, Pé a Pa (1990s)"
+            "text": "It means to unapologetically flaunt your success.",
+            "by": "Kizz Daniel",
+            "source": "The Breakfast Club, 2022"
           },
-          "titleMeaning": "“Thanks to life”",
-          "translateCaptions": true
+          "titleMeaning": "“show off your success”"
         }
       ]
     },
