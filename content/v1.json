@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": "2026-11-10.2",
+  "version": "2026-11-11.1",
   "collections": [
     {
       "id": "human-greatness",
@@ -571,7 +571,7 @@
           "segments": [
             {
               "start": 0,
-              "end": 121
+              "end": 116
             }
           ],
           "intro": "Responsibility. A huge challenge appears. Everyone watches… sure nothing can be done. Wait. Really? Listen to Wangari.",
@@ -723,8 +723,8 @@
           "youtubeId": "OL7O5O7U4Gs",
           "segments": [
             {
-              "start": 0,
-              "end": 163
+              "start": 8,
+              "end": 164
             }
           ],
           "intro": "Solidarity. Challenges come to everyone. Some of us stand protected. Others face the hardest part. Forever?",
@@ -745,7 +745,7 @@
           "segments": [
             {
               "start": 0,
-              "end": 271
+              "end": 265
             }
           ],
           "intro": "Leap. We stand at the edge of something new. Ahead, the unknown. Behind, everything we know. What do we do?",
