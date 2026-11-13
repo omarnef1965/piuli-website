@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": "2026-11-11.1",
+  "version": "2026-11-12.2",
   "collections": [
     {
       "id": "human-greatness",
@@ -28,6 +28,12 @@
             "text": "You can’t connect the dots looking forward; you can only connect them looking backward.",
             "source": "Stanford, 2005"
           },
+          "clue": "Connect the dots",
+          "glyph": [
+            "M3 12a9 9 0 1 0 18 0a9 9 0 1 0-18 0",
+            "M7 12a5 5 0 1 0 10 0a5 5 0 1 0-10 0",
+            "M11 12a1 1 0 1 0 2 0a1 1 0 1 0-2 0"
+          ],
           "live": true
         },
         {
@@ -48,6 +54,10 @@
             "text": "My father always told me: ‘Tony, you have to try… you have to do it by yourself!’",
             "source": "in an interview"
           },
+          "clue": "Guitar with feet",
+          "glyph": [
+            "M3 20l6-8 3 3 5-8 4 13z"
+          ],
           "live": true
         },
         {
@@ -68,6 +78,11 @@
             "text": "The only tired I was, was tired of giving in.",
             "source": "her autobiography, 1992"
           },
+          "clue": "The bus seat",
+          "glyph": [
+            "M9.6 5a2.4 2.4 0 1 0 4.8 0a2.4 2.4 0 1 0-4.8 0",
+            "M7.5 21v-7.5a4.5 4.5 0 0 1 9 0V21"
+          ],
           "live": true
         },
         {
@@ -88,6 +103,10 @@
             "text": "It is not how much we do, but how much love we put in the action that we do.",
             "source": "Nobel lecture, 1979"
           },
+          "clue": "India's slums",
+          "glyph": [
+            "M12 9.8C10.6 6.2 7.4 5 5.4 6.4S3.4 11.6 5.9 14.3L12 20l6.1-5.7c2.5-2.7 2.5-6.5.5-7.9S13.4 6.2 12 9.8z"
+          ],
           "live": true
         },
         {
@@ -108,6 +127,11 @@
             "text": "Only if we understand can we care. Only if we care will we help. Only if we help shall all be saved.",
             "source": "Jane Goodall Institute"
           },
+          "clue": "Notebook in forest",
+          "glyph": [
+            "M8 7.8a4 4 0 1 1 6 3.4c-1.3.7-2 1.7-2 3.1V15.5",
+            "M12 19.5v.01"
+          ],
           "live": true
         },
         {
@@ -128,8 +152,12 @@
             "text": "I learned that courage was not the absence of fear, but the triumph over it.",
             "source": "Long Walk to Freedom, 1994"
           },
-          "live": true,
-          "captions": true
+          "captions": true,
+          "clue": "1964 trial",
+          "glyph": [
+            "M12 21.5c-4.3 0-7-2.8-7-6.7 0-3.9 3.2-5.7 3.5-10.1 2.8 1.7 4.1 4.1 4.1 6.3 1.1-1 1.7-2.2 1.8-3.6 2.4 1.8 4.6 4.6 4.6 7.4 0 3.9-2.7 6.7-7 6.7z"
+          ],
+          "live": true
         },
         {
           "id": "hope",
@@ -141,7 +169,7 @@
           "segments": [
             {
               "start": 0,
-              "end": 244
+              "end": 218
             }
           ],
           "intro": "Hope. At 21, Terry Fox decided to run across Canada. One marathon a day. Every day. For 143 days. To give others hope.",
@@ -149,6 +177,12 @@
             "text": "I just wish people would realize that anything’s possible if you try; dreams are made possible if you try.",
             "source": "terryfox.org"
           },
+          "clue": "143 days",
+          "glyph": [
+            "M3 18h18",
+            "M8 18a4 4 0 0 1 8 0",
+            "M6.2 16.4L4.3 15.9 M8.3 13.2L7.1 11.7 M12.0 12.0L12.0 10.0 M15.7 13.2L16.9 11.7 M17.8 16.4L19.7 15.9"
+          ],
           "live": true
         },
         {
@@ -170,6 +204,15 @@
             "source": "1913, the source of “Be the change”",
             "by": "Mahatma Gandhi"
           },
+          "clue": "Salt march",
+          "glyph": [
+            "M12 8v11",
+            "M12 10.5C8.5 4 3 4 3 8.5S7.5 13.5 12 12",
+            "M12 10.5c3.5-6.5 9-6.5 9-2S16.5 13.5 12 12",
+            "M12 13c-3.5 0-7 1.5-6 4.5s4.5 1.5 6-2",
+            "M12 13c3.5 0 7 1.5 6 4.5s-4.5 1.5-6-2",
+            "M12 8l-1.8-3.5M12 8l1.8-3.5"
+          ],
           "live": true
         },
         {
@@ -190,6 +233,15 @@
             "text": "I have to win people over, otherwise it’s not a successful gig.",
             "source": "The Sun, 1985"
           },
+          "clue": "Farrokh Bulsara",
+          "glyph": [
+            "M8 20c-.8-2-1.2-4-1.2-6.5a5.2 5.2 0 0 1 10.4 0c0 1 0 2-.2 3",
+            "M11 20.5c-.8-2.2-1.2-4.4-1.2-7a2.2 2.2 0 0 1 4.4 0c0 2.5.5 4.8 1.3 6.6",
+            "M12 13.5c0 2.6.5 5 1.4 7",
+            "M5 16c-.4-1-.6-2-.6-3a7.6 7.6 0 0 1 13-5.4",
+            "M19.3 10.5c.2.8.3 1.6.3 2.5",
+            "M6.2 5.5A9.8 9.8 0 0 1 17.8 5.5"
+          ],
           "live": true
         },
         {
@@ -210,6 +262,10 @@
             "text": "Obstacles cannot crush me. Every obstacle yields to stern resolve.",
             "source": "Leonardo’s notebooks (Richter 682)"
           },
+          "clue": "Every obstacle yields",
+          "glyph": [
+            "M3 20h5v-5h5v-5h5V5h3"
+          ],
           "live": true
         },
         {
@@ -230,6 +286,12 @@
             "text": "If something’s important enough, you should try, even if the probable outcome is failure.",
             "source": "60 Minutes, March 30, 2014"
           },
+          "clue": "Rockets come back",
+          "glyph": [
+            "M12 21L6.5 10.5 9 4h6l2.5 6.5z",
+            "M12 12.6V21",
+            "M10.8 11.4a1.2 1.2 0 1 0 2.4 0a1.2 1.2 0 1 0-2.4 0"
+          ],
           "live": true
         },
         {
@@ -250,6 +312,11 @@
             "text": "One never notices what has been done; one can only see what remains to be done.",
             "source": "letter to her brother, 1894"
           },
+          "clue": "Studied in secret",
+          "glyph": [
+            "M4 10a6.5 6.5 0 1 0 13 0a6.5 6.5 0 1 0-13 0",
+            "M15 15l5.5 5.5"
+          ],
           "live": true
         }
       ]
@@ -257,7 +324,7 @@
     {
       "id": "more-than-gold",
       "name": "More Than Gold",
-      "icon": "trophy",
+      "icon": "heart",
       "status": "active",
       "tagline": "Twelve moments from the Games. The lesson is not the medal.",
       "intro": "More Than Gold. What makes it possible? Around the world, children play their own Olympic Games. Bottle caps, wrapped in gold paper, become medals. A park bench becomes a podium. Every four years, thousands of volunteers give their time to serve. What makes it possible? It is the flame of the Games. Here are twelve of its sparks.",
@@ -281,6 +348,14 @@
             "source": "Rio 2016 (Fox News/AP)",
             "by": "Nikki Hamblin"
           },
+          "clue": "Helping a rival",
+          "glyph": [
+            "M12 4v16",
+            "M8 20h8",
+            "M5 7h14",
+            "M5 7l-3 6h6zM2 13a3 3 0 0 0 6 0",
+            "M19 7l-3 6h6zM16 13a3 3 0 0 0 6 0"
+          ],
           "live": true
         },
         {
@@ -302,6 +377,11 @@
             "source": "Tokyo 2020 (Oman Observer/AFP)",
             "by": "Mutaz Essa Barshim"
           },
+          "clue": "Two golds?",
+          "glyph": [
+            "M3 12a9 9 0 1 0 18 0a9 9 0 1 0-18 0",
+            "M12 3.5v2.5M12 8.5v2.5M12 13v2.5M12 17.5v2.5"
+          ],
           "live": true
         },
         {
@@ -323,6 +403,10 @@
             "source": "Olympics.com",
             "by": "Devon Harris"
           },
+          "clue": "Caribbean bobsleigh",
+          "glyph": [
+            "M 15.39 1.73 L 6.65 12.80 L 10.84 13.93 L 8.01 22.11 L 16.75 11.04 L 12.56 9.91 Z"
+          ],
           "live": true
         },
         {
@@ -344,6 +428,11 @@
             "source": "Mexico City, 1968",
             "by": "John Stephen Akhwari"
           },
+          "clue": "Finish the race",
+          "glyph": [
+            "M3 19l4-5 3 3 4-7 2 3 5-6",
+            "M17.5 7H21v3.5"
+          ],
           "live": true
         },
         {
@@ -365,6 +454,15 @@
             "source": "to his son Derek (Scroll.in)",
             "by": "Jim Redmond"
           },
+          "clue": "Father on track",
+          "glyph": [
+            "M4 7a2 2 0 1 0 4 0a2 2 0 1 0-4 0",
+            "M3 20v-6a3 3 0 0 1 6 0v6",
+            "M16.2 8a1.8 1.8 0 1 0 3.6 0a1.8 1.8 0 1 0-3.6 0",
+            "M15.2 20v-5.5a2.8 2.8 0 0 1 5.6 0V20",
+            "M10.7 13a1.3 1.3 0 1 0 2.6 0a1.3 1.3 0 1 0-2.6 0",
+            "M10.5 20v-2.5a1.5 1.5 0 0 1 3 0V20"
+          ],
           "live": true
         },
         {
@@ -386,6 +484,11 @@
             "source": "the Olympic Creed",
             "by": "Pierre de Coubertin"
           },
+          "clue": "Pierre's pen",
+          "glyph": [
+            "M2 12s3.5-6.5 10-6.5S22 12 22 12s-3.5 6.5-10 6.5S2 12 2 12z",
+            "M9 12a3 3 0 1 0 6 0a3 3 0 1 0-6 0"
+          ],
           "live": true
         },
         {
@@ -407,6 +510,13 @@
             "source": "“My Greatest Olympic Prize”",
             "by": "Jesse Owens"
           },
+          "clue": "Berlin friendship",
+          "glyph": [
+            "M2.5 12a9.5 7.5 0 1 0 19 0a9.5 7.5 0 1 0-19 0",
+            "M2.5 12h19",
+            "M12 4.5a5 7.5 0 0 1 0 15a5 7.5 0 0 1 0-15",
+            "M12 4.5v15"
+          ],
           "live": true
         },
         {
@@ -428,6 +538,13 @@
             "source": "Motor Sport, 2016",
             "by": "Alex Zanardi"
           },
+          "clue": "Handbike racer",
+          "glyph": [
+            "M3 21V3h10v18",
+            "M1.5 21h12",
+            "M13 3l8.5 1.2v15.6L13 21z",
+            "M19.3 12h.01"
+          ],
           "live": true
         },
         {
@@ -449,6 +566,11 @@
             "source": "CNN, 2021",
             "by": "Gail Devers"
           },
+          "clue": "Feet almost lost",
+          "glyph": [
+            "M3 10h18c0 5-4 9-9 9s-9-4-9-9z",
+            "M10 10l1.5 3-2 2.5 1 3.5"
+          ],
           "live": true
         },
         {
@@ -470,6 +592,10 @@
             "source": "London 2012 Paralympic Games",
             "by": "Stephen Hawking"
           },
+          "clue": "Floor volleyball",
+          "glyph": [
+            "M12 12c-2-2.7-3.6-4-5.5-4a4 4 0 0 0 0 8c1.9 0 3.5-1.3 5.5-4s3.6-4 5.5-4a4 4 0 0 1 0 8c-1.9 0-3.5-1.3-5.5-4z"
+          ],
           "live": true
         },
         {
@@ -491,6 +617,12 @@
             "source": "Selected Letters 1917–1961",
             "by": "Ernest Hemingway"
           },
+          "clue": "Guiding voices",
+          "glyph": [
+            "M2.10 12.00A3.9 2.7 0 1 0 9.90 12.00A3.9 2.7 0 1 0 2.10 12.00Z",
+            "M8.10 12.00A3.9 1.2 0 1 0 15.90 12.00A3.9 1.2 0 1 0 8.10 12.00Z",
+            "M14.10 12.00A3.9 2.7 0 1 0 21.90 12.00A3.9 2.7 0 1 0 14.10 12.00Z"
+          ],
           "live": true
         },
         {
@@ -512,6 +644,12 @@
             "source": "Rio 2016 press conference (HuffPost/AP)",
             "by": "Yusra Mardini"
           },
+          "clue": "Refugee team",
+          "glyph": [
+            "M3 11l9-7 9 7",
+            "M5 9.5V20h14V9.5",
+            "M12 16.6s-3.4-2-3.4-4.6a1.9 1.9 0 0 1 3.4-1.2 1.9 1.9 0 0 1 3.4 1.2c0 2.6-3.4 4.6-3.4 4.6z"
+          ],
           "live": true
         }
       ]
@@ -533,12 +671,19 @@
           "youtubeId": null,
           "segments": [],
           "intro": "Patience. You act, every day. You wait. You act, and you wait. Still, no results. Nature has an answer.",
-          "live": false,
           "quote": {
             "text": "Adopt the pace of Nature: her secret is patience.",
             "by": "Ralph Waldo Emerson",
             "source": "Education"
-          }
+          },
+          "glyph": [
+            "M6 3h12",
+            "M6 21h12",
+            "M7 3c0 5 5 6 5 9s-5 4-5 9",
+            "M17 3c0 5-5 6-5 9s5 4 5 9",
+            "M9.5 19h5"
+          ],
+          "live": false
         },
         {
           "id": "leadership",
@@ -554,12 +699,20 @@
             }
           ],
           "intro": "Leadership. Look up at the sky. A long V of birds passes by. Someone flies in front. But who? And why?",
-          "live": true,
           "quote": {
             "text": "The servant-leader is servant first.",
             "by": "Robert K. Greenleaf",
             "source": "The Servant as Leader, 1970"
-          }
+          },
+          "clue": "V formation",
+          "glyph": [
+            "M7 21l1.3-10h2.4l1.3 10",
+            "M4.5 21h10",
+            "M8 11V7h3v4",
+            "M8 7l1.5-1.8L11 7",
+            "M11 8l10-3M11 10l10 3"
+          ],
+          "live": true
         },
         {
           "id": "responsibility",
@@ -575,12 +728,16 @@
             }
           ],
           "intro": "Responsibility. A huge challenge appears. Everyone watches… sure nothing can be done. Wait. Really? Listen to Wangari.",
-          "live": true,
           "quote": {
             "text": "Look at the word responsibility—“response-ability”—the ability to choose your response.",
             "by": "Stephen R. Covey",
             "source": "The 7 Habits of Highly Effective People"
-          }
+          },
+          "clue": "The hummingbird",
+          "glyph": [
+            "M12 3s6 6.5 6 11a6 6 0 0 1-12 0c0-4.5 6-11 6-11z"
+          ],
+          "live": true
         },
         {
           "id": "determination",
@@ -596,12 +753,18 @@
             }
           ],
           "intro": "Determination. Your goal is upstream. The current pushes you back, again and again. What keeps you going? Watch the salmon.",
-          "live": true,
           "quote": {
             "text": "Fall seven times, stand up eight.",
             "by": "Japanese proverb",
             "source": "Nana korobi ya oki"
-          }
+          },
+          "clue": "Swimming upstream",
+          "glyph": [
+            "M3 12h14",
+            "M13 7l5 5-5 5",
+            "M21 3v6M21 15v6"
+          ],
+          "live": true
         },
         {
           "id": "perspective",
@@ -617,12 +780,18 @@
             }
           ],
           "intro": "Perspective. Things happen, every day. Good, or bad? Everyone has an answer. How can we know? Listen to the farmer.",
-          "live": true,
           "quote": {
             "text": "There is nothing either good or bad, but thinking makes it so.",
             "by": "William Shakespeare",
             "source": "Hamlet, Act 2, Scene 2"
-          }
+          },
+          "clue": "The farmer's maybe",
+          "glyph": [
+            "M12 3l8 4.5v9L12 21l-8-4.5v-9z",
+            "M4 7.5l8 4.5 8-4.5",
+            "M12 12v9"
+          ],
+          "live": true
         },
         {
           "id": "letting-go",
@@ -633,12 +802,20 @@
           "youtubeId": null,
           "segments": [],
           "intro": "Letting go. Something happened hours ago. Days ago. Years ago. What are we still carrying? Let’s walk with two monks.",
-          "live": false,
           "quote": {
             "text": "Letting go gives us freedom, and freedom is the only condition for happiness.",
             "by": "Thich Nhat Hanh",
             "source": "The Heart of the Buddha’s Teaching"
-          }
+          },
+          "glyph": [
+            "M3 11a4.6 5.3 0 1 0 9.2 0a4.6 5.3 0 1 0-9.2 0",
+            "M6.8 16.3l.8 1 .8-1",
+            "M7.6 17.3c-1 1.7-1 3 .4 4.7",
+            "M15 4.6a2.8 3.2 0 1 0 5.6 0a2.8 3.2 0 1 0-5.6 0",
+            "M17.2 7.8l.6.7.6-.7",
+            "M17.8 8.5c-.7 1.3-.7 2.3.3 3.8"
+          ],
+          "live": false
         },
         {
           "id": "freedom",
@@ -649,12 +826,17 @@
           "youtubeId": null,
           "segments": [],
           "intro": "Freedom. Like a railing, something holds us steady. Nothing changes. Nothing improves. What happens without it?",
-          "live": false,
           "quote": {
             "text": "A ship in harbor is safe, but that is not what ships are built for.",
             "by": "John A. Shedd",
             "source": "Salt from My Attic, 1928"
-          }
+          },
+          "glyph": [
+            "M2.00 13.65Q4.42 8.70 7.50 14.31Q10.58 8.70 13.00 13.65",
+            "M14.00 8.12Q15.65 4.75 17.75 8.57Q19.85 4.75 21.50 8.12",
+            "M14.50 16.90Q15.82 14.20 17.50 17.26Q19.18 14.20 20.50 16.90"
+          ],
+          "live": false
         },
         {
           "id": "choice",
@@ -670,12 +852,22 @@
             }
           ],
           "intro": "Choice. A critique. A compliment. Both wait for our response. Who decides it? Listen to an old story.",
-          "live": true,
           "quote": {
             "text": "Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.",
             "by": "Viktor Frankl",
             "source": "Man’s Search for Meaning"
-          }
+          },
+          "clue": "Two wolves",
+          "glyph": [
+            "M2 12h9",
+            "M11 12h10",
+            "M18.8 9.8L21 12l-2.2 2.2",
+            "M11 12c3 0 4-2 4-7.5",
+            "M12.8 6.7L15 4.5l2.2 2.2",
+            "M11 12c3 0 4 2 4 7.5",
+            "M12.8 17.3L15 19.5l2.2-2.2"
+          ],
+          "live": true
         },
         {
           "id": "action",
@@ -686,12 +878,17 @@
           "youtubeId": null,
           "segments": [],
           "intro": "Action. We want it. We plan it. We talk about it. But the goal stays far away. Why?",
-          "live": false,
           "quote": {
             "text": "Do. Or do not. There is no try.",
             "by": "Yoda",
             "source": "The Empire Strikes Back, 1980"
-          }
+          },
+          "glyph": [
+            "M9 12h11",
+            "M16 8l4 4-4 4",
+            "M3 8h4M2 12h4M3 16h4"
+          ],
+          "live": false
         },
         {
           "id": "legacy",
@@ -707,12 +904,17 @@
             }
           ],
           "intro": "Legacy. Life is a long journey. One day, our body grows tired. Is that the end?",
-          "live": true,
           "quote": {
             "text": "He plants trees to benefit another generation.",
             "by": "Caecilius Statius",
             "source": "quoted by Cicero, On Old Age"
-          }
+          },
+          "clue": "Monarch migration",
+          "glyph": [
+            "M12 3l5 6h-3l4 5h-4l3 4H7l3-4H6l4-5H7z",
+            "M12 18v3"
+          ],
+          "live": true
         },
         {
           "id": "solidarity",
@@ -728,12 +930,19 @@
             }
           ],
           "intro": "Solidarity. Challenges come to everyone. Some of us stand protected. Others face the hardest part. Forever?",
-          "live": true,
           "quote": {
             "text": "Alone we can do so little; together we can do so much.",
             "by": "Helen Keller",
             "source": "in Joseph Lash, Helen and Teacher, 1980"
-          }
+          },
+          "clue": "The warm huddle",
+          "glyph": [
+            "M5.1 10.5a1.9 1.9 0 1 0 3.8 0a1.9 1.9 0 1 0-3.8 0",
+            "M10.1 7.6a1.9 1.9 0 1 0 3.8 0a1.9 1.9 0 1 0-3.8 0",
+            "M15.1 10.5a1.9 1.9 0 1 0 3.8 0a1.9 1.9 0 1 0-3.8 0",
+            "M3 20.5c0-4.6 4-7.7 9-7.7s9 3.1 9 7.7"
+          ],
+          "live": true
         },
         {
           "id": "leap",
@@ -749,12 +958,20 @@
             }
           ],
           "intro": "Leap. We stand at the edge of something new. Ahead, the unknown. Behind, everything we know. What do we do?",
-          "live": true,
           "quote": {
             "text": "To venture causes anxiety, but not to venture is to lose oneself.",
             "by": "Søren Kierkegaard",
             "source": "The Sickness Unto Death, 1849"
-          }
+          },
+          "clue": "The cliff jump",
+          "glyph": [
+            "M5 21h14",
+            "M8 21v-1.5l8-2-8-2 8-2-8-2 8-2V9",
+            "M7 9h10",
+            "M12 7V2",
+            "M9.8 4.2L12 2l2.2 2.2"
+          ],
+          "live": true
         }
       ]
     },
@@ -780,12 +997,18 @@
             }
           ],
           "intro": "Smile. Nine songs for a children's movie. Nine times rejected. Tired, Pharrell writes number ten.",
-          "live": true,
           "quote": {
             "text": "It was like no longer my song.",
             "by": "Pharrell Williams",
             "source": "Oprah Prime, 2014"
-          }
+          },
+          "clue": "Rejected nine times",
+          "glyph": [
+            "M3 12a9 9 0 1 0 18 0a9 9 0 1 0-18 0",
+            "M8 14.5c1 1.8 2.4 2.6 4 2.6s3-.8 4-2.6",
+            "M9 9.5v1.2M15 9.5v1.2"
+          ],
+          "live": true
         },
         {
           "id": "rhythm",
@@ -801,13 +1024,17 @@
             }
           ],
           "intro": "Rhythm. 1964. A young Brazilian musician moves to California. Samba in his hands. Bossa in his heart. Can anyone beat Sérgio’s rhythm?",
-          "live": true,
           "quote": {
             "text": "…the diversity that I love about Brazilian music: the rhythms, the melody, the joy.",
             "by": "Sérgio Mendes",
             "source": "NPR, 2020"
           },
-          "titleMeaning": "roughly “No way!”"
+          "titleMeaning": "roughly “No way!”",
+          "clue": "Samba from Brazil",
+          "glyph": [
+            "M4 10v4M8 6v12M12 9v6M16 4v16M20 8v8"
+          ],
+          "live": true
         },
         {
           "id": "rise",
@@ -823,12 +1050,18 @@
             }
           ],
           "intro": "Rise. A boy grows up in war. Years later, he sings for that boy. Listen to K'naan.",
-          "live": true,
           "quote": {
             "text": "I feel so very lucky. It’s all an incredible dream in motion.",
             "by": "K'naan",
             "source": "Maclean’s, 2010"
-          }
+          },
+          "clue": "Born into war",
+          "glyph": [
+            "M6 20l6-5 6 5",
+            "M6 14l6-5 6 5",
+            "M6 8l6-5 6 5"
+          ],
+          "live": true
         },
         {
           "id": "play",
@@ -844,14 +1077,21 @@
             }
           ],
           "intro": "Play. Growing up, we forget it. We worry how we look. In Seoul, PSY doesn't. The world plays along.",
-          "live": true,
           "quote": {
             "text": "Dress classy and dance cheesy.",
             "by": "PSY",
             "source": "Ryan Seacrest interview, 2012"
           },
           "titleMeaning": "“the style of Gangnam”, a rich part of Seoul",
-          "translateCaptions": true
+          "translateCaptions": true,
+          "clue": "Horse-riding dance",
+          "glyph": [
+            "M7.0 12a7.6 7.6 0 1 0 15.2 0a7.6 7.6 0 1 0 -15.2 0",
+            "M14.60 7.40L18.97 10.58L17.30 15.72L11.90 15.72L10.23 10.58Z",
+            "M14.60 7.40L14.60 4.40 M18.97 10.58L21.83 9.65 M17.30 15.72L19.07 18.15 M11.90 15.72L10.13 18.15 M10.23 10.58L7.37 9.65",
+            "M1.5 8.5h3.5M1 12h3M1.5 15.5h3.5"
+          ],
+          "live": true
         },
         {
           "id": "adventure",
@@ -867,12 +1107,17 @@
             }
           ],
           "intro": "Adventure. At 14, Colin leaves Scotland for a land on the other side of the world. What does he find there?",
-          "live": true,
           "quote": {
             "text": "It is actually about ultimately celebrating the country.",
             "by": "Colin Hay",
             "source": "Songfacts interview"
-          }
+          },
+          "clue": "Scotland to Australia",
+          "glyph": [
+            "M3 6l6-2 6 2 6-2v14l-6 2-6-2-6 2z",
+            "M9 4v14M15 6v14"
+          ],
+          "live": true
         },
         {
           "id": "oneness",
@@ -888,12 +1133,16 @@
             }
           ],
           "intro": "Oneness. Gunmen attack a singer at his home. Two days later, he sings for 80,000 people. Bob has one message.",
-          "live": true,
           "quote": {
             "text": "Reggae is a vehicle to carry the message of freedom and peace.",
             "by": "Bob Marley",
             "source": "interview after the Boston show, 1980"
-          }
+          },
+          "clue": "80,000 people",
+          "glyph": [
+            "M17.3 12.0a1.7 1.7 0 1 0 3.4 0a1.7 1.7 0 1 0-3.4 0 M13.8 18.1a1.7 1.7 0 1 0 3.4 0a1.7 1.7 0 1 0-3.4 0 M6.8 18.1a1.7 1.7 0 1 0 3.4 0a1.7 1.7 0 1 0-3.4 0 M3.3 12.0a1.7 1.7 0 1 0 3.4 0a1.7 1.7 0 1 0-3.4 0 M6.8 5.9a1.7 1.7 0 1 0 3.4 0a1.7 1.7 0 1 0-3.4 0 M13.8 5.9a1.7 1.7 0 1 0 3.4 0a1.7 1.7 0 1 0-3.4 0"
+          ],
+          "live": true
         },
         {
           "id": "triumph",
@@ -909,12 +1158,18 @@
             }
           ],
           "intro": "Triumph. Freddie thinks of football crowds. From the World Cup to lacrosse, champions sing his song. Why this one?",
-          "live": true,
           "quote": {
             "text": "I wanted a participation song, something that the fans could latch on to.",
             "by": "Freddie Mercury",
             "source": "on writing the song (Songfacts)"
-          }
+          },
+          "clue": "Football crowds",
+          "glyph": [
+            "M9.8 6a2.2 2.2 0 1 0 4.4 0a2.2 2.2 0 1 0-4.4 0",
+            "M8 21v-6.5a4 4 0 0 1 8 0V21",
+            "M8.7 12.2L5.2 4.2M15.3 12.2l3.5-8"
+          ],
+          "live": true
         },
         {
           "id": "life",
@@ -930,13 +1185,21 @@
             }
           ],
           "intro": "Life. Heavy days. Light days. They just come. How we live them is our choice. Marc sings his.",
-          "live": true,
           "quote": {
             "text": "Life happens, life doesn’t stop because I am on stage.",
             "by": "Marc Anthony",
             "source": "El Diario NY, 2014"
           },
-          "titleMeaning": "“Live my life”"
+          "titleMeaning": "“Live my life”",
+          "clue": "C'est la vie",
+          "glyph": [
+            "M12.00 9.40A3.5 3.1 -90 1 0 12.00 2.40A3.5 3.1 -90 1 0 12.00 9.40Z",
+            "M12.10 9.53A3.5 3.1 15 1 0 18.86 11.34A3.5 3.1 15 1 0 12.10 9.53Z",
+            "M11.90 9.53A3.5 3.1 165 1 0 5.14 11.34A3.5 3.1 165 1 0 11.90 9.53Z",
+            "M12 12.5c0 3.2-.3 5.6-1 8",
+            "M5 20.6h14"
+          ],
+          "live": true
         },
         {
           "id": "colour",
@@ -952,13 +1215,18 @@
             }
           ],
           "intro": "Colour. A dream comes true after years. Some of us keep it quiet. Kizz Daniel paints the town.",
-          "live": true,
           "quote": {
             "text": "It means to unapologetically flaunt your success.",
             "by": "Kizz Daniel",
             "source": "The Breakfast Club, 2022"
           },
-          "titleMeaning": "“show off your success”"
+          "titleMeaning": "“show off your success”",
+          "clue": "Show off success",
+          "glyph": [
+            "M12 3a9 9 0 0 0 0 18c1.4 0 2-1 2-2s-.8-1.5-.8-2.5 1-2 2.3-2H18a3 3 0 0 0 3-3c0-4.7-4-8.5-9-8.5z",
+            "M7.5 11h.01M9.5 7h.01M14.5 7h.01M17 10.5h.01"
+          ],
+          "live": true
         },
         {
           "id": "light",
@@ -974,12 +1242,19 @@
             }
           ],
           "intro": "Light. A busy street in Sydney. A man walks by, singing alone. Others join him. Can you listen without dancing?",
-          "live": true,
           "quote": {
             "text": "That song is unashamedly happy and danceable because that’s what it needed to be.",
             "by": "Chris Martin",
             "source": "Fuse, 2014"
-          }
+          },
+          "clue": "Sydney street singing",
+          "glyph": [
+            "M9.5 21v-9.5h5V21",
+            "M7.5 21h9",
+            "M12 9c-1.5 0-2.4-1-2.4-2.4 0-1.7 2.4-3.4 2.4-5 0 1.6 2.4 3.3 2.4 5 0 1.4-.9 2.4-2.4 2.4z",
+            "M5.5 6.5h1.8M16.7 6.5h1.8M6.6 2.8l1.3 1.2M17.4 2.8l-1.3 1.2"
+          ],
+          "live": true
         },
         {
           "id": "celebration",
@@ -995,13 +1270,19 @@
             }
           ],
           "intro": "Celebration. At nine, a boy loses his father. He plays piano to feed the family. One day, Rahman writes a song to celebrate.",
-          "live": true,
           "quote": {
             "text": "All my life, I had a choice of hate and love. I chose love and I’m here.",
             "by": "A.R. Rahman",
             "source": "accepting the Oscar for Jai Ho, 2009"
           },
-          "titleMeaning": "“May you be victorious”"
+          "titleMeaning": "“May you be victorious”",
+          "clue": "Oscar-winning song",
+          "glyph": [
+            "M4 20l4-11 7 7z",
+            "M15 3v2M20 6l-1.5 1M21 11h-2M11 3l.5 1.5",
+            "M13.5 9.5c.5-2 2.5-3 4.5-3"
+          ],
+          "live": true
         },
         {
           "id": "brotherhood",
@@ -1017,19 +1298,27 @@
             }
           ],
           "intro": "Brotherhood. Vienna. Beside the conductor stands a man who cannot hear. The last note fades. Does Ludwig hear the crowd?",
-          "live": true,
           "quote": {
             "text": "All people become brothers.",
             "by": "Friedrich Schiller",
             "source": "Ode to Joy (1785), set to music by Beethoven"
-          }
+          },
+          "clue": "A deaf composer",
+          "glyph": [
+            "M5 7a2 2 0 1 0 4 0a2 2 0 1 0-4 0",
+            "M15 7a2 2 0 1 0 4 0a2 2 0 1 0-4 0",
+            "M4 20v-6a3 3 0 0 1 6 0v6",
+            "M14 20v-6a3 3 0 0 1 6 0v6",
+            "M9.5 13.5c1.5-1.5 3.5-1.5 5 0"
+          ],
+          "live": true
         }
       ]
     },
     {
       "id": "c3v0",
       "name": "Champions",
-      "icon": "flag",
+      "icon": "trophy",
       "status": "coming",
       "items": []
     },
@@ -1057,14 +1346,14 @@
     {
       "id": "c7v0",
       "name": "Leaders Who Changed the World",
-      "icon": "globe",
+      "icon": "compass",
       "status": "coming",
       "items": []
     },
     {
       "id": "c9v0",
       "name": "Clean Laughter",
-      "icon": "smile",
+      "icon": "sun",
       "status": "coming",
       "items": []
     },
