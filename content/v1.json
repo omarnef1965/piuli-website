@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": "2026-11-13.2",
+  "version": "2026-11-13.3",
   "collections": [
     {
       "id": "human-greatness",
@@ -685,8 +685,8 @@
           ],
           "live": false,
           "introAudio": {
-            "url": "https://piuli.app/voices/twelve-seeds/patience.v2.m4a",
-            "seconds": 13.2
+            "url": "https://piuli.app/voices/twelve-seeds/patience.v3.m4a",
+            "seconds": 13.3
           }
         },
         {
@@ -718,8 +718,8 @@
           ],
           "live": true,
           "introAudio": {
-            "url": "https://piuli.app/voices/twelve-seeds/leadership.v2.m4a",
-            "seconds": 12.1
+            "url": "https://piuli.app/voices/twelve-seeds/leadership.v3.m4a",
+            "seconds": 12.2
           }
         },
         {
@@ -747,7 +747,7 @@
           ],
           "live": true,
           "introAudio": {
-            "url": "https://piuli.app/voices/twelve-seeds/responsibility.v2.m4a",
+            "url": "https://piuli.app/voices/twelve-seeds/responsibility.v3.m4a",
             "seconds": 14.2
           }
         },
@@ -778,8 +778,8 @@
           ],
           "live": true,
           "introAudio": {
-            "url": "https://piuli.app/voices/twelve-seeds/determination.v2.m4a",
-            "seconds": 14.6
+            "url": "https://piuli.app/voices/twelve-seeds/determination.v3.m4a",
+            "seconds": 14.7
           }
         },
         {
@@ -809,7 +809,7 @@
           ],
           "live": true,
           "introAudio": {
-            "url": "https://piuli.app/voices/twelve-seeds/perspective.v2.m4a",
+            "url": "https://piuli.app/voices/twelve-seeds/perspective.v3.m4a",
             "seconds": 14.5
           }
         },
@@ -837,8 +837,8 @@
           ],
           "live": false,
           "introAudio": {
-            "url": "https://piuli.app/voices/twelve-seeds/letting-go.v2.m4a",
-            "seconds": 14.2
+            "url": "https://piuli.app/voices/twelve-seeds/letting-go.v3.m4a",
+            "seconds": 14.3
           }
         },
         {
@@ -862,7 +862,7 @@
           ],
           "live": false,
           "introAudio": {
-            "url": "https://piuli.app/voices/twelve-seeds/freedom.v2.m4a",
+            "url": "https://piuli.app/voices/twelve-seeds/freedom.v3.m4a",
             "seconds": 12.1
           }
         },
@@ -897,8 +897,8 @@
           ],
           "live": true,
           "introAudio": {
-            "url": "https://piuli.app/voices/twelve-seeds/choice.v2.m4a",
-            "seconds": 13.4
+            "url": "https://piuli.app/voices/twelve-seeds/choice.v3.m4a",
+            "seconds": 13.5
           }
         },
         {
@@ -922,7 +922,7 @@
           ],
           "live": false,
           "introAudio": {
-            "url": "https://piuli.app/voices/twelve-seeds/action.v2.m4a",
+            "url": "https://piuli.app/voices/twelve-seeds/action.v3.m4a",
             "seconds": 12.4
           }
         },
@@ -952,7 +952,7 @@
           ],
           "live": true,
           "introAudio": {
-            "url": "https://piuli.app/voices/twelve-seeds/legacy.v2.m4a",
+            "url": "https://piuli.app/voices/twelve-seeds/legacy.v3.m4a",
             "seconds": 10.2
           }
         },
@@ -984,7 +984,7 @@
           ],
           "live": true,
           "introAudio": {
-            "url": "https://piuli.app/voices/twelve-seeds/solidarity.v2.m4a",
+            "url": "https://piuli.app/voices/twelve-seeds/solidarity.v3.m4a",
             "seconds": 12.9
           }
         },
@@ -1017,13 +1017,13 @@
           ],
           "live": true,
           "introAudio": {
-            "url": "https://piuli.app/voices/twelve-seeds/leap.v2.m4a",
-            "seconds": 14.0
+            "url": "https://piuli.app/voices/twelve-seeds/leap.v3.m4a",
+            "seconds": 14.1
           }
         }
       ],
       "introAudio": {
-        "url": "https://piuli.app/voices/twelve-seeds/welcome.v2.m4a",
+        "url": "https://piuli.app/voices/twelve-seeds/welcome.v3.m4a",
         "seconds": 24.5
       }
     },
@@ -1062,7 +1062,7 @@
           ],
           "live": true,
           "introAudio": {
-            "url": "https://piuli.app/voices/upbeat-world/smile.v2.m4a",
+            "url": "https://piuli.app/voices/upbeat-world/smile.v3.m4a",
             "seconds": 10.6
           }
         },
@@ -1092,7 +1092,7 @@
           ],
           "live": true,
           "introAudio": {
-            "url": "https://piuli.app/voices/upbeat-world/rhythm.v2.m4a",
+            "url": "https://piuli.app/voices/upbeat-world/rhythm.v3.m4a",
             "seconds": 15.5
           }
         },
@@ -1123,7 +1123,7 @@
           ],
           "live": true,
           "introAudio": {
-            "url": "https://piuli.app/voices/upbeat-world/rise.v2.m4a",
+            "url": "https://piuli.app/voices/upbeat-world/rise.v3.m4a",
             "seconds": 9.8
           }
         },
@@ -1157,7 +1157,7 @@
           ],
           "live": true,
           "introAudio": {
-            "url": "https://piuli.app/voices/upbeat-world/play.v2.m4a",
+            "url": "https://piuli.app/voices/upbeat-world/play.v3.m4a",
             "seconds": 12.1
           }
         },
@@ -1187,7 +1187,7 @@
           ],
           "live": true,
           "introAudio": {
-            "url": "https://piuli.app/voices/upbeat-world/adventure.v2.m4a",
+            "url": "https://piuli.app/voices/upbeat-world/adventure.v3.m4a",
             "seconds": 10.6
           }
         },
@@ -1216,7 +1216,7 @@
           ],
           "live": true,
           "introAudio": {
-            "url": "https://piuli.app/voices/upbeat-world/oneness.v2.m4a",
+            "url": "https://piuli.app/voices/upbeat-world/oneness.v3.m4a",
             "seconds": 13.4
           }
         },
@@ -1247,7 +1247,7 @@
           ],
           "live": true,
           "introAudio": {
-            "url": "https://piuli.app/voices/upbeat-world/triumph.v2.m4a",
+            "url": "https://piuli.app/voices/upbeat-world/triumph.v3.m4a",
             "seconds": 11.3
           }
         },
@@ -1281,7 +1281,7 @@
           ],
           "live": true,
           "introAudio": {
-            "url": "https://piuli.app/voices/upbeat-world/life.v2.m4a",
+            "url": "https://piuli.app/voices/upbeat-world/life.v3.m4a",
             "seconds": 12.7
           }
         },
@@ -1312,7 +1312,7 @@
           ],
           "live": true,
           "introAudio": {
-            "url": "https://piuli.app/voices/upbeat-world/colour.v2.m4a",
+            "url": "https://piuli.app/voices/upbeat-world/colour.v3.m4a",
             "seconds": 11.3
           }
         },
@@ -1344,7 +1344,7 @@
           ],
           "live": true,
           "introAudio": {
-            "url": "https://piuli.app/voices/upbeat-world/light.v2.m4a",
+            "url": "https://piuli.app/voices/upbeat-world/light.v3.m4a",
             "seconds": 10.8
           }
         },
@@ -1376,7 +1376,7 @@
           ],
           "live": true,
           "introAudio": {
-            "url": "https://piuli.app/voices/upbeat-world/celebration.v2.m4a",
+            "url": "https://piuli.app/voices/upbeat-world/celebration.v3.m4a",
             "seconds": 13.7
           }
         },
@@ -1409,13 +1409,13 @@
           ],
           "live": true,
           "introAudio": {
-            "url": "https://piuli.app/voices/upbeat-world/brotherhood.v2.m4a",
+            "url": "https://piuli.app/voices/upbeat-world/brotherhood.v3.m4a",
             "seconds": 12.6
           }
         }
       ],
       "introAudio": {
-        "url": "https://piuli.app/voices/upbeat-world/welcome.v2.m4a",
+        "url": "https://piuli.app/voices/upbeat-world/welcome.v3.m4a",
         "seconds": 24.2
       }
     },
