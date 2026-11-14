@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": "2026-11-12.2",
+  "version": "2026-11-13.1",
   "collections": [
     {
       "id": "human-greatness",
@@ -683,7 +683,11 @@
             "M17 3c0 5-5 6-5 9s5 4 5 9",
             "M9.5 19h5"
           ],
-          "live": false
+          "live": false,
+          "introAudio": {
+            "url": "https://piuli.app/voices/twelve-seeds/patience.m4a",
+            "seconds": 13.2
+          }
         },
         {
           "id": "leadership",
@@ -712,7 +716,11 @@
             "M8 7l1.5-1.8L11 7",
             "M11 8l10-3M11 10l10 3"
           ],
-          "live": true
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/twelve-seeds/leadership.m4a",
+            "seconds": 12.1
+          }
         },
         {
           "id": "responsibility",
@@ -737,7 +745,11 @@
           "glyph": [
             "M12 3s6 6.5 6 11a6 6 0 0 1-12 0c0-4.5 6-11 6-11z"
           ],
-          "live": true
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/twelve-seeds/responsibility.m4a",
+            "seconds": 14.2
+          }
         },
         {
           "id": "determination",
@@ -764,7 +776,11 @@
             "M13 7l5 5-5 5",
             "M21 3v6M21 15v6"
           ],
-          "live": true
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/twelve-seeds/determination.m4a",
+            "seconds": 14.6
+          }
         },
         {
           "id": "perspective",
@@ -791,7 +807,11 @@
             "M4 7.5l8 4.5 8-4.5",
             "M12 12v9"
           ],
-          "live": true
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/twelve-seeds/perspective.m4a",
+            "seconds": 14.5
+          }
         },
         {
           "id": "letting-go",
@@ -815,7 +835,11 @@
             "M17.2 7.8l.6.7.6-.7",
             "M17.8 8.5c-.7 1.3-.7 2.3.3 3.8"
           ],
-          "live": false
+          "live": false,
+          "introAudio": {
+            "url": "https://piuli.app/voices/twelve-seeds/letting-go.m4a",
+            "seconds": 14.2
+          }
         },
         {
           "id": "freedom",
@@ -836,7 +860,11 @@
             "M14.00 8.12Q15.65 4.75 17.75 8.57Q19.85 4.75 21.50 8.12",
             "M14.50 16.90Q15.82 14.20 17.50 17.26Q19.18 14.20 20.50 16.90"
           ],
-          "live": false
+          "live": false,
+          "introAudio": {
+            "url": "https://piuli.app/voices/twelve-seeds/freedom.m4a",
+            "seconds": 12.1
+          }
         },
         {
           "id": "choice",
@@ -867,7 +895,11 @@
             "M11 12c3 0 4 2 4 7.5",
             "M12.8 17.3L15 19.5l2.2-2.2"
           ],
-          "live": true
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/twelve-seeds/choice.m4a",
+            "seconds": 13.4
+          }
         },
         {
           "id": "action",
@@ -888,7 +920,11 @@
             "M16 8l4 4-4 4",
             "M3 8h4M2 12h4M3 16h4"
           ],
-          "live": false
+          "live": false,
+          "introAudio": {
+            "url": "https://piuli.app/voices/twelve-seeds/action.m4a",
+            "seconds": 12.4
+          }
         },
         {
           "id": "legacy",
@@ -914,7 +950,11 @@
             "M12 3l5 6h-3l4 5h-4l3 4H7l3-4H6l4-5H7z",
             "M12 18v3"
           ],
-          "live": true
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/twelve-seeds/legacy.m4a",
+            "seconds": 10.2
+          }
         },
         {
           "id": "solidarity",
@@ -942,7 +982,11 @@
             "M15.1 10.5a1.9 1.9 0 1 0 3.8 0a1.9 1.9 0 1 0-3.8 0",
             "M3 20.5c0-4.6 4-7.7 9-7.7s9 3.1 9 7.7"
           ],
-          "live": true
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/twelve-seeds/solidarity.m4a",
+            "seconds": 12.9
+          }
         },
         {
           "id": "leap",
@@ -971,9 +1015,17 @@
             "M12 7V2",
             "M9.8 4.2L12 2l2.2 2.2"
           ],
-          "live": true
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/twelve-seeds/leap.m4a",
+            "seconds": 14.0
+          }
         }
-      ]
+      ],
+      "introAudio": {
+        "url": "https://piuli.app/voices/twelve-seeds/welcome.m4a",
+        "seconds": 24.5
+      }
     },
     {
       "id": "c2v0",
@@ -1008,7 +1060,11 @@
             "M8 14.5c1 1.8 2.4 2.6 4 2.6s3-.8 4-2.6",
             "M9 9.5v1.2M15 9.5v1.2"
           ],
-          "live": true
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/upbeat-world/smile.m4a",
+            "seconds": 10.6
+          }
         },
         {
           "id": "rhythm",
@@ -1034,7 +1090,11 @@
           "glyph": [
             "M4 10v4M8 6v12M12 9v6M16 4v16M20 8v8"
           ],
-          "live": true
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/upbeat-world/rhythm.m4a",
+            "seconds": 15.5
+          }
         },
         {
           "id": "rise",
@@ -1061,7 +1121,11 @@
             "M6 14l6-5 6 5",
             "M6 8l6-5 6 5"
           ],
-          "live": true
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/upbeat-world/rise.m4a",
+            "seconds": 9.8
+          }
         },
         {
           "id": "play",
@@ -1091,7 +1155,11 @@
             "M14.60 7.40L14.60 4.40 M18.97 10.58L21.83 9.65 M17.30 15.72L19.07 18.15 M11.90 15.72L10.13 18.15 M10.23 10.58L7.37 9.65",
             "M1.5 8.5h3.5M1 12h3M1.5 15.5h3.5"
           ],
-          "live": true
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/upbeat-world/play.m4a",
+            "seconds": 12.1
+          }
         },
         {
           "id": "adventure",
@@ -1117,7 +1185,11 @@
             "M3 6l6-2 6 2 6-2v14l-6 2-6-2-6 2z",
             "M9 4v14M15 6v14"
           ],
-          "live": true
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/upbeat-world/adventure.m4a",
+            "seconds": 10.6
+          }
         },
         {
           "id": "oneness",
@@ -1142,7 +1214,11 @@
           "glyph": [
             "M17.3 12.0a1.7 1.7 0 1 0 3.4 0a1.7 1.7 0 1 0-3.4 0 M13.8 18.1a1.7 1.7 0 1 0 3.4 0a1.7 1.7 0 1 0-3.4 0 M6.8 18.1a1.7 1.7 0 1 0 3.4 0a1.7 1.7 0 1 0-3.4 0 M3.3 12.0a1.7 1.7 0 1 0 3.4 0a1.7 1.7 0 1 0-3.4 0 M6.8 5.9a1.7 1.7 0 1 0 3.4 0a1.7 1.7 0 1 0-3.4 0 M13.8 5.9a1.7 1.7 0 1 0 3.4 0a1.7 1.7 0 1 0-3.4 0"
           ],
-          "live": true
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/upbeat-world/oneness.m4a",
+            "seconds": 13.4
+          }
         },
         {
           "id": "triumph",
@@ -1169,7 +1245,11 @@
             "M8 21v-6.5a4 4 0 0 1 8 0V21",
             "M8.7 12.2L5.2 4.2M15.3 12.2l3.5-8"
           ],
-          "live": true
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/upbeat-world/triumph.m4a",
+            "seconds": 11.3
+          }
         },
         {
           "id": "life",
@@ -1199,7 +1279,11 @@
             "M12 12.5c0 3.2-.3 5.6-1 8",
             "M5 20.6h14"
           ],
-          "live": true
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/upbeat-world/life.m4a",
+            "seconds": 12.7
+          }
         },
         {
           "id": "colour",
@@ -1226,7 +1310,11 @@
             "M12 3a9 9 0 0 0 0 18c1.4 0 2-1 2-2s-.8-1.5-.8-2.5 1-2 2.3-2H18a3 3 0 0 0 3-3c0-4.7-4-8.5-9-8.5z",
             "M7.5 11h.01M9.5 7h.01M14.5 7h.01M17 10.5h.01"
           ],
-          "live": true
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/upbeat-world/colour.m4a",
+            "seconds": 11.3
+          }
         },
         {
           "id": "light",
@@ -1254,7 +1342,11 @@
             "M12 9c-1.5 0-2.4-1-2.4-2.4 0-1.7 2.4-3.4 2.4-5 0 1.6 2.4 3.3 2.4 5 0 1.4-.9 2.4-2.4 2.4z",
             "M5.5 6.5h1.8M16.7 6.5h1.8M6.6 2.8l1.3 1.2M17.4 2.8l-1.3 1.2"
           ],
-          "live": true
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/upbeat-world/light.m4a",
+            "seconds": 10.8
+          }
         },
         {
           "id": "celebration",
@@ -1282,7 +1374,11 @@
             "M15 3v2M20 6l-1.5 1M21 11h-2M11 3l.5 1.5",
             "M13.5 9.5c.5-2 2.5-3 4.5-3"
           ],
-          "live": true
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/upbeat-world/celebration.m4a",
+            "seconds": 13.7
+          }
         },
         {
           "id": "brotherhood",
@@ -1311,9 +1407,17 @@
             "M14 20v-6a3 3 0 0 1 6 0v6",
             "M9.5 13.5c1.5-1.5 3.5-1.5 5 0"
           ],
-          "live": true
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/upbeat-world/brotherhood.m4a",
+            "seconds": 12.6
+          }
         }
-      ]
+      ],
+      "introAudio": {
+        "url": "https://piuli.app/voices/upbeat-world/welcome.m4a",
+        "seconds": 24.2
+      }
     },
     {
       "id": "c3v0",
