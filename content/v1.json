@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": "2026-11-14.3",
+  "version": "2026-11-15.1",
   "collections": [
     {
       "id": "human-greatness",
@@ -693,7 +693,7 @@
             "url": "https://piuli.app/voices/twelve-seeds/patience.v3.m4a",
             "seconds": 13.3
           },
-          "clue": "The bamboo's roots"
+          "clue": "Earth's largest grass"
         },
         {
           "id": "leadership",
