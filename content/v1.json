@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": "2026-11-14.1",
+  "version": "2026-11-14.2",
   "collections": [
     {
       "id": "human-greatness",
@@ -669,7 +669,12 @@
           "channel": "Piuli",
           "title": "A Piuli Story",
           "youtubeId": "8nd6XGj3X68",
-          "segments": [],
+          "segments": [
+            {
+              "start": 0,
+              "end": 163
+            }
+          ],
           "intro": "Patience. You act, every day. You wait. You act, and you wait. Still, no results. Nature has an answer.",
           "quote": {
             "text": "Adopt the pace of Nature: her secret is patience.",
