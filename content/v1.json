@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": "2026-11-14.2",
+  "version": "2026-11-14.3",
   "collections": [
     {
       "id": "human-greatness",
@@ -692,7 +692,8 @@
           "introAudio": {
             "url": "https://piuli.app/voices/twelve-seeds/patience.v3.m4a",
             "seconds": 13.3
-          }
+          },
+          "clue": "The bamboo's roots"
         },
         {
           "id": "leadership",
@@ -754,6 +755,34 @@
           "introAudio": {
             "url": "https://piuli.app/voices/twelve-seeds/responsibility.v3.m4a",
             "seconds": 14.2
+          }
+        },
+        {
+          "id": "letting-go",
+          "word": "Letting go",
+          "person": "Two monks",
+          "channel": "Piuli",
+          "title": "A Piuli Story",
+          "youtubeId": null,
+          "segments": [],
+          "intro": "Letting go. Something happened hours ago. Days ago. Years ago. What are we still carrying? Let’s walk with two monks.",
+          "quote": {
+            "text": "Letting go gives us freedom, and freedom is the only condition for happiness.",
+            "by": "Thich Nhat Hanh",
+            "source": "The Heart of the Buddha’s Teaching"
+          },
+          "glyph": [
+            "M3 11a4.6 5.3 0 1 0 9.2 0a4.6 5.3 0 1 0-9.2 0",
+            "M6.8 16.3l.8 1 .8-1",
+            "M7.6 17.3c-1 1.7-1 3 .4 4.7",
+            "M15 4.6a2.8 3.2 0 1 0 5.6 0a2.8 3.2 0 1 0-5.6 0",
+            "M17.2 7.8l.6.7.6-.7",
+            "M17.8 8.5c-.7 1.3-.7 2.3.3 3.8"
+          ],
+          "live": false,
+          "introAudio": {
+            "url": "https://piuli.app/voices/twelve-seeds/letting-go.v3.m4a",
+            "seconds": 14.3
           }
         },
         {
@@ -819,59 +848,6 @@
           }
         },
         {
-          "id": "letting-go",
-          "word": "Letting go",
-          "person": "Two monks",
-          "channel": "Piuli",
-          "title": "A Piuli Story",
-          "youtubeId": null,
-          "segments": [],
-          "intro": "Letting go. Something happened hours ago. Days ago. Years ago. What are we still carrying? Let’s walk with two monks.",
-          "quote": {
-            "text": "Letting go gives us freedom, and freedom is the only condition for happiness.",
-            "by": "Thich Nhat Hanh",
-            "source": "The Heart of the Buddha’s Teaching"
-          },
-          "glyph": [
-            "M3 11a4.6 5.3 0 1 0 9.2 0a4.6 5.3 0 1 0-9.2 0",
-            "M6.8 16.3l.8 1 .8-1",
-            "M7.6 17.3c-1 1.7-1 3 .4 4.7",
-            "M15 4.6a2.8 3.2 0 1 0 5.6 0a2.8 3.2 0 1 0-5.6 0",
-            "M17.2 7.8l.6.7.6-.7",
-            "M17.8 8.5c-.7 1.3-.7 2.3.3 3.8"
-          ],
-          "live": false,
-          "introAudio": {
-            "url": "https://piuli.app/voices/twelve-seeds/letting-go.v3.m4a",
-            "seconds": 14.3
-          }
-        },
-        {
-          "id": "freedom",
-          "word": "Freedom",
-          "person": "A monk and a cow",
-          "channel": "Piuli",
-          "title": "A Piuli Story",
-          "youtubeId": null,
-          "segments": [],
-          "intro": "Freedom. Like a railing, something holds us steady. Nothing changes. Nothing improves. What happens without it?",
-          "quote": {
-            "text": "A ship in harbor is safe, but that is not what ships are built for.",
-            "by": "John A. Shedd",
-            "source": "Salt from My Attic, 1928"
-          },
-          "glyph": [
-            "M2.00 13.65Q4.42 8.70 7.50 14.31Q10.58 8.70 13.00 13.65",
-            "M14.00 8.12Q15.65 4.75 17.75 8.57Q19.85 4.75 21.50 8.12",
-            "M14.50 16.90Q15.82 14.20 17.50 17.26Q19.18 14.20 20.50 16.90"
-          ],
-          "live": false,
-          "introAudio": {
-            "url": "https://piuli.app/voices/twelve-seeds/freedom.v3.m4a",
-            "seconds": 12.1
-          }
-        },
-        {
           "id": "choice",
           "word": "Choice",
           "person": "An old story",
@@ -907,28 +883,28 @@
           }
         },
         {
-          "id": "action",
-          "word": "Action",
-          "person": "A mentor and a rock",
+          "id": "freedom",
+          "word": "Freedom",
+          "person": "A monk and a cow",
           "channel": "Piuli",
           "title": "A Piuli Story",
           "youtubeId": null,
           "segments": [],
-          "intro": "Action. We want it. We plan it. We talk about it. But the goal stays far away. Why?",
+          "intro": "Freedom. Like a railing, something holds us steady. Nothing changes. Nothing improves. What happens without it?",
           "quote": {
-            "text": "Do. Or do not. There is no try.",
-            "by": "Yoda",
-            "source": "The Empire Strikes Back, 1980"
+            "text": "A ship in harbor is safe, but that is not what ships are built for.",
+            "by": "John A. Shedd",
+            "source": "Salt from My Attic, 1928"
           },
           "glyph": [
-            "M9 12h11",
-            "M16 8l4 4-4 4",
-            "M3 8h4M2 12h4M3 16h4"
+            "M2.00 13.65Q4.42 8.70 7.50 14.31Q10.58 8.70 13.00 13.65",
+            "M14.00 8.12Q15.65 4.75 17.75 8.57Q19.85 4.75 21.50 8.12",
+            "M14.50 16.90Q15.82 14.20 17.50 17.26Q19.18 14.20 20.50 16.90"
           ],
           "live": false,
           "introAudio": {
-            "url": "https://piuli.app/voices/twelve-seeds/action.v3.m4a",
-            "seconds": 12.4
+            "url": "https://piuli.app/voices/twelve-seeds/freedom.v3.m4a",
+            "seconds": 12.1
           }
         },
         {
@@ -1024,6 +1000,31 @@
           "introAudio": {
             "url": "https://piuli.app/voices/twelve-seeds/leap.v3.m4a",
             "seconds": 14.1
+          }
+        },
+        {
+          "id": "action",
+          "word": "Action",
+          "person": "A mentor and a rock",
+          "channel": "Piuli",
+          "title": "A Piuli Story",
+          "youtubeId": null,
+          "segments": [],
+          "intro": "Action. We want it. We plan it. We talk about it. But the goal stays far away. Why?",
+          "quote": {
+            "text": "Do. Or do not. There is no try.",
+            "by": "Yoda",
+            "source": "The Empire Strikes Back, 1980"
+          },
+          "glyph": [
+            "M9 12h11",
+            "M16 8l4 4-4 4",
+            "M3 8h4M2 12h4M3 16h4"
+          ],
+          "live": false,
+          "introAudio": {
+            "url": "https://piuli.app/voices/twelve-seeds/action.v3.m4a",
+            "seconds": 12.4
           }
         }
       ],
