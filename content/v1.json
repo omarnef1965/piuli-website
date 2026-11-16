@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": "2026-11-15.2",
+  "version": "2026-11-15.3",
   "collections": [
     {
       "id": "human-greatness",
@@ -789,7 +789,7 @@
             "url": "https://piuli.app/voices/twelve-seeds/letting-go.v3.m4a",
             "seconds": 14.3
           },
-          "clue": "Muddy road"
+          "clue": "Carrying the past"
         },
         {
           "id": "determination",
