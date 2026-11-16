@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": "2026-11-15.1",
+  "version": "2026-11-15.2",
   "collections": [
     {
       "id": "human-greatness",
@@ -668,7 +668,7 @@
           "person": "A bamboo seed",
           "channel": "Piuli",
           "title": "A Piuli Story",
-          "youtubeId": "8nd6XGj3X68",
+          "youtubeId": "H__uMJCkrXU",
           "segments": [
             {
               "start": 0,
@@ -763,8 +763,13 @@
           "person": "Two monks",
           "channel": "Piuli",
           "title": "A Piuli Story",
-          "youtubeId": null,
-          "segments": [],
+          "youtubeId": "C-daGDpsYTQ",
+          "segments": [
+            {
+              "start": 0,
+              "end": 133
+            }
+          ],
           "intro": "Letting go. Something happened hours ago. Days ago. Years ago. What are we still carrying? Let’s walk with two monks.",
           "quote": {
             "text": "Letting go gives us freedom, and freedom is the only condition for happiness.",
@@ -779,11 +784,12 @@
             "M17.2 7.8l.6.7.6-.7",
             "M17.8 8.5c-.7 1.3-.7 2.3.3 3.8"
           ],
-          "live": false,
+          "live": true,
           "introAudio": {
             "url": "https://piuli.app/voices/twelve-seeds/letting-go.v3.m4a",
             "seconds": 14.3
-          }
+          },
+          "clue": "Muddy road"
         },
         {
           "id": "determination",
