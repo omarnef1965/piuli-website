@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": "2026-11-15.3",
+  "version": "2026-11-22.1",
   "collections": [
     {
       "id": "human-greatness",
@@ -1014,8 +1014,13 @@
           "person": "A mentor and a rock",
           "channel": "Piuli",
           "title": "A Piuli Story",
-          "youtubeId": null,
-          "segments": [],
+          "youtubeId": "QGrqcMO5UYI",
+          "segments": [
+            {
+              "start": 0,
+              "end": 134
+            }
+          ],
           "intro": "Action. We want it. We plan it. We talk about it. But the goal stays far away. Why?",
           "quote": {
             "text": "Do. Or do not. There is no try.",
@@ -1027,7 +1032,7 @@
             "M16 8l4 4-4 4",
             "M3 8h4M2 12h4M3 16h4"
           ],
-          "live": false,
+          "live": true,
           "introAudio": {
             "url": "https://piuli.app/voices/twelve-seeds/action.v3.m4a",
             "seconds": 12.4
