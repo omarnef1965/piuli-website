@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": "2026-11-25.2",
+  "version": "2026-11-25.3",
   "collections": [
     {
       "id": "c3v0",
@@ -159,7 +159,9 @@
           "introAudio": {
             "url": "https://piuli.app/voices/champions/heart.v1.m4a",
             "seconds": 13.0
-          }
+          },
+          "captions": true,
+          "translateCaptions": true
         },
         {
           "id": "humility",
