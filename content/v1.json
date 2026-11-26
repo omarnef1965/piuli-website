@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": "2026-11-25.1",
+  "version": "2026-11-25.2",
   "collections": [
     {
       "id": "c3v0",
@@ -410,7 +410,7 @@
       "name": "Human Greatness",
       "icon": "star",
       "status": "active",
-      "tagline": "Twelve people who reached greatness, one word each. Find yours.",
+      "tagline": "Twelve people who chose greatness.",
       "intro": "Welcome to Human Greatness. Twelve people from different times and walks of life. Each walked a different path. A boy born without arms who learned to make music with his feet. A woman who would not give up her seat. A man who forgave the men who jailed him. None of them were perfect. None were born great. They chose greatness, one step, one word, one action at a time. Watch their stories and find that same greatness within you.",
       "items": [
         {
@@ -729,7 +729,7 @@
       "name": "More Than Gold",
       "icon": "heart",
       "status": "active",
-      "tagline": "Twelve moments from the Games. The lesson is not the medal.",
+      "tagline": "Twelve lessons bigger than a medal.",
       "intro": "More Than Gold. What makes it possible? Around the world, children play their own Olympic Games. Bottle caps, wrapped in gold paper, become medals. A park bench becomes a podium. Every four years, thousands of volunteers give their time to serve. What makes it possible? It is the flame of the Games. Here are twelve of its sparks.",
       "items": [
         {
@@ -1062,7 +1062,7 @@
       "name": "Twelve Seeds",
       "icon": "sprout",
       "status": "active",
-      "tagline": "Twelve stories from nature and old wisdom. Each one, a seed.",
+      "tagline": "Twelve stories that plant big ideas.",
       "intro": "Twelve Seeds. Every tree began as a seed. A seed looks like nothing. Yet inside, a whole tree is waiting. Here are twelve stories, twelve seeds. In each of us, they can grow into a tree, or stay a seed. The choice is ours.",
       "items": [
         {
