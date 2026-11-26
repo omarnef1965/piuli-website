@@ -1,7 +1,410 @@
 {
   "schema": 1,
-  "version": "2026-11-22.2",
+  "version": "2026-11-25.1",
   "collections": [
+    {
+      "id": "c3v0",
+      "name": "Champions",
+      "icon": "trophy",
+      "status": "active",
+      "items": [
+        {
+          "id": "belief",
+          "word": "Belief",
+          "person": "Russia’s volleyball team",
+          "channel": "Olympic Games",
+          "title": "Men's Volleyball Final - Russia's Amazing Comeback | London 2012 Olympics",
+          "youtubeId": "ovujPi4vUQ4",
+          "segments": [
+            {
+              "start": 0,
+              "end": 120
+            }
+          ],
+          "intro": "Belief. An Olympic final. Two sets down. Twice, they are one point from silver. Is it over?",
+          "quote": {
+            "text": "A lot of things didn't work for us today, but I think that it's a victory of the entire team.",
+            "by": "Dmitriy Muserskiy",
+            "source": "AP, August 12, 2012"
+          },
+          "clue": "Two sets down",
+          "glyph": [
+            "M 12 4.5 c 1.5 3.5 5 5.5 5 10 a 5 5 0 0 1 -10 0 c 0 -2.5 1.4 -3.8 2.4 -5 0.3 1.8 1 2.7 2.1 3.2 C 11.3 10.3 11 7.5 12 4.5 z"
+          ],
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/champions/belief.v1.m4a",
+            "seconds": 12.0
+          }
+        },
+        {
+          "id": "dream",
+          "word": "Dream",
+          "person": "Michael Phelps",
+          "channel": "Olympic Games",
+          "title": "Michael Phelps' Record Breaking Eight Gold Medals in Beijing | The Olympics on the Record",
+          "youtubeId": "e-ldwePuoW0",
+          "segments": [
+            {
+              "start": 260,
+              "end": 336
+            }
+          ],
+          "intro": "Dream. His mother takes her energetic boy to a pool. Years later, Michael goes for eight golds.",
+          "quote": {
+            "text": "You can't put a limit on anything. The more you dream, the farther you get.",
+            "by": "Michael Phelps",
+            "source": "in an interview"
+          },
+          "clue": "Eight in Beijing",
+          "glyph": [
+            "M 6.56 20.14 h 8.19 a 2.73 2.73 0 0 0 0.31 -5.46 A 4.29 4.29 0 0 0 6.87 13.35 3.43 3.43 0 0 0 6.56 20.14 z",
+            "M 18.4 6.54 l 0.66 1.1 1.1 0.66 -1.1 0.66 -0.66 1.1 -0.66 -1.1 -1.1 -0.66 1.1 -0.66 z",
+            "M 12.4 3.98 l 0.42 0.7 0.7 0.42 -0.7 0.42 -0.42 0.7 -0.42 -0.7 -0.7 -0.42 0.7 -0.42 z"
+          ],
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/champions/dream.v1.m4a",
+            "seconds": 10.1
+          }
+        },
+        {
+          "id": "endurance",
+          "word": "Endurance",
+          "person": "Emil Zátopek",
+          "channel": "Olympic Games",
+          "title": "Emil Zátopek Wins 5,000m, 10,000m & Marathon Gold - Helsinki 1952 Olympics",
+          "youtubeId": "3c4Z8cbcIiA",
+          "segments": [
+            {
+              "start": 0,
+              "end": 165
+            }
+          ],
+          "intro": "Endurance. He trains day and night in heavy army boots. Now, Emil competes in an event he has never tried before.",
+          "quote": {
+            "text": "If you want to win something, run the 100 meters. If you want to experience something, run a marathon.",
+            "by": "Emil Zátopek",
+            "source": "The StarPhoenix, 2007"
+          },
+          "clue": "Run a marathon",
+          "glyph": [
+            "M2.5 20.5l6.8-10.5 3.2 4.6 2.8-3.9 6.2 9.8z",
+            "M15.3 10.7V3.8",
+            "M15.3 3.8l3.4 1.4-3.4 1.4",
+            "M7.4 13l1.9 1.6 1.6-1.5"
+          ],
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/champions/endurance.v1.m4a",
+            "seconds": 11.9
+          }
+        },
+        {
+          "id": "excellence",
+          "word": "Excellence",
+          "person": "Nadia Comăneci",
+          "channel": "CBC Sports",
+          "title": "Nadia Comaneci Reflects on her Perfect 10, 41 Years Later",
+          "youtubeId": "huXxqrC6WDw",
+          "segments": [
+            {
+              "start": 0,
+              "end": 181
+            }
+          ],
+          "intro": "Excellence. At six, a coach spots her doing cartwheels in a schoolyard. Eight years later, the world is watching Nadia.",
+          "quote": {
+            "text": "I don't run away from a challenge because I am afraid. Instead, I run toward it because the only way to escape fear is to trample it beneath your feet.",
+            "by": "Nadia Comăneci",
+            "source": "Letters to a Young Gymnast, 2004"
+          },
+          "clue": "First perfect 10",
+          "glyph": [
+            "M12.00 2.00L15.53 7.95L22.27 9.46L17.71 14.65L18.35 21.54L12.00 18.80L5.65 21.54L6.29 14.65L1.73 9.46L8.47 7.95z",
+            "M8.85 9.70v6.4",
+            "M11.95 11.30a1.60 1.60 0 0 1 3.20 0v3.20a1.60 1.60 0 0 1 -3.20 0z"
+          ],
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/champions/excellence.v1.m4a",
+            "seconds": 12.4
+          }
+        },
+        {
+          "id": "heart",
+          "word": "Heart",
+          "person": "Nicolás Massú & Fernando González",
+          "channel": "Olympic Games",
+          "title": "Chile's First Olympic Gold - González & Massú on Men's Tennis Doubles 2004 | Olympic Rewind",
+          "youtubeId": "mVkJxqEtLFI",
+          "segments": [
+            {
+              "start": 250,
+              "end": 474
+            }
+          ],
+          "intro": "Heart. A South American country still waits for its first Olympic gold. Then, Nicolás and Fernando play to change it.",
+          "quote": {
+            "text": "I was never afraid. I saw the opportunity and went for it.",
+            "by": "Nicolás Massú",
+            "source": "in an interview"
+          },
+          "clue": "Four match points",
+          "glyph": [
+            "M 12 19 s -7.5 -4.6 -7.5 -10.2 A 4.3 4.3 0 0 1 12 6.5 a 4.3 4.3 0 0 1 7.5 2.3 C 19.5 14.4 12 19 12 19 z",
+            "M 9 10.5 l 2 2 4 -4"
+          ],
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/champions/heart.v1.m4a",
+            "seconds": 13.0
+          }
+        },
+        {
+          "id": "humility",
+          "word": "Humility",
+          "person": "Eliud Kipchoge",
+          "channel": "Olympic Games",
+          "title": "🥇 42.195km - Eliud Kipchoge's golden Marathon in Rio 2016!",
+          "youtubeId": "Pu9mnVV6_fA",
+          "segments": [
+            {
+              "start": 0,
+              "end": 28
+            },
+            {
+              "start": 311,
+              "end": 412
+            }
+          ],
+          "intro": "Humility. He could live anywhere. At his training camp in Kenya, Eliud still cleans the toilets. Now, Rio 2016.",
+          "quote": {
+            "text": "Only the disciplined ones in life are free. If you are undisciplined, you are a slave to your moods and your passions.",
+            "by": "Eliud Kipchoge",
+            "source": "in an interview"
+          },
+          "clue": "Discipline is freedom",
+          "glyph": [
+            "M 7.3 19.3 C 7.3 12.8 6.01 6.74 9 7 M 10.22 8.37 A 1 0.35 45 1 0 11.63 9.78 A 1 0.35 45 1 0 10.22 8.37 z",
+            "M 10.44 5.86 A 1 0.35 -35 1 0 12.08 4.72 A 1 0.35 -35 1 0 10.44 5.86 z",
+            "M 13.11 8.62 A 1 0.35 45 1 0 14.52 10.04 A 1 0.35 45 1 0 13.11 8.62 z",
+            "M 13.33 6.12 A 1 0.35 -35 1 0 14.97 4.97 A 1 0.35 -35 1 0 13.33 6.12 z",
+            "M 16 8.87 A 1 0.35 45 1 0 17.41 10.29 A 1 0.35 45 1 0 16 8.87 z",
+            "M 16.22 6.37 A 1 0.35 -35 1 0 17.85 5.22 A 1 0.35 -35 1 0 16.22 6.37 z",
+            "M 9 7 l 9.36 0.82 M 18.36 7.82 A 1 0.35 5 1 0 20.36 7.99 A 1 0.35 5 1 0 18.36 7.82 z",
+            "M 7.7 14.8 C 5.6 14.6 4.1 13.3 3.6 11.3 c 2 0 3.6 1.4 4.1 3.5 z"
+          ],
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/champions/humility.v1.m4a",
+            "seconds": 14.2
+          }
+        },
+        {
+          "id": "innovation",
+          "word": "Innovation",
+          "person": "Dick Fosbury",
+          "channel": "Olympic Games",
+          "title": "How One Man Changed the High Jump Forever | The Olympics on the Record",
+          "youtubeId": "CZsH46Ek2ao",
+          "segments": [
+            {
+              "start": 0,
+              "end": 152
+            }
+          ],
+          "intro": "Innovation. For decades, every athlete in his sport does it the same way. Then Richard tries something people call crazy.",
+          "quote": {
+            "text": "I did that partly because of intuition and because I believed that it was possible.",
+            "by": "Dick Fosbury",
+            "source": "in an interview"
+          },
+          "clue": "Backwards over bar",
+          "glyph": [
+            "M 5.2 20 V 4",
+            "M 5.2 4 L 3.66 5.84 M 5.2 4 L 6.74 5.84",
+            "M 10.2 20 V 4",
+            "M 10.2 4 L 8.66 5.84 M 10.2 4 L 11.74 5.84",
+            "M 15.2 20 V 12.5 C 15.2 9 16.8 6.8 20.2 5.2",
+            "M 20.2 5.2 L 17.88 4.58 M 20.2 5.2 L 19.19 7.38"
+          ],
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/champions/innovation.v1.m4a",
+            "seconds": 14.2
+          }
+        },
+        {
+          "id": "joy",
+          "word": "Joy",
+          "person": "Bebe Vio",
+          "channel": "Paralympic Games",
+          "title": "\"The Emotion's So Raw\" | The Winning Point | Bebe Vio | Paralympic Games",
+          "youtubeId": "j9oV8a6tnQs",
+          "segments": [
+            {
+              "start": 0,
+              "end": 160
+            }
+          ],
+          "intro": "Joy. At 11, an illness changes her body forever. But not what she loves most. Eight years later, Bebe shows the world.",
+          "quote": {
+            "text": "Life is awesome.",
+            "by": "Bebe Vio",
+            "source": "La vita è una figata, her motto"
+          },
+          "clue": "Life is awesome",
+          "glyph": [
+            "M12 12m-4 0a4 4 0 1 0 8 0a4 4 0 1 0-8 0",
+            "M10.5 12.8c.8 1 2.2 1 3 0",
+            "M12 3v2M12 19v2M3 12h2M19 12h2M5.6 5.6l1.4 1.4M17 17l1.4 1.4M5.6 18.4L7 17M17 7l1.4-1.4"
+          ],
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/champions/joy.v1.m4a",
+            "seconds": 13.5
+          }
+        },
+        {
+          "id": "limitless",
+          "word": "Limitless",
+          "person": "Bob Beamon",
+          "channel": "Olympic Games",
+          "title": "The Longest Ever Olympic Long Jump - Bob Beamon | Olympic Records",
+          "youtubeId": "ltXXtodzcPY",
+          "segments": [
+            {
+              "start": 0,
+              "end": 80
+            }
+          ],
+          "intro": "Limitless. The world record grows a few centimetres at a time. Every jumper knows it. This time… Bob starts his run.",
+          "quote": {
+            "text": "I kept my eye on the big prize.",
+            "by": "Bob Beamon",
+            "source": "Sky Sports, 2021"
+          },
+          "clue": "Longest Olympic jump",
+          "glyph": [
+            "M12 12c-2-2.8-3.8-4.2-5.6-4.2a4.2 4.2 0 0 0 0 8.4c1.8 0 3.6-1.4 5.6-4.2s3.8-4.2 5.6-4.2a4.2 4.2 0 0 1 0 8.4c-1.8 0-3.6-1.4-5.6-4.2z"
+          ],
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/champions/limitless.v1.m4a",
+            "seconds": 12.8
+          }
+        },
+        {
+          "id": "roots",
+          "word": "Roots",
+          "person": "Rafaela Silva",
+          "channel": "Olympic Games",
+          "title": "Judo gold for Brazil native Rafaela Silva",
+          "youtubeId": "scxJgcufCpk",
+          "segments": [
+            {
+              "start": 0,
+              "end": 120
+            }
+          ],
+          "intro": "Roots. Born in a favela of Rio de Janeiro. Today, her family and neighbours come to watch Rafaela.",
+          "quote": {
+            "text": "If these children have a dream, they have to believe it can be done.",
+            "by": "Rafaela Silva",
+            "source": "AFP, August 8, 2016"
+          },
+          "clue": "Home judo gold",
+          "glyph": [
+            "M 7 10.7 a 3 3 0 0 1 0.5 -5.6 A 4 4 0 0 1 15 4.7 a 3 3 0 0 1 2.5 5.6 A 3 3 0 0 1 15 12.7 H 9 a 3 3 0 0 1 -2 -2 z",
+            "M 12 12.7 v 3.5",
+            "M 3 16.2 h 18",
+            "M 12 16.2 c -0.6 2.4 -2.8 3.4 -5 5 M 12 16.2 v 5.5 M 12 16.2 c 0.6 2.4 2.8 3.4 5 5"
+          ],
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/champions/roots.v1.m4a",
+            "seconds": 9.2
+          }
+        },
+        {
+          "id": "simplicity",
+          "word": "Simplicity",
+          "person": "Abebe Bikila",
+          "channel": "Olympic Games",
+          "title": "Abebe Bikila wins Marathon barefooted | Epic Olympic Moments",
+          "youtubeId": "w_Nygi01VqI",
+          "segments": [
+            {
+              "start": 4,
+              "end": 84
+            }
+          ],
+          "intro": "Simplicity. A guard of the emperor arrives in Rome. The shoes they give him do not fit. So Abebe decides…",
+          "quote": {
+            "text": "I wanted the world to know that my country, Ethiopia, has always won with determination and heroism.",
+            "by": "Abebe Bikila",
+            "source": "Olympics.com"
+          },
+          "clue": "Barefoot in Rome",
+          "glyph": [
+            "M12 22.2c-2 0-3.1-1.4-3.1-3.2 0-1.6.9-2.7.9-4.3 0-1.8-1.6-3-1.6-5 0-2.3 1.8-3.4 3.8-3.4s3.9 1.2 3.9 3.9c0 3-1.5 5.4-1.5 8.6 0 2-.6 3.4-2.4 3.4z",
+            "M6.88 3.46a1.2 1.2 0 1 0 2.4 0a1.2 1.2 0 1 0 -2.4 0",
+            "M10.16 2.30a0.75 0.75 0 1 0 1.5 0a0.75 0.75 0 1 0 -1.5 0",
+            "M12.59 2.62a0.62 0.62 0 1 0 1.24 0a0.62 0.62 0 1 0 -1.24 0",
+            "M14.54 3.87a0.52 0.52 0 1 0 1.04 0a0.52 0.52 0 1 0 -1.04 0",
+            "M16.02 5.55a0.45 0.45 0 1 0 0.9 0a0.45 0.45 0 1 0 -0.9 0"
+          ],
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/champions/simplicity.v1.m4a",
+            "seconds": 11.0
+          }
+        },
+        {
+          "id": "together",
+          "word": "Together",
+          "person": "Brazil’s football team",
+          "channel": "Olympic Games",
+          "title": "Neymar penalty seals gold for hosts | Rio 2016 Olympic Games",
+          "youtubeId": "-Jmjn_dJt_4",
+          "segments": [
+            {
+              "start": 0,
+              "end": 109
+            }
+          ],
+          "intro": "Together. Five World Cups, but never Olympic gold. Now, a whole country holds its breath, together.",
+          "quote": {
+            "text": "For the strength of the Pack is the Wolf, and the strength of the Wolf is the Pack.",
+            "by": "Rudyard Kipling",
+            "source": "The Law of the Jungle, 1895"
+          },
+          "clue": "Penalty for gold",
+          "glyph": [
+            "M2.20 5.6a1.8 1.8 0 1 0 3.6 0a1.8 1.8 0 1 0 -3.6 0",
+            "M4 8.6v6.6 M4 15.2l-1.8 5.6M4 15.2l1.8 5.6",
+            "M10.20 5.6a1.8 1.8 0 1 0 3.6 0a1.8 1.8 0 1 0 -3.6 0",
+            "M12 8.6v6.6 M12 15.2l-1.8 5.6M12 15.2l1.8 5.6",
+            "M18.20 5.6a1.8 1.8 0 1 0 3.6 0a1.8 1.8 0 1 0 -3.6 0",
+            "M20 8.6v6.6 M20 15.2l-1.8 5.6M20 15.2l1.8 5.6",
+            "M4 9.8L8.0 13L12 9.8 M12 9.8L16.0 13L20 9.8",
+            "M4 9.8l-2 4 M20 9.8l2 4"
+          ],
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/champions/together.v1.m4a",
+            "seconds": 10.4
+          }
+        }
+      ],
+      "tagline": "Twelve champions. What makes one?",
+      "intro": "Champions. Every four years, the world watches them for seconds, minutes or hours. We don't see the years of preparation. Early alarms. Missed birthdays. Injuries. Doubts. The same drill, repeated thousands of times. Every athlete lives them. But… what makes only a few of them champions?",
+      "introAudio": {
+        "url": "https://piuli.app/voices/champions/welcome.v1.m4a",
+        "seconds": 28.0
+      }
+    },
     {
       "id": "human-greatness",
       "name": "Human Greatness",
@@ -11,177 +414,31 @@
       "intro": "Welcome to Human Greatness. Twelve people from different times and walks of life. Each walked a different path. A boy born without arms who learned to make music with his feet. A woman who would not give up her seat. A man who forgave the men who jailed him. None of them were perfect. None were born great. They chose greatness, one step, one word, one action at a time. Watch their stories and find that same greatness within you.",
       "items": [
         {
-          "id": "purpose",
-          "word": "Purpose",
-          "person": "Steve Jobs",
-          "channel": "Stanford",
-          "title": "Steve Jobs' 2005 Stanford Commencement Address",
-          "youtubeId": "UF8uR6Z6KLc",
+          "id": "authenticity",
+          "word": "Authenticity",
+          "person": "Freddie Mercury",
+          "channel": "Live Aid",
+          "title": "Queen - Hammer To Fall (Live Aid 1985)",
+          "youtubeId": "D5bzrb-v9Y0",
           "segments": [
             {
               "start": 0,
-              "end": 335
+              "end": 288
             }
           ],
-          "intro": "Purpose. A college dropout faces his first graduation, at Stanford. Steve Jobs tells three stories. Watch the dots connect.",
+          "intro": "Authenticity. Born to an Indian family in Africa, Farrokh Bulsara moved to London and became Freddie Mercury. Then millions of voices sang with him.",
           "quote": {
-            "text": "You can’t connect the dots looking forward; you can only connect them looking backward.",
-            "source": "Stanford, 2005"
+            "text": "I have to win people over, otherwise it’s not a successful gig.",
+            "source": "The Sun, 1985"
           },
-          "clue": "Connect the dots",
+          "clue": "Farrokh Bulsara",
           "glyph": [
-            "M3 12a9 9 0 1 0 18 0a9 9 0 1 0-18 0",
-            "M7 12a5 5 0 1 0 10 0a5 5 0 1 0-10 0",
-            "M11 12a1 1 0 1 0 2 0a1 1 0 1 0-2 0"
-          ],
-          "live": true
-        },
-        {
-          "id": "perseverance",
-          "word": "Perseverance",
-          "person": "Tony Melendez",
-          "channel": "Vision Video",
-          "title": "The Gift Of Hope: Tony Melendez Story (2005) | Full Movie",
-          "youtubeId": "K0qeKK-dt0g",
-          "segments": [
-            {
-              "start": 1373,
-              "end": 1663
-            }
-          ],
-          "intro": "Perseverance. Tony Melendez practiced, practiced and practiced to learn guitar with his feet. He played for the Pope, and his life changed.",
-          "quote": {
-            "text": "My father always told me: ‘Tony, you have to try… you have to do it by yourself!’",
-            "source": "in an interview"
-          },
-          "clue": "Guitar with feet",
-          "glyph": [
-            "M3 20l6-8 3 3 5-8 4 13z"
-          ],
-          "live": true
-        },
-        {
-          "id": "dignity",
-          "word": "Dignity",
-          "person": "Rosa Parks",
-          "channel": "BBC News",
-          "title": "Rosa Parks: The 'no' that sparked the civil rights movement",
-          "youtubeId": "76kS_7qanH8",
-          "segments": [
-            {
-              "start": 0,
-              "end": 158
-            }
-          ],
-          "intro": "Dignity. 1955. A 42-year-old tailor on a bus. A white man stands. The driver orders her to move. Rosa Parks responds…",
-          "quote": {
-            "text": "The only tired I was, was tired of giving in.",
-            "source": "her autobiography, 1992"
-          },
-          "clue": "The bus seat",
-          "glyph": [
-            "M9.6 5a2.4 2.4 0 1 0 4.8 0a2.4 2.4 0 1 0-4.8 0",
-            "M7.5 21v-7.5a4.5 4.5 0 0 1 9 0V21"
-          ],
-          "live": true
-        },
-        {
-          "id": "love",
-          "word": "Love",
-          "person": "Mother Teresa",
-          "channel": "60 Minutes Australia",
-          "title": "Rare interview with Mother Teresa in the slums of India",
-          "youtubeId": "nQJ7wLp9lA4",
-          "segments": [
-            {
-              "start": 43,
-              "end": 353
-            }
-          ],
-          "intro": "Love. The poorest of the poor, of every faith, dying alone. Mother Teresa saw each as a human in need, and simply served them.",
-          "quote": {
-            "text": "It is not how much we do, but how much love we put in the action that we do.",
-            "source": "Nobel lecture, 1979"
-          },
-          "clue": "India's slums",
-          "glyph": [
-            "M12 9.8C10.6 6.2 7.4 5 5.4 6.4S3.4 11.6 5.9 14.3L12 20l6.1-5.7c2.5-2.7 2.5-6.5.5-7.9S13.4 6.2 12 9.8z"
-          ],
-          "live": true
-        },
-        {
-          "id": "curiosity",
-          "word": "Curiosity",
-          "person": "Jane Goodall",
-          "channel": "ABC News In-depth",
-          "title": "The inspirational life of Jane Goodall | 7.30",
-          "youtubeId": "ZNch4V9MC44",
-          "segments": [
-            {
-              "start": 0,
-              "end": 247
-            }
-          ],
-          "intro": "Curiosity. 1960. A 26-year-old secretary, no degree, walks into an African forest. Just a notebook, and patience. Jane Goodall.",
-          "quote": {
-            "text": "Only if we understand can we care. Only if we care will we help. Only if we help shall all be saved.",
-            "source": "Jane Goodall Institute"
-          },
-          "clue": "Notebook in forest",
-          "glyph": [
-            "M8 7.8a4 4 0 1 1 6 3.4c-1.3.7-2 1.7-2 3.1V15.5",
-            "M12 19.5v.01"
-          ],
-          "live": true
-        },
-        {
-          "id": "courage",
-          "word": "Courage",
-          "person": "Nelson Mandela",
-          "channel": "Nelson Mandela Foundation",
-          "title": "Nelson Mandela Speech From The Dock",
-          "youtubeId": "N2A60NCFfN0",
-          "segments": [
-            {
-              "start": 0,
-              "end": 87
-            }
-          ],
-          "intro": "Courage. 1964. A 45-year-old lawyer on trial. The judge will decide: the death penalty, or life in prison. Nelson Mandela stands up and says…",
-          "quote": {
-            "text": "I learned that courage was not the absence of fear, but the triumph over it.",
-            "source": "Long Walk to Freedom, 1994"
-          },
-          "captions": true,
-          "clue": "1964 trial",
-          "glyph": [
-            "M12 21.5c-4.3 0-7-2.8-7-6.7 0-3.9 3.2-5.7 3.5-10.1 2.8 1.7 4.1 4.1 4.1 6.3 1.1-1 1.7-2.2 1.8-3.6 2.4 1.8 4.6 4.6 4.6 7.4 0 3.9-2.7 6.7-7 6.7z"
-          ],
-          "live": true
-        },
-        {
-          "id": "hope",
-          "word": "Hope",
-          "person": "Terry Fox",
-          "channel": "Terry Fox Foundation",
-          "title": "The Terry Fox Story",
-          "youtubeId": "f1QOtPDAAeY",
-          "segments": [
-            {
-              "start": 0,
-              "end": 218
-            }
-          ],
-          "intro": "Hope. At 21, Terry Fox decided to run across Canada. One marathon a day. Every day. For 143 days. To give others hope.",
-          "quote": {
-            "text": "I just wish people would realize that anything’s possible if you try; dreams are made possible if you try.",
-            "source": "terryfox.org"
-          },
-          "clue": "143 days",
-          "glyph": [
-            "M3 18h18",
-            "M8 18a4 4 0 0 1 8 0",
-            "M6.2 16.4L4.3 15.9 M8.3 13.2L7.1 11.7 M12.0 12.0L12.0 10.0 M15.7 13.2L16.9 11.7 M17.8 16.4L19.7 15.9"
+            "M8 20c-.8-2-1.2-4-1.2-6.5a5.2 5.2 0 0 1 10.4 0c0 1 0 2-.2 3",
+            "M11 20.5c-.8-2.2-1.2-4.4-1.2-7a2.2 2.2 0 0 1 4.4 0c0 2.5.5 4.8 1.3 6.6",
+            "M12 13.5c0 2.6.5 5 1.4 7",
+            "M5 16c-.4-1-.6-2-.6-3a7.6 7.6 0 0 1 13-5.4",
+            "M19.3 10.5c.2.8.3 1.6.3 2.5",
+            "M6.2 5.5A9.8 9.8 0 0 1 17.8 5.5"
           ],
           "live": true
         },
@@ -216,55 +473,27 @@
           "live": true
         },
         {
-          "id": "authenticity",
-          "word": "Authenticity",
-          "person": "Freddie Mercury",
-          "channel": "Live Aid",
-          "title": "Queen - Hammer To Fall (Live Aid 1985)",
-          "youtubeId": "D5bzrb-v9Y0",
+          "id": "courage",
+          "word": "Courage",
+          "person": "Nelson Mandela",
+          "channel": "Nelson Mandela Foundation",
+          "title": "Nelson Mandela Speech From The Dock",
+          "youtubeId": "N2A60NCFfN0",
           "segments": [
             {
               "start": 0,
-              "end": 288
+              "end": 87
             }
           ],
-          "intro": "Authenticity. Born to an Indian family in Africa, Farrokh Bulsara moved to London and became Freddie Mercury. Then millions of voices sang with him.",
+          "intro": "Courage. 1964. A 45-year-old lawyer on trial. The judge will decide: the death penalty, or life in prison. Nelson Mandela stands up and says…",
           "quote": {
-            "text": "I have to win people over, otherwise it’s not a successful gig.",
-            "source": "The Sun, 1985"
+            "text": "I learned that courage was not the absence of fear, but the triumph over it.",
+            "source": "Long Walk to Freedom, 1994"
           },
-          "clue": "Farrokh Bulsara",
+          "captions": true,
+          "clue": "1964 trial",
           "glyph": [
-            "M8 20c-.8-2-1.2-4-1.2-6.5a5.2 5.2 0 0 1 10.4 0c0 1 0 2-.2 3",
-            "M11 20.5c-.8-2.2-1.2-4.4-1.2-7a2.2 2.2 0 0 1 4.4 0c0 2.5.5 4.8 1.3 6.6",
-            "M12 13.5c0 2.6.5 5 1.4 7",
-            "M5 16c-.4-1-.6-2-.6-3a7.6 7.6 0 0 1 13-5.4",
-            "M19.3 10.5c.2.8.3 1.6.3 2.5",
-            "M6.2 5.5A9.8 9.8 0 0 1 17.8 5.5"
-          ],
-          "live": true
-        },
-        {
-          "id": "mastery",
-          "word": "Mastery",
-          "person": "Leonardo da Vinci",
-          "channel": "NBC News Learn",
-          "title": "Leonardo Da Vinci, Renaissance Man",
-          "youtubeId": "MzNz-0Aw-vY",
-          "segments": [
-            {
-              "start": 0,
-              "end": 233
-            }
-          ],
-          "intro": "Mastery. Born outside marriage, with little schooling. Leonardo da Vinci watched the world so closely that he became a Renaissance genius, painter and inventor.",
-          "quote": {
-            "text": "Obstacles cannot crush me. Every obstacle yields to stern resolve.",
-            "source": "Leonardo’s notebooks (Richter 682)"
-          },
-          "clue": "Every obstacle yields",
-          "glyph": [
-            "M3 20h5v-5h5v-5h5V5h3"
+            "M12 21.5c-4.3 0-7-2.8-7-6.7 0-3.9 3.2-5.7 3.5-10.1 2.8 1.7 4.1 4.1 4.1 6.3 1.1-1 1.7-2.2 1.8-3.6 2.4 1.8 4.6 4.6 4.6 7.4 0 3.9-2.7 6.7-7 6.7z"
           ],
           "live": true
         },
@@ -295,6 +524,56 @@
           "live": true
         },
         {
+          "id": "curiosity",
+          "word": "Curiosity",
+          "person": "Jane Goodall",
+          "channel": "ABC News In-depth",
+          "title": "The inspirational life of Jane Goodall | 7.30",
+          "youtubeId": "ZNch4V9MC44",
+          "segments": [
+            {
+              "start": 0,
+              "end": 247
+            }
+          ],
+          "intro": "Curiosity. 1960. A 26-year-old secretary, no degree, walks into an African forest. Just a notebook, and patience. Jane Goodall.",
+          "quote": {
+            "text": "Only if we understand can we care. Only if we care will we help. Only if we help shall all be saved.",
+            "source": "Jane Goodall Institute"
+          },
+          "clue": "Notebook in forest",
+          "glyph": [
+            "M8 7.8a4 4 0 1 1 6 3.4c-1.3.7-2 1.7-2 3.1V15.5",
+            "M12 19.5v.01"
+          ],
+          "live": true
+        },
+        {
+          "id": "dignity",
+          "word": "Dignity",
+          "person": "Rosa Parks",
+          "channel": "BBC News",
+          "title": "Rosa Parks: The 'no' that sparked the civil rights movement",
+          "youtubeId": "76kS_7qanH8",
+          "segments": [
+            {
+              "start": 0,
+              "end": 158
+            }
+          ],
+          "intro": "Dignity. 1955. A 42-year-old tailor on a bus. A white man stands. The driver orders her to move. Rosa Parks responds…",
+          "quote": {
+            "text": "The only tired I was, was tired of giving in.",
+            "source": "her autobiography, 1992"
+          },
+          "clue": "The bus seat",
+          "glyph": [
+            "M9.6 5a2.4 2.4 0 1 0 4.8 0a2.4 2.4 0 1 0-4.8 0",
+            "M7.5 21v-7.5a4.5 4.5 0 0 1 9 0V21"
+          ],
+          "live": true
+        },
+        {
           "id": "discovery",
           "word": "Discovery",
           "person": "Marie Curie",
@@ -318,6 +597,130 @@
             "M15 15l5.5 5.5"
           ],
           "live": true
+        },
+        {
+          "id": "hope",
+          "word": "Hope",
+          "person": "Terry Fox",
+          "channel": "Terry Fox Foundation",
+          "title": "The Terry Fox Story",
+          "youtubeId": "f1QOtPDAAeY",
+          "segments": [
+            {
+              "start": 0,
+              "end": 218
+            }
+          ],
+          "intro": "Hope. At 21, Terry Fox decided to run across Canada. One marathon a day. Every day. For 143 days. To give others hope.",
+          "quote": {
+            "text": "I just wish people would realize that anything’s possible if you try; dreams are made possible if you try.",
+            "source": "terryfox.org"
+          },
+          "clue": "143 days",
+          "glyph": [
+            "M3 18h18",
+            "M8 18a4 4 0 0 1 8 0",
+            "M6.2 16.4L4.3 15.9 M8.3 13.2L7.1 11.7 M12.0 12.0L12.0 10.0 M15.7 13.2L16.9 11.7 M17.8 16.4L19.7 15.9"
+          ],
+          "live": true
+        },
+        {
+          "id": "love",
+          "word": "Love",
+          "person": "Mother Teresa",
+          "channel": "60 Minutes Australia",
+          "title": "Rare interview with Mother Teresa in the slums of India",
+          "youtubeId": "nQJ7wLp9lA4",
+          "segments": [
+            {
+              "start": 43,
+              "end": 353
+            }
+          ],
+          "intro": "Love. The poorest of the poor, of every faith, dying alone. Mother Teresa saw each as a human in need, and simply served them.",
+          "quote": {
+            "text": "It is not how much we do, but how much love we put in the action that we do.",
+            "source": "Nobel lecture, 1979"
+          },
+          "clue": "India's slums",
+          "glyph": [
+            "M12 9.8C10.6 6.2 7.4 5 5.4 6.4S3.4 11.6 5.9 14.3L12 20l6.1-5.7c2.5-2.7 2.5-6.5.5-7.9S13.4 6.2 12 9.8z"
+          ],
+          "live": true
+        },
+        {
+          "id": "mastery",
+          "word": "Mastery",
+          "person": "Leonardo da Vinci",
+          "channel": "NBC News Learn",
+          "title": "Leonardo Da Vinci, Renaissance Man",
+          "youtubeId": "MzNz-0Aw-vY",
+          "segments": [
+            {
+              "start": 0,
+              "end": 233
+            }
+          ],
+          "intro": "Mastery. Born outside marriage, with little schooling. Leonardo da Vinci watched the world so closely that he became a Renaissance genius, painter and inventor.",
+          "quote": {
+            "text": "Obstacles cannot crush me. Every obstacle yields to stern resolve.",
+            "source": "Leonardo’s notebooks (Richter 682)"
+          },
+          "clue": "Every obstacle yields",
+          "glyph": [
+            "M3 20h5v-5h5v-5h5V5h3"
+          ],
+          "live": true
+        },
+        {
+          "id": "perseverance",
+          "word": "Perseverance",
+          "person": "Tony Melendez",
+          "channel": "Vision Video",
+          "title": "The Gift Of Hope: Tony Melendez Story (2005) | Full Movie",
+          "youtubeId": "K0qeKK-dt0g",
+          "segments": [
+            {
+              "start": 1373,
+              "end": 1663
+            }
+          ],
+          "intro": "Perseverance. Tony Melendez practiced, practiced and practiced to learn guitar with his feet. He played for the Pope, and his life changed.",
+          "quote": {
+            "text": "My father always told me: ‘Tony, you have to try… you have to do it by yourself!’",
+            "source": "in an interview"
+          },
+          "clue": "Guitar with feet",
+          "glyph": [
+            "M3 20l6-8 3 3 5-8 4 13z"
+          ],
+          "live": true
+        },
+        {
+          "id": "purpose",
+          "word": "Purpose",
+          "person": "Steve Jobs",
+          "channel": "Stanford",
+          "title": "Steve Jobs' 2005 Stanford Commencement Address",
+          "youtubeId": "UF8uR6Z6KLc",
+          "segments": [
+            {
+              "start": 0,
+              "end": 335
+            }
+          ],
+          "intro": "Purpose. A college dropout faces his first graduation, at Stanford. Steve Jobs tells three stories. Watch the dots connect.",
+          "quote": {
+            "text": "You can’t connect the dots looking forward; you can only connect them looking backward.",
+            "source": "Stanford, 2005"
+          },
+          "clue": "Connect the dots",
+          "glyph": [
+            "M3 12a9 9 0 1 0 18 0a9 9 0 1 0-18 0",
+            "M7 12a5 5 0 1 0 10 0a5 5 0 1 0-10 0",
+            "M11 12a1 1 0 1 0 2 0a1 1 0 1 0-2 0"
+          ],
+          "live": true
         }
       ]
     },
@@ -330,57 +733,29 @@
       "intro": "More Than Gold. What makes it possible? Around the world, children play their own Olympic Games. Bottle caps, wrapped in gold paper, become medals. A park bench becomes a podium. Every four years, thousands of volunteers give their time to serve. What makes it possible? It is the flame of the Games. Here are twelve of its sparks.",
       "items": [
         {
-          "id": "fair-play",
-          "word": "Fair Play",
-          "person": "Nikki Hamblin & Abbey D’Agostino",
+          "id": "belonging",
+          "word": "Belonging",
+          "person": "Yusra Mardini",
           "channel": "Olympics",
-          "title": "Hamblin and D’Agostino: the spirit of Rio 2016",
-          "youtubeId": "dCVlRFWOjgE",
+          "title": "From Syria to Rio 2016: the story of Yusra Mardini",
+          "youtubeId": "1REQm6TIBR0",
           "segments": [
             {
               "start": 0,
-              "end": 159
+              "end": 202
             }
           ],
-          "intro": "Fair Play. Two runners from opposite sides of the world. They have never met. In minutes, they will never forget each other.",
+          "intro": "Belonging. For the first time, athletes with no country to compete for get a team of their own. Yusra is one of them.",
           "quote": {
-            "text": "That girl is the Olympic spirit right there.",
-            "source": "Rio 2016 (Fox News/AP)",
-            "by": "Nikki Hamblin"
+            "text": "When you’re an athlete no one can ask, ‘where you’re from?’ You’re an athlete.",
+            "source": "Rio 2016 press conference (HuffPost/AP)",
+            "by": "Yusra Mardini"
           },
-          "clue": "Helping a rival",
+          "clue": "Refugee team",
           "glyph": [
-            "M12 4v16",
-            "M8 20h8",
-            "M5 7h14",
-            "M5 7l-3 6h6zM2 13a3 3 0 0 0 6 0",
-            "M19 7l-3 6h6zM16 13a3 3 0 0 0 6 0"
-          ],
-          "live": true
-        },
-        {
-          "id": "sharing",
-          "word": "Sharing",
-          "person": "Gianmarco Tamberi & Mutaz Essa Barshim",
-          "channel": "Olympics",
-          "title": "Tamberi and Barshim share high jump gold, Tokyo 2020",
-          "youtubeId": "8pzFZqUVjb4",
-          "segments": [
-            {
-              "start": 0,
-              "end": 198
-            }
-          ],
-          "intro": "Sharing. Two rivals, friends for years. Both clear 2.37 metres. Both miss 2.39. One Olympic final, only one gold.",
-          "quote": {
-            "text": "Can we have two golds?",
-            "source": "Tokyo 2020 (Oman Observer/AFP)",
-            "by": "Mutaz Essa Barshim"
-          },
-          "clue": "Two golds?",
-          "glyph": [
-            "M3 12a9 9 0 1 0 18 0a9 9 0 1 0-18 0",
-            "M12 3.5v2.5M12 8.5v2.5M12 13v2.5M12 17.5v2.5"
+            "M3 11l9-7 9 7",
+            "M5 9.5V20h14V9.5",
+            "M12 16.6s-3.4-2-3.4-4.6a1.9 1.9 0 0 1 3.4-1.2 1.9 1.9 0 0 1 3.4 1.2c0 2.6-3.4 4.6-3.4 4.6z"
           ],
           "live": true
         },
@@ -410,28 +785,31 @@
           "live": true
         },
         {
-          "id": "grit",
-          "word": "Grit",
-          "person": "John Stephen Akhwari",
+          "id": "fair-play",
+          "word": "Fair Play",
+          "person": "Nikki Hamblin & Abbey D’Agostino",
           "channel": "Olympics",
-          "title": "The Olympic legend who finished in last place",
-          "youtubeId": "lzn_mAsNaU4",
+          "title": "Hamblin and D’Agostino: the spirit of Rio 2016",
+          "youtubeId": "dCVlRFWOjgE",
           "segments": [
             {
-              "start": 37,
-              "end": 260
+              "start": 0,
+              "end": 159
             }
           ],
-          "intro": "Grit. His parents taught him one thing: what you start, you finish. On this night, John remembers their words.",
+          "intro": "Fair Play. Two runners from opposite sides of the world. They have never met. In minutes, they will never forget each other.",
           "quote": {
-            "text": "My country did not send me 5,000 miles to start the race; they sent me 5,000 miles to finish the race.",
-            "source": "Mexico City, 1968",
-            "by": "John Stephen Akhwari"
+            "text": "That girl is the Olympic spirit right there.",
+            "source": "Rio 2016 (Fox News/AP)",
+            "by": "Nikki Hamblin"
           },
-          "clue": "Finish the race",
+          "clue": "Helping a rival",
           "glyph": [
-            "M3 19l4-5 3 3 4-7 2 3 5-6",
-            "M17.5 7H21v3.5"
+            "M12 4v16",
+            "M8 20h8",
+            "M5 7h14",
+            "M5 7l-3 6h6zM2 13a3 3 0 0 0 6 0",
+            "M19 7l-3 6h6zM16 13a3 3 0 0 0 6 0"
           ],
           "live": true
         },
@@ -466,28 +844,28 @@
           "live": true
         },
         {
-          "id": "vision",
-          "word": "Vision",
-          "person": "Pierre de Coubertin",
-          "channel": "Sotheby’s",
-          "title": "Pierre de Coubertin and the Olympic manifesto",
-          "youtubeId": "Oy257hipU1s",
+          "id": "grit",
+          "word": "Grit",
+          "person": "John Stephen Akhwari",
+          "channel": "Olympics",
+          "title": "The Olympic legend who finished in last place",
+          "youtubeId": "lzn_mAsNaU4",
           "segments": [
             {
-              "start": 0,
-              "end": 71
+              "start": 37,
+              "end": 260
             }
           ],
-          "intro": "Vision. A young Frenchman dreams of bringing the world together through sport. Where did it all begin? With Pierre’s pen.",
+          "intro": "Grit. His parents taught him one thing: what you start, you finish. On this night, John remembers their words.",
           "quote": {
-            "text": "The important thing in life is not the triumph but the struggle; the essential thing is not to have conquered but to have fought well.",
-            "source": "the Olympic Creed",
-            "by": "Pierre de Coubertin"
+            "text": "My country did not send me 5,000 miles to start the race; they sent me 5,000 miles to finish the race.",
+            "source": "Mexico City, 1968",
+            "by": "John Stephen Akhwari"
           },
-          "clue": "Pierre's pen",
+          "clue": "Finish the race",
           "glyph": [
-            "M2 12s3.5-6.5 10-6.5S22 12 22 12s-3.5 6.5-10 6.5S2 12 2 12z",
-            "M9 12a3 3 0 1 0 6 0a3 3 0 1 0-6 0"
+            "M3 19l4-5 3 3 4-7 2 3 5-6",
+            "M17.5 7H21v3.5"
           ],
           "live": true
         },
@@ -548,32 +926,6 @@
           "live": true
         },
         {
-          "id": "resilience",
-          "word": "Resilience",
-          "person": "Gail Devers",
-          "channel": "Olympics",
-          "title": "Gail Devers, Barcelona 1992",
-          "youtubeId": "ERdwMXSTmyM",
-          "segments": [
-            {
-              "start": 0,
-              "end": 269
-            }
-          ],
-          "intro": "Resilience. Not long ago, she could barely walk. Doctors almost took her feet. Now, Gail’s feet have a promise to keep.",
-          "quote": {
-            "text": "I believe I’m stronger at having to go through what I went through.",
-            "source": "CNN, 2021",
-            "by": "Gail Devers"
-          },
-          "clue": "Feet almost lost",
-          "glyph": [
-            "M3 10h18c0 5-4 9-9 9s-9-4-9-9z",
-            "M10 10l1.5 3-2 2.5 1 3.5"
-          ],
-          "live": true
-        },
-        {
           "id": "possibility",
           "word": "Possibility",
           "person": "Sitting volleyball players",
@@ -595,6 +947,58 @@
           "clue": "Floor volleyball",
           "glyph": [
             "M12 12c-2-2.7-3.6-4-5.5-4a4 4 0 0 0 0 8c1.9 0 3.5-1.3 5.5-4s3.6-4 5.5-4a4 4 0 0 1 0 8c-1.9 0-3.5-1.3-5.5-4z"
+          ],
+          "live": true
+        },
+        {
+          "id": "resilience",
+          "word": "Resilience",
+          "person": "Gail Devers",
+          "channel": "Olympics",
+          "title": "Gail Devers, Barcelona 1992",
+          "youtubeId": "ERdwMXSTmyM",
+          "segments": [
+            {
+              "start": 29,
+              "end": 280
+            }
+          ],
+          "intro": "Resilience. Not long ago, she could barely walk. Doctors almost took her feet. Now, Gail’s feet have a promise to keep.",
+          "quote": {
+            "text": "I believe I’m stronger at having to go through what I went through.",
+            "source": "CNN, 2021",
+            "by": "Gail Devers"
+          },
+          "clue": "Feet almost lost",
+          "glyph": [
+            "M3 10h18c0 5-4 9-9 9s-9-4-9-9z",
+            "M10 10l1.5 3-2 2.5 1 3.5"
+          ],
+          "live": true
+        },
+        {
+          "id": "sharing",
+          "word": "Sharing",
+          "person": "Gianmarco Tamberi & Mutaz Essa Barshim",
+          "channel": "Olympics",
+          "title": "Tamberi and Barshim share high jump gold, Tokyo 2020",
+          "youtubeId": "8pzFZqUVjb4",
+          "segments": [
+            {
+              "start": 0,
+              "end": 198
+            }
+          ],
+          "intro": "Sharing. Two rivals, friends for years. Both clear 2.37 metres. Both miss 2.39. One Olympic final, only one gold.",
+          "quote": {
+            "text": "Can we have two golds?",
+            "source": "Tokyo 2020 (Oman Observer/AFP)",
+            "by": "Mutaz Essa Barshim"
+          },
+          "clue": "Two golds?",
+          "glyph": [
+            "M3 12a9 9 0 1 0 18 0a9 9 0 1 0-18 0",
+            "M12 3.5v2.5M12 8.5v2.5M12 13v2.5M12 17.5v2.5"
           ],
           "live": true
         },
@@ -626,29 +1030,28 @@
           "live": true
         },
         {
-          "id": "belonging",
-          "word": "Belonging",
-          "person": "Yusra Mardini",
-          "channel": "Olympics",
-          "title": "From Syria to Rio 2016: the story of Yusra Mardini",
-          "youtubeId": "1REQm6TIBR0",
+          "id": "vision",
+          "word": "Vision",
+          "person": "Pierre de Coubertin",
+          "channel": "Sotheby’s",
+          "title": "Pierre de Coubertin and the Olympic manifesto",
+          "youtubeId": "Oy257hipU1s",
           "segments": [
             {
               "start": 0,
-              "end": 202
+              "end": 71
             }
           ],
-          "intro": "Belonging. For the first time, athletes with no country to compete for get a team of their own. Yusra is one of them.",
+          "intro": "Vision. A young Frenchman dreams of bringing the world together through sport. Where did it all begin? With Pierre’s pen.",
           "quote": {
-            "text": "When you’re an athlete no one can ask, ‘where you’re from?’ You’re an athlete.",
-            "source": "Rio 2016 press conference (HuffPost/AP)",
-            "by": "Yusra Mardini"
+            "text": "The important thing in life is not the triumph but the struggle; the essential thing is not to have conquered but to have fought well.",
+            "source": "the Olympic Creed",
+            "by": "Pierre de Coubertin"
           },
-          "clue": "Refugee team",
+          "clue": "Pierre's pen",
           "glyph": [
-            "M3 11l9-7 9 7",
-            "M5 9.5V20h14V9.5",
-            "M12 16.6s-3.4-2-3.4-4.6a1.9 1.9 0 0 1 3.4-1.2 1.9 1.9 0 0 1 3.4 1.2c0 2.6-3.4 4.6-3.4 4.6z"
+            "M2 12s3.5-6.5 10-6.5S22 12 22 12s-3.5 6.5-10 6.5S2 12 2 12z",
+            "M9 12a3 3 0 1 0 6 0a3 3 0 1 0-6 0"
           ],
           "live": true
         }
@@ -663,194 +1066,33 @@
       "intro": "Twelve Seeds. Every tree began as a seed. A seed looks like nothing. Yet inside, a whole tree is waiting. Here are twelve stories, twelve seeds. In each of us, they can grow into a tree, or stay a seed. The choice is ours.",
       "items": [
         {
-          "id": "patience",
-          "word": "Patience",
-          "person": "A bamboo seed",
+          "id": "action",
+          "word": "Action",
+          "person": "A mentor and a rock",
           "channel": "Piuli",
           "title": "A Piuli Story",
-          "youtubeId": "H__uMJCkrXU",
+          "youtubeId": "QGrqcMO5UYI",
           "segments": [
             {
               "start": 0,
-              "end": 163
+              "end": 147
             }
           ],
-          "intro": "Patience. You act, every day. You wait. You act, and you wait. Still, no results. Nature has an answer.",
+          "intro": "Action. We want it. We plan it. We talk about it. But the goal stays far away. Why?",
           "quote": {
-            "text": "Adopt the pace of Nature: her secret is patience.",
-            "by": "Ralph Waldo Emerson",
-            "source": "Education"
+            "text": "Do. Or do not. There is no try.",
+            "by": "Yoda",
+            "source": "The Empire Strikes Back, 1980"
           },
           "glyph": [
-            "M6 3h12",
-            "M6 21h12",
-            "M7 3c0 5 5 6 5 9s-5 4-5 9",
-            "M17 3c0 5-5 6-5 9s5 4 5 9",
-            "M9.5 19h5"
+            "M9 12h11",
+            "M16 8l4 4-4 4",
+            "M3 8h4M2 12h4M3 16h4"
           ],
           "live": true,
           "introAudio": {
-            "url": "https://piuli.app/voices/twelve-seeds/patience.v3.m4a",
-            "seconds": 13.3
-          },
-          "clue": "Earth's largest grass"
-        },
-        {
-          "id": "leadership",
-          "word": "Leadership",
-          "person": "Birds flying in a V",
-          "channel": "Seeker",
-          "title": "Why birds fly in a V",
-          "youtubeId": "pB6XSixrCC8",
-          "segments": [
-            {
-              "start": 0,
-              "end": 124
-            }
-          ],
-          "intro": "Leadership. Look up at the sky. A long V of birds passes by. Someone flies in front. But who? And why?",
-          "quote": {
-            "text": "The servant-leader is servant first.",
-            "by": "Robert K. Greenleaf",
-            "source": "The Servant as Leader, 1970"
-          },
-          "clue": "V formation",
-          "glyph": [
-            "M7 21l1.3-10h2.4l1.3 10",
-            "M4.5 21h10",
-            "M8 11V7h3v4",
-            "M8 7l1.5-1.8L11 7",
-            "M11 8l10-3M11 10l10 3"
-          ],
-          "live": true,
-          "introAudio": {
-            "url": "https://piuli.app/voices/twelve-seeds/leadership.v3.m4a",
-            "seconds": 12.2
-          }
-        },
-        {
-          "id": "responsibility",
-          "word": "Responsibility",
-          "person": "Wangari Maathai",
-          "channel": "Dirt! The Movie",
-          "title": "I will be a hummingbird",
-          "youtubeId": "IGMW6YWjMxw",
-          "segments": [
-            {
-              "start": 0,
-              "end": 116
-            }
-          ],
-          "intro": "Responsibility. A huge challenge appears. Everyone watches… sure nothing can be done. Wait. Really? Listen to Wangari.",
-          "quote": {
-            "text": "Look at the word responsibility—“response-ability”—the ability to choose your response.",
-            "by": "Stephen R. Covey",
-            "source": "The 7 Habits of Highly Effective People"
-          },
-          "clue": "The hummingbird",
-          "glyph": [
-            "M12 3s6 6.5 6 11a6 6 0 0 1-12 0c0-4.5 6-11 6-11z"
-          ],
-          "live": true,
-          "introAudio": {
-            "url": "https://piuli.app/voices/twelve-seeds/responsibility.v3.m4a",
-            "seconds": 14.2
-          }
-        },
-        {
-          "id": "letting-go",
-          "word": "Letting go",
-          "person": "Two monks",
-          "channel": "Piuli",
-          "title": "A Piuli Story",
-          "youtubeId": "C-daGDpsYTQ",
-          "segments": [
-            {
-              "start": 0,
-              "end": 133
-            }
-          ],
-          "intro": "Letting go. Something happened hours ago. Days ago. Years ago. What are we still carrying? Let’s walk with two monks.",
-          "quote": {
-            "text": "Letting go gives us freedom, and freedom is the only condition for happiness.",
-            "by": "Thich Nhat Hanh",
-            "source": "The Heart of the Buddha’s Teaching"
-          },
-          "glyph": [
-            "M3 11a4.6 5.3 0 1 0 9.2 0a4.6 5.3 0 1 0-9.2 0",
-            "M6.8 16.3l.8 1 .8-1",
-            "M7.6 17.3c-1 1.7-1 3 .4 4.7",
-            "M15 4.6a2.8 3.2 0 1 0 5.6 0a2.8 3.2 0 1 0-5.6 0",
-            "M17.2 7.8l.6.7.6-.7",
-            "M17.8 8.5c-.7 1.3-.7 2.3.3 3.8"
-          ],
-          "live": true,
-          "introAudio": {
-            "url": "https://piuli.app/voices/twelve-seeds/letting-go.v3.m4a",
-            "seconds": 14.3
-          },
-          "clue": "Carrying the past"
-        },
-        {
-          "id": "determination",
-          "word": "Determination",
-          "person": "The salmon",
-          "channel": "Nat Geo Animals",
-          "title": "The salmon’s journey upstream",
-          "youtubeId": "aPf4qtCDRtE",
-          "segments": [
-            {
-              "start": 0,
-              "end": 171
-            }
-          ],
-          "intro": "Determination. Your goal is upstream. The current pushes you back, again and again. What keeps you going? Watch the salmon.",
-          "quote": {
-            "text": "Fall seven times, stand up eight.",
-            "by": "Japanese proverb",
-            "source": "Nana korobi ya oki"
-          },
-          "clue": "Swimming upstream",
-          "glyph": [
-            "M3 12h14",
-            "M13 7l5 5-5 5",
-            "M21 3v6M21 15v6"
-          ],
-          "live": true,
-          "introAudio": {
-            "url": "https://piuli.app/voices/twelve-seeds/determination.v3.m4a",
-            "seconds": 14.7
-          }
-        },
-        {
-          "id": "perspective",
-          "word": "Perspective",
-          "person": "The Chinese farmer",
-          "channel": "After Skool",
-          "title": "Maybe: the story of the Chinese farmer",
-          "youtubeId": "j4TZMxkxySc",
-          "segments": [
-            {
-              "start": 0,
-              "end": 107
-            }
-          ],
-          "intro": "Perspective. Things happen, every day. Good, or bad? Everyone has an answer. How can we know? Listen to the farmer.",
-          "quote": {
-            "text": "There is nothing either good or bad, but thinking makes it so.",
-            "by": "William Shakespeare",
-            "source": "Hamlet, Act 2, Scene 2"
-          },
-          "clue": "The farmer's maybe",
-          "glyph": [
-            "M12 3l8 4.5v9L12 21l-8-4.5v-9z",
-            "M4 7.5l8 4.5 8-4.5",
-            "M12 12v9"
-          ],
-          "live": true,
-          "introAudio": {
-            "url": "https://piuli.app/voices/twelve-seeds/perspective.v3.m4a",
-            "seconds": 14.5
+            "url": "https://piuli.app/voices/twelve-seeds/action.v3.m4a",
+            "seconds": 12.4
           }
         },
         {
@@ -889,6 +1131,37 @@
           }
         },
         {
+          "id": "determination",
+          "word": "Determination",
+          "person": "The salmon",
+          "channel": "Nat Geo Animals",
+          "title": "The salmon’s journey upstream",
+          "youtubeId": "aPf4qtCDRtE",
+          "segments": [
+            {
+              "start": 0,
+              "end": 171
+            }
+          ],
+          "intro": "Determination. Your goal is upstream. The current pushes you back, again and again. What keeps you going? Watch the salmon.",
+          "quote": {
+            "text": "Fall seven times, stand up eight.",
+            "by": "Japanese proverb",
+            "source": "Nana korobi ya oki"
+          },
+          "clue": "Swimming upstream",
+          "glyph": [
+            "M3 12h14",
+            "M13 7l5 5-5 5",
+            "M21 3v6M21 15v6"
+          ],
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/twelve-seeds/determination.v3.m4a",
+            "seconds": 14.7
+          }
+        },
+        {
           "id": "freedom",
           "word": "Freedom",
           "person": "A monk and a cow",
@@ -914,65 +1187,36 @@
           }
         },
         {
-          "id": "legacy",
-          "word": "Legacy",
-          "person": "Monarch butterflies",
-          "channel": "National Geographic",
-          "title": "Monarch migration and metamorphosis",
-          "youtubeId": "bZdIyCeahXk",
+          "id": "leadership",
+          "word": "Leadership",
+          "person": "Birds flying in a V",
+          "channel": "Seeker",
+          "title": "Why birds fly in a V",
+          "youtubeId": "pB6XSixrCC8",
           "segments": [
             {
               "start": 0,
-              "end": 286
+              "end": 124
             }
           ],
-          "intro": "Legacy. Life is a long journey. One day, our body grows tired. Is that the end?",
+          "intro": "Leadership. Look up at the sky. A long V of birds passes by. Someone flies in front. But who? And why?",
           "quote": {
-            "text": "He plants trees to benefit another generation.",
-            "by": "Caecilius Statius",
-            "source": "quoted by Cicero, On Old Age"
+            "text": "The servant-leader is servant first.",
+            "by": "Robert K. Greenleaf",
+            "source": "The Servant as Leader, 1970"
           },
-          "clue": "Monarch migration",
+          "clue": "V formation",
           "glyph": [
-            "M12 3l5 6h-3l4 5h-4l3 4H7l3-4H6l4-5H7z",
-            "M12 18v3"
+            "M7 21l1.3-10h2.4l1.3 10",
+            "M4.5 21h10",
+            "M8 11V7h3v4",
+            "M8 7l1.5-1.8L11 7",
+            "M11 8l10-3M11 10l10 3"
           ],
           "live": true,
           "introAudio": {
-            "url": "https://piuli.app/voices/twelve-seeds/legacy.v3.m4a",
-            "seconds": 10.2
-          }
-        },
-        {
-          "id": "solidarity",
-          "word": "Solidarity",
-          "person": "Emperor penguins",
-          "channel": "Nature on PBS",
-          "title": "Emperor penguins huddle for warmth",
-          "youtubeId": "OL7O5O7U4Gs",
-          "segments": [
-            {
-              "start": 8,
-              "end": 164
-            }
-          ],
-          "intro": "Solidarity. Challenges come to everyone. Some of us stand protected. Others face the hardest part. Forever?",
-          "quote": {
-            "text": "Alone we can do so little; together we can do so much.",
-            "by": "Helen Keller",
-            "source": "in Joseph Lash, Helen and Teacher, 1980"
-          },
-          "clue": "The warm huddle",
-          "glyph": [
-            "M5.1 10.5a1.9 1.9 0 1 0 3.8 0a1.9 1.9 0 1 0-3.8 0",
-            "M10.1 7.6a1.9 1.9 0 1 0 3.8 0a1.9 1.9 0 1 0-3.8 0",
-            "M15.1 10.5a1.9 1.9 0 1 0 3.8 0a1.9 1.9 0 1 0-3.8 0",
-            "M3 20.5c0-4.6 4-7.7 9-7.7s9 3.1 9 7.7"
-          ],
-          "live": true,
-          "introAudio": {
-            "url": "https://piuli.app/voices/twelve-seeds/solidarity.v3.m4a",
-            "seconds": 12.9
+            "url": "https://piuli.app/voices/twelve-seeds/leadership.v3.m4a",
+            "seconds": 12.2
           }
         },
         {
@@ -1009,33 +1253,192 @@
           }
         },
         {
-          "id": "action",
-          "word": "Action",
-          "person": "A mentor and a rock",
-          "channel": "Piuli",
-          "title": "A Piuli Story",
-          "youtubeId": "QGrqcMO5UYI",
+          "id": "legacy",
+          "word": "Legacy",
+          "person": "Monarch butterflies",
+          "channel": "National Geographic",
+          "title": "Monarch migration and metamorphosis",
+          "youtubeId": "bZdIyCeahXk",
           "segments": [
             {
               "start": 0,
-              "end": 147
+              "end": 286
             }
           ],
-          "intro": "Action. We want it. We plan it. We talk about it. But the goal stays far away. Why?",
+          "intro": "Legacy. Life is a long journey. One day, our body grows tired. Is that the end?",
           "quote": {
-            "text": "Do. Or do not. There is no try.",
-            "by": "Yoda",
-            "source": "The Empire Strikes Back, 1980"
+            "text": "He plants trees to benefit another generation.",
+            "by": "Caecilius Statius",
+            "source": "quoted by Cicero, On Old Age"
           },
+          "clue": "Monarch migration",
           "glyph": [
-            "M9 12h11",
-            "M16 8l4 4-4 4",
-            "M3 8h4M2 12h4M3 16h4"
+            "M12 3l5 6h-3l4 5h-4l3 4H7l3-4H6l4-5H7z",
+            "M12 18v3"
           ],
           "live": true,
           "introAudio": {
-            "url": "https://piuli.app/voices/twelve-seeds/action.v3.m4a",
-            "seconds": 12.4
+            "url": "https://piuli.app/voices/twelve-seeds/legacy.v3.m4a",
+            "seconds": 10.2
+          }
+        },
+        {
+          "id": "letting-go",
+          "word": "Letting go",
+          "person": "Two monks",
+          "channel": "Piuli",
+          "title": "A Piuli Story",
+          "youtubeId": "C-daGDpsYTQ",
+          "segments": [
+            {
+              "start": 0,
+              "end": 133
+            }
+          ],
+          "intro": "Letting go. Something happened hours ago. Days ago. Years ago. What are we still carrying? Let’s walk with two monks.",
+          "quote": {
+            "text": "Letting go gives us freedom, and freedom is the only condition for happiness.",
+            "by": "Thich Nhat Hanh",
+            "source": "The Heart of the Buddha’s Teaching"
+          },
+          "glyph": [
+            "M3 11a4.6 5.3 0 1 0 9.2 0a4.6 5.3 0 1 0-9.2 0",
+            "M6.8 16.3l.8 1 .8-1",
+            "M7.6 17.3c-1 1.7-1 3 .4 4.7",
+            "M15 4.6a2.8 3.2 0 1 0 5.6 0a2.8 3.2 0 1 0-5.6 0",
+            "M17.2 7.8l.6.7.6-.7",
+            "M17.8 8.5c-.7 1.3-.7 2.3.3 3.8"
+          ],
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/twelve-seeds/letting-go.v3.m4a",
+            "seconds": 14.3
+          },
+          "clue": "Carrying the past"
+        },
+        {
+          "id": "patience",
+          "word": "Patience",
+          "person": "A bamboo seed",
+          "channel": "Piuli",
+          "title": "A Piuli Story",
+          "youtubeId": "H__uMJCkrXU",
+          "segments": [
+            {
+              "start": 0,
+              "end": 163
+            }
+          ],
+          "intro": "Patience. You act, every day. You wait. You act, and you wait. Still, no results. Nature has an answer.",
+          "quote": {
+            "text": "Adopt the pace of Nature: her secret is patience.",
+            "by": "Ralph Waldo Emerson",
+            "source": "Education"
+          },
+          "glyph": [
+            "M6 3h12",
+            "M6 21h12",
+            "M7 3c0 5 5 6 5 9s-5 4-5 9",
+            "M17 3c0 5-5 6-5 9s5 4 5 9",
+            "M9.5 19h5"
+          ],
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/twelve-seeds/patience.v3.m4a",
+            "seconds": 13.3
+          },
+          "clue": "Earth's largest grass"
+        },
+        {
+          "id": "perspective",
+          "word": "Perspective",
+          "person": "The Chinese farmer",
+          "channel": "After Skool",
+          "title": "Maybe: the story of the Chinese farmer",
+          "youtubeId": "j4TZMxkxySc",
+          "segments": [
+            {
+              "start": 0,
+              "end": 107
+            }
+          ],
+          "intro": "Perspective. Things happen, every day. Good, or bad? Everyone has an answer. How can we know? Listen to the farmer.",
+          "quote": {
+            "text": "There is nothing either good or bad, but thinking makes it so.",
+            "by": "William Shakespeare",
+            "source": "Hamlet, Act 2, Scene 2"
+          },
+          "clue": "The farmer's maybe",
+          "glyph": [
+            "M12 3l8 4.5v9L12 21l-8-4.5v-9z",
+            "M4 7.5l8 4.5 8-4.5",
+            "M12 12v9"
+          ],
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/twelve-seeds/perspective.v3.m4a",
+            "seconds": 14.5
+          }
+        },
+        {
+          "id": "responsibility",
+          "word": "Responsibility",
+          "person": "Wangari Maathai",
+          "channel": "Dirt! The Movie",
+          "title": "I will be a hummingbird",
+          "youtubeId": "IGMW6YWjMxw",
+          "segments": [
+            {
+              "start": 0,
+              "end": 116
+            }
+          ],
+          "intro": "Responsibility. A huge challenge appears. Everyone watches… sure nothing can be done. Wait. Really? Listen to Wangari.",
+          "quote": {
+            "text": "Look at the word responsibility—“response-ability”—the ability to choose your response.",
+            "by": "Stephen R. Covey",
+            "source": "The 7 Habits of Highly Effective People"
+          },
+          "clue": "The hummingbird",
+          "glyph": [
+            "M12 3s6 6.5 6 11a6 6 0 0 1-12 0c0-4.5 6-11 6-11z"
+          ],
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/twelve-seeds/responsibility.v3.m4a",
+            "seconds": 14.2
+          }
+        },
+        {
+          "id": "solidarity",
+          "word": "Solidarity",
+          "person": "Emperor penguins",
+          "channel": "Nature on PBS",
+          "title": "Emperor penguins huddle for warmth",
+          "youtubeId": "OL7O5O7U4Gs",
+          "segments": [
+            {
+              "start": 8,
+              "end": 164
+            }
+          ],
+          "intro": "Solidarity. Challenges come to everyone. Some of us stand protected. Others face the hardest part. Forever?",
+          "quote": {
+            "text": "Alone we can do so little; together we can do so much.",
+            "by": "Helen Keller",
+            "source": "in Joseph Lash, Helen and Teacher, 1980"
+          },
+          "clue": "The warm huddle",
+          "glyph": [
+            "M5.1 10.5a1.9 1.9 0 1 0 3.8 0a1.9 1.9 0 1 0-3.8 0",
+            "M10.1 7.6a1.9 1.9 0 1 0 3.8 0a1.9 1.9 0 1 0-3.8 0",
+            "M15.1 10.5a1.9 1.9 0 1 0 3.8 0a1.9 1.9 0 1 0-3.8 0",
+            "M3 20.5c0-4.6 4-7.7 9-7.7s9 3.1 9 7.7"
+          ],
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/twelve-seeds/solidarity.v3.m4a",
+            "seconds": 12.9
           }
         }
       ],
@@ -1053,34 +1456,258 @@
       "intro": "Upbeat World. Every culture has its music. Every heart has a beat. Some songs were born in hard times, and still they lift us. From Seoul to Kingston, from London to Melbourne, here are twelve songs the world sings together. Listen, and feel the beat.",
       "items": [
         {
-          "id": "smile",
-          "word": "Smile",
-          "person": "Pharrell Williams",
-          "channel": "Pharrell Williams",
-          "title": "Happy (Official Video)",
-          "youtubeId": "ZbZSe6N_BXs",
+          "id": "adventure",
+          "word": "Adventure",
+          "person": "Colin Hay and Men at Work",
+          "channel": "Men At Work",
+          "title": "Down Under (Official Video)",
+          "youtubeId": "XfR9iY5y94s",
           "segments": [
             {
               "start": 0,
-              "end": 230
+              "end": 210
             }
           ],
-          "intro": "Smile. Nine songs for a children's movie. Nine times rejected. Tired, Pharrell writes number ten.",
+          "intro": "Adventure. At 14, Colin leaves Scotland for a land on the other side of the world. What does he find there?",
           "quote": {
-            "text": "It was like no longer my song.",
-            "by": "Pharrell Williams",
-            "source": "Oprah Prime, 2014"
+            "text": "It is actually about ultimately celebrating the country.",
+            "by": "Colin Hay",
+            "source": "Songfacts interview"
           },
-          "clue": "Rejected nine times",
+          "clue": "Scotland to Australia",
           "glyph": [
-            "M3 12a9 9 0 1 0 18 0a9 9 0 1 0-18 0",
-            "M8 14.5c1 1.8 2.4 2.6 4 2.6s3-.8 4-2.6",
-            "M9 9.5v1.2M15 9.5v1.2"
+            "M3 6l6-2 6 2 6-2v14l-6 2-6-2-6 2z",
+            "M9 4v14M15 6v14"
           ],
           "live": true,
           "introAudio": {
-            "url": "https://piuli.app/voices/upbeat-world/smile.v3.m4a",
+            "url": "https://piuli.app/voices/upbeat-world/adventure.v3.m4a",
             "seconds": 10.6
+          }
+        },
+        {
+          "id": "brotherhood",
+          "word": "Brotherhood",
+          "person": "Beethoven, and a town in Spain",
+          "channel": "Banco Sabadell",
+          "title": "Ode to Joy: Som Sabadell flashmob",
+          "youtubeId": "GBaHPND2QJg",
+          "segments": [
+            {
+              "start": 0,
+              "end": 340
+            }
+          ],
+          "intro": "Brotherhood. Vienna. Beside the conductor stands a man who cannot hear. The last note fades. Does Ludwig hear the crowd?",
+          "quote": {
+            "text": "All people become brothers.",
+            "by": "Friedrich Schiller",
+            "source": "Ode to Joy (1785), set to music by Beethoven"
+          },
+          "clue": "A deaf composer",
+          "glyph": [
+            "M5 7a2 2 0 1 0 4 0a2 2 0 1 0-4 0",
+            "M15 7a2 2 0 1 0 4 0a2 2 0 1 0-4 0",
+            "M4 20v-6a3 3 0 0 1 6 0v6",
+            "M14 20v-6a3 3 0 0 1 6 0v6",
+            "M9.5 13.5c1.5-1.5 3.5-1.5 5 0"
+          ],
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/upbeat-world/brotherhood.v3.m4a",
+            "seconds": 12.6
+          }
+        },
+        {
+          "id": "celebration",
+          "word": "Celebration",
+          "person": "A.R. Rahman",
+          "channel": "Nobel Peace Prize Concert",
+          "title": "Jai Ho, Nobel Peace Prize Concert 2010",
+          "youtubeId": "0PRzlpvHLPE",
+          "segments": [
+            {
+              "start": 0,
+              "end": 223
+            }
+          ],
+          "intro": "Celebration. At nine, a boy loses his father. He plays piano to feed the family. One day, Rahman writes a song to celebrate.",
+          "quote": {
+            "text": "All my life, I had a choice of hate and love. I chose love and I’m here.",
+            "by": "A.R. Rahman",
+            "source": "accepting the Oscar for Jai Ho, 2009"
+          },
+          "titleMeaning": "“May you be victorious”",
+          "clue": "Oscar-winning song",
+          "glyph": [
+            "M4 20l4-11 7 7z",
+            "M15 3v2M20 6l-1.5 1M21 11h-2M11 3l.5 1.5",
+            "M13.5 9.5c.5-2 2.5-3 4.5-3"
+          ],
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/upbeat-world/celebration.v3.m4a",
+            "seconds": 13.7
+          }
+        },
+        {
+          "id": "colour",
+          "word": "Colour",
+          "person": "Kizz Daniel and Tekno",
+          "channel": "Kizz Daniel",
+          "title": "Buga (Official Video)",
+          "youtubeId": "bLF90M96m2Q",
+          "segments": [
+            {
+              "start": 0,
+              "end": 175
+            }
+          ],
+          "intro": "Colour. A dream comes true after years. Some of us keep it quiet. Kizz Daniel paints the town.",
+          "quote": {
+            "text": "It means to unapologetically flaunt your success.",
+            "by": "Kizz Daniel",
+            "source": "The Breakfast Club, 2022"
+          },
+          "titleMeaning": "“show off your success”",
+          "clue": "Show off success",
+          "glyph": [
+            "M12 3a9 9 0 0 0 0 18c1.4 0 2-1 2-2s-.8-1.5-.8-2.5 1-2 2.3-2H18a3 3 0 0 0 3-3c0-4.7-4-8.5-9-8.5z",
+            "M7.5 11h.01M9.5 7h.01M14.5 7h.01M17 10.5h.01"
+          ],
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/upbeat-world/colour.v3.m4a",
+            "seconds": 11.3
+          }
+        },
+        {
+          "id": "life",
+          "word": "Life",
+          "person": "Marc Anthony",
+          "channel": "Marc Anthony",
+          "title": "Vivir Mi Vida (Official Video)",
+          "youtubeId": "YXnjy5YlDwk",
+          "segments": [
+            {
+              "start": 26,
+              "end": 315
+            }
+          ],
+          "intro": "Life. Heavy days. Light days. They just come. How we live them is our choice. Marc sings his.",
+          "quote": {
+            "text": "Life happens, life doesn’t stop because I am on stage.",
+            "by": "Marc Anthony",
+            "source": "El Diario NY, 2014"
+          },
+          "titleMeaning": "“Live my life”",
+          "clue": "C'est la vie",
+          "glyph": [
+            "M12.00 9.40A3.5 3.1 -90 1 0 12.00 2.40A3.5 3.1 -90 1 0 12.00 9.40Z",
+            "M12.10 9.53A3.5 3.1 15 1 0 18.86 11.34A3.5 3.1 15 1 0 12.10 9.53Z",
+            "M11.90 9.53A3.5 3.1 165 1 0 5.14 11.34A3.5 3.1 165 1 0 11.90 9.53Z",
+            "M12 12.5c0 3.2-.3 5.6-1 8",
+            "M5 20.6h14"
+          ],
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/upbeat-world/life.v3.m4a",
+            "seconds": 12.7
+          }
+        },
+        {
+          "id": "light",
+          "word": "Light",
+          "person": "Chris Martin and Coldplay",
+          "channel": "Coldplay",
+          "title": "A Sky Full of Stars (Official Video)",
+          "youtubeId": "VPRjCeoBqrI",
+          "segments": [
+            {
+              "start": 0,
+              "end": 233
+            }
+          ],
+          "intro": "Light. A busy street in Sydney. A man walks by, singing alone. Others join him. Can you listen without dancing?",
+          "quote": {
+            "text": "That song is unashamedly happy and danceable because that’s what it needed to be.",
+            "by": "Chris Martin",
+            "source": "Fuse, 2014"
+          },
+          "clue": "Sydney street singing",
+          "glyph": [
+            "M9.5 21v-9.5h5V21",
+            "M7.5 21h9",
+            "M12 9c-1.5 0-2.4-1-2.4-2.4 0-1.7 2.4-3.4 2.4-5 0 1.6 2.4 3.3 2.4 5 0 1.4-.9 2.4-2.4 2.4z",
+            "M5.5 6.5h1.8M16.7 6.5h1.8M6.6 2.8l1.3 1.2M17.4 2.8l-1.3 1.2"
+          ],
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/upbeat-world/light.v3.m4a",
+            "seconds": 10.8
+          }
+        },
+        {
+          "id": "oneness",
+          "word": "Oneness",
+          "person": "Bob Marley",
+          "channel": "BobMarleyVEVO",
+          "title": "One Love (in support of UNICEF)",
+          "youtubeId": "wXLumLvHWfA",
+          "segments": [
+            {
+              "start": 0,
+              "end": 206
+            }
+          ],
+          "intro": "Oneness. Gunmen attack a singer at his home. Two days later, he sings for 80,000 people. Bob has one message.",
+          "quote": {
+            "text": "Reggae is a vehicle to carry the message of freedom and peace.",
+            "by": "Bob Marley",
+            "source": "interview after the Boston show, 1980"
+          },
+          "clue": "80,000 people",
+          "glyph": [
+            "M17.3 12.0a1.7 1.7 0 1 0 3.4 0a1.7 1.7 0 1 0-3.4 0 M13.8 18.1a1.7 1.7 0 1 0 3.4 0a1.7 1.7 0 1 0-3.4 0 M6.8 18.1a1.7 1.7 0 1 0 3.4 0a1.7 1.7 0 1 0-3.4 0 M3.3 12.0a1.7 1.7 0 1 0 3.4 0a1.7 1.7 0 1 0-3.4 0 M6.8 5.9a1.7 1.7 0 1 0 3.4 0a1.7 1.7 0 1 0-3.4 0 M13.8 5.9a1.7 1.7 0 1 0 3.4 0a1.7 1.7 0 1 0-3.4 0"
+          ],
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/upbeat-world/oneness.v3.m4a",
+            "seconds": 13.4
+          }
+        },
+        {
+          "id": "play",
+          "word": "Play",
+          "person": "PSY",
+          "channel": "officialpsy",
+          "title": "Gangnam Style (Official Video)",
+          "youtubeId": "9bZkp7q19f0",
+          "segments": [
+            {
+              "start": 0,
+              "end": 246
+            }
+          ],
+          "intro": "Play. Growing up, we forget it. We worry how we look. In Seoul, PSY doesn't. The world plays along.",
+          "quote": {
+            "text": "Dress classy and dance cheesy.",
+            "by": "PSY",
+            "source": "Ryan Seacrest interview, 2012"
+          },
+          "titleMeaning": "“the style of Gangnam”, a rich part of Seoul",
+          "translateCaptions": true,
+          "clue": "Horse-riding dance",
+          "glyph": [
+            "M7.0 12a7.6 7.6 0 1 0 15.2 0a7.6 7.6 0 1 0 -15.2 0",
+            "M14.60 7.40L18.97 10.58L17.30 15.72L11.90 15.72L10.23 10.58Z",
+            "M14.60 7.40L14.60 4.40 M18.97 10.58L21.83 9.65 M17.30 15.72L19.07 18.15 M11.90 15.72L10.13 18.15 M10.23 10.58L7.37 9.65",
+            "M1.5 8.5h3.5M1 12h3M1.5 15.5h3.5"
+          ],
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/upbeat-world/play.v3.m4a",
+            "seconds": 12.1
           }
         },
         {
@@ -1145,96 +1772,34 @@
           }
         },
         {
-          "id": "play",
-          "word": "Play",
-          "person": "PSY",
-          "channel": "officialpsy",
-          "title": "Gangnam Style (Official Video)",
-          "youtubeId": "9bZkp7q19f0",
+          "id": "smile",
+          "word": "Smile",
+          "person": "Pharrell Williams",
+          "channel": "Pharrell Williams",
+          "title": "Happy (Official Video)",
+          "youtubeId": "ZbZSe6N_BXs",
           "segments": [
             {
               "start": 0,
-              "end": 246
+              "end": 230
             }
           ],
-          "intro": "Play. Growing up, we forget it. We worry how we look. In Seoul, PSY doesn't. The world plays along.",
+          "intro": "Smile. Nine songs for a children's movie. Nine times rejected. Tired, Pharrell writes number ten.",
           "quote": {
-            "text": "Dress classy and dance cheesy.",
-            "by": "PSY",
-            "source": "Ryan Seacrest interview, 2012"
+            "text": "It was like no longer my song.",
+            "by": "Pharrell Williams",
+            "source": "Oprah Prime, 2014"
           },
-          "titleMeaning": "“the style of Gangnam”, a rich part of Seoul",
-          "translateCaptions": true,
-          "clue": "Horse-riding dance",
+          "clue": "Rejected nine times",
           "glyph": [
-            "M7.0 12a7.6 7.6 0 1 0 15.2 0a7.6 7.6 0 1 0 -15.2 0",
-            "M14.60 7.40L18.97 10.58L17.30 15.72L11.90 15.72L10.23 10.58Z",
-            "M14.60 7.40L14.60 4.40 M18.97 10.58L21.83 9.65 M17.30 15.72L19.07 18.15 M11.90 15.72L10.13 18.15 M10.23 10.58L7.37 9.65",
-            "M1.5 8.5h3.5M1 12h3M1.5 15.5h3.5"
+            "M3 12a9 9 0 1 0 18 0a9 9 0 1 0-18 0",
+            "M8 14.5c1 1.8 2.4 2.6 4 2.6s3-.8 4-2.6",
+            "M9 9.5v1.2M15 9.5v1.2"
           ],
           "live": true,
           "introAudio": {
-            "url": "https://piuli.app/voices/upbeat-world/play.v3.m4a",
-            "seconds": 12.1
-          }
-        },
-        {
-          "id": "adventure",
-          "word": "Adventure",
-          "person": "Colin Hay and Men at Work",
-          "channel": "Men At Work",
-          "title": "Down Under (Official Video)",
-          "youtubeId": "XfR9iY5y94s",
-          "segments": [
-            {
-              "start": 0,
-              "end": 210
-            }
-          ],
-          "intro": "Adventure. At 14, Colin leaves Scotland for a land on the other side of the world. What does he find there?",
-          "quote": {
-            "text": "It is actually about ultimately celebrating the country.",
-            "by": "Colin Hay",
-            "source": "Songfacts interview"
-          },
-          "clue": "Scotland to Australia",
-          "glyph": [
-            "M3 6l6-2 6 2 6-2v14l-6 2-6-2-6 2z",
-            "M9 4v14M15 6v14"
-          ],
-          "live": true,
-          "introAudio": {
-            "url": "https://piuli.app/voices/upbeat-world/adventure.v3.m4a",
+            "url": "https://piuli.app/voices/upbeat-world/smile.v3.m4a",
             "seconds": 10.6
-          }
-        },
-        {
-          "id": "oneness",
-          "word": "Oneness",
-          "person": "Bob Marley",
-          "channel": "BobMarleyVEVO",
-          "title": "One Love (in support of UNICEF)",
-          "youtubeId": "wXLumLvHWfA",
-          "segments": [
-            {
-              "start": 0,
-              "end": 206
-            }
-          ],
-          "intro": "Oneness. Gunmen attack a singer at his home. Two days later, he sings for 80,000 people. Bob has one message.",
-          "quote": {
-            "text": "Reggae is a vehicle to carry the message of freedom and peace.",
-            "by": "Bob Marley",
-            "source": "interview after the Boston show, 1980"
-          },
-          "clue": "80,000 people",
-          "glyph": [
-            "M17.3 12.0a1.7 1.7 0 1 0 3.4 0a1.7 1.7 0 1 0-3.4 0 M13.8 18.1a1.7 1.7 0 1 0 3.4 0a1.7 1.7 0 1 0-3.4 0 M6.8 18.1a1.7 1.7 0 1 0 3.4 0a1.7 1.7 0 1 0-3.4 0 M3.3 12.0a1.7 1.7 0 1 0 3.4 0a1.7 1.7 0 1 0-3.4 0 M6.8 5.9a1.7 1.7 0 1 0 3.4 0a1.7 1.7 0 1 0-3.4 0 M13.8 5.9a1.7 1.7 0 1 0 3.4 0a1.7 1.7 0 1 0-3.4 0"
-          ],
-          "live": true,
-          "introAudio": {
-            "url": "https://piuli.app/voices/upbeat-world/oneness.v3.m4a",
-            "seconds": 13.4
           }
         },
         {
@@ -1267,168 +1832,6 @@
             "url": "https://piuli.app/voices/upbeat-world/triumph.v3.m4a",
             "seconds": 11.3
           }
-        },
-        {
-          "id": "life",
-          "word": "Life",
-          "person": "Marc Anthony",
-          "channel": "Marc Anthony",
-          "title": "Vivir Mi Vida (Official Video)",
-          "youtubeId": "YXnjy5YlDwk",
-          "segments": [
-            {
-              "start": 26,
-              "end": 315
-            }
-          ],
-          "intro": "Life. Heavy days. Light days. They just come. How we live them is our choice. Marc sings his.",
-          "quote": {
-            "text": "Life happens, life doesn’t stop because I am on stage.",
-            "by": "Marc Anthony",
-            "source": "El Diario NY, 2014"
-          },
-          "titleMeaning": "“Live my life”",
-          "clue": "C'est la vie",
-          "glyph": [
-            "M12.00 9.40A3.5 3.1 -90 1 0 12.00 2.40A3.5 3.1 -90 1 0 12.00 9.40Z",
-            "M12.10 9.53A3.5 3.1 15 1 0 18.86 11.34A3.5 3.1 15 1 0 12.10 9.53Z",
-            "M11.90 9.53A3.5 3.1 165 1 0 5.14 11.34A3.5 3.1 165 1 0 11.90 9.53Z",
-            "M12 12.5c0 3.2-.3 5.6-1 8",
-            "M5 20.6h14"
-          ],
-          "live": true,
-          "introAudio": {
-            "url": "https://piuli.app/voices/upbeat-world/life.v3.m4a",
-            "seconds": 12.7
-          }
-        },
-        {
-          "id": "colour",
-          "word": "Colour",
-          "person": "Kizz Daniel and Tekno",
-          "channel": "Kizz Daniel",
-          "title": "Buga (Official Video)",
-          "youtubeId": "bLF90M96m2Q",
-          "segments": [
-            {
-              "start": 0,
-              "end": 175
-            }
-          ],
-          "intro": "Colour. A dream comes true after years. Some of us keep it quiet. Kizz Daniel paints the town.",
-          "quote": {
-            "text": "It means to unapologetically flaunt your success.",
-            "by": "Kizz Daniel",
-            "source": "The Breakfast Club, 2022"
-          },
-          "titleMeaning": "“show off your success”",
-          "clue": "Show off success",
-          "glyph": [
-            "M12 3a9 9 0 0 0 0 18c1.4 0 2-1 2-2s-.8-1.5-.8-2.5 1-2 2.3-2H18a3 3 0 0 0 3-3c0-4.7-4-8.5-9-8.5z",
-            "M7.5 11h.01M9.5 7h.01M14.5 7h.01M17 10.5h.01"
-          ],
-          "live": true,
-          "introAudio": {
-            "url": "https://piuli.app/voices/upbeat-world/colour.v3.m4a",
-            "seconds": 11.3
-          }
-        },
-        {
-          "id": "light",
-          "word": "Light",
-          "person": "Chris Martin and Coldplay",
-          "channel": "Coldplay",
-          "title": "A Sky Full of Stars (Official Video)",
-          "youtubeId": "VPRjCeoBqrI",
-          "segments": [
-            {
-              "start": 0,
-              "end": 233
-            }
-          ],
-          "intro": "Light. A busy street in Sydney. A man walks by, singing alone. Others join him. Can you listen without dancing?",
-          "quote": {
-            "text": "That song is unashamedly happy and danceable because that’s what it needed to be.",
-            "by": "Chris Martin",
-            "source": "Fuse, 2014"
-          },
-          "clue": "Sydney street singing",
-          "glyph": [
-            "M9.5 21v-9.5h5V21",
-            "M7.5 21h9",
-            "M12 9c-1.5 0-2.4-1-2.4-2.4 0-1.7 2.4-3.4 2.4-5 0 1.6 2.4 3.3 2.4 5 0 1.4-.9 2.4-2.4 2.4z",
-            "M5.5 6.5h1.8M16.7 6.5h1.8M6.6 2.8l1.3 1.2M17.4 2.8l-1.3 1.2"
-          ],
-          "live": true,
-          "introAudio": {
-            "url": "https://piuli.app/voices/upbeat-world/light.v3.m4a",
-            "seconds": 10.8
-          }
-        },
-        {
-          "id": "celebration",
-          "word": "Celebration",
-          "person": "A.R. Rahman",
-          "channel": "Nobel Peace Prize Concert",
-          "title": "Jai Ho, Nobel Peace Prize Concert 2010",
-          "youtubeId": "0PRzlpvHLPE",
-          "segments": [
-            {
-              "start": 0,
-              "end": 223
-            }
-          ],
-          "intro": "Celebration. At nine, a boy loses his father. He plays piano to feed the family. One day, Rahman writes a song to celebrate.",
-          "quote": {
-            "text": "All my life, I had a choice of hate and love. I chose love and I’m here.",
-            "by": "A.R. Rahman",
-            "source": "accepting the Oscar for Jai Ho, 2009"
-          },
-          "titleMeaning": "“May you be victorious”",
-          "clue": "Oscar-winning song",
-          "glyph": [
-            "M4 20l4-11 7 7z",
-            "M15 3v2M20 6l-1.5 1M21 11h-2M11 3l.5 1.5",
-            "M13.5 9.5c.5-2 2.5-3 4.5-3"
-          ],
-          "live": true,
-          "introAudio": {
-            "url": "https://piuli.app/voices/upbeat-world/celebration.v3.m4a",
-            "seconds": 13.7
-          }
-        },
-        {
-          "id": "brotherhood",
-          "word": "Brotherhood",
-          "person": "Beethoven, and a town in Spain",
-          "channel": "Banco Sabadell",
-          "title": "Ode to Joy: Som Sabadell flashmob",
-          "youtubeId": "GBaHPND2QJg",
-          "segments": [
-            {
-              "start": 0,
-              "end": 340
-            }
-          ],
-          "intro": "Brotherhood. Vienna. Beside the conductor stands a man who cannot hear. The last note fades. Does Ludwig hear the crowd?",
-          "quote": {
-            "text": "All people become brothers.",
-            "by": "Friedrich Schiller",
-            "source": "Ode to Joy (1785), set to music by Beethoven"
-          },
-          "clue": "A deaf composer",
-          "glyph": [
-            "M5 7a2 2 0 1 0 4 0a2 2 0 1 0-4 0",
-            "M15 7a2 2 0 1 0 4 0a2 2 0 1 0-4 0",
-            "M4 20v-6a3 3 0 0 1 6 0v6",
-            "M14 20v-6a3 3 0 0 1 6 0v6",
-            "M9.5 13.5c1.5-1.5 3.5-1.5 5 0"
-          ],
-          "live": true,
-          "introAudio": {
-            "url": "https://piuli.app/voices/upbeat-world/brotherhood.v3.m4a",
-            "seconds": 12.6
-          }
         }
       ],
       "introAudio": {
@@ -1437,9 +1840,16 @@
       }
     },
     {
-      "id": "c3v0",
-      "name": "Champions",
-      "icon": "trophy",
+      "id": "c11v0",
+      "name": "Ads That Moved Us",
+      "icon": "screen",
+      "status": "coming",
+      "items": []
+    },
+    {
+      "id": "c9v0",
+      "name": "Clean Laughter",
+      "icon": "sun",
       "status": "coming",
       "items": []
     },
@@ -1447,6 +1857,13 @@
       "id": "c4v0",
       "name": "Great Speeches",
       "icon": "mic",
+      "status": "coming",
+      "items": []
+    },
+    {
+      "id": "c7v0",
+      "name": "Leaders Who Changed the World",
+      "icon": "compass",
       "status": "coming",
       "items": []
     },
@@ -1461,27 +1878,6 @@
       "id": "c6v0",
       "name": "Wisdom for Life",
       "icon": "book",
-      "status": "coming",
-      "items": []
-    },
-    {
-      "id": "c7v0",
-      "name": "Leaders Who Changed the World",
-      "icon": "compass",
-      "status": "coming",
-      "items": []
-    },
-    {
-      "id": "c9v0",
-      "name": "Clean Laughter",
-      "icon": "sun",
-      "status": "coming",
-      "items": []
-    },
-    {
-      "id": "c11v0",
-      "name": "Ads That Moved Us",
-      "icon": "screen",
       "status": "coming",
       "items": []
     }
