@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": "2026-11-27.1",
+  "version": "2026-11-27.2",
   "collections": [
     {
       "id": "c3v0",
@@ -2230,44 +2230,44 @@
       }
     },
     {
-      "id": "c11v0",
-      "name": "Ads That Moved Us",
-      "icon": "screen",
+      "id": "c13v0",
+      "name": "Acts of Kindness",
+      "icon": "hands",
       "status": "coming",
       "items": []
     },
     {
-      "id": "c9v0",
-      "name": "Clean Laughter",
-      "icon": "sun",
-      "status": "coming",
-      "items": []
-    },
-    {
-      "id": "c4v0",
-      "name": "Great Speeches",
+      "id": "c14v0",
+      "name": "Courageous Voices",
       "icon": "mic",
       "status": "coming",
       "items": []
     },
     {
-      "id": "c7v0",
-      "name": "Leaders Who Changed the World",
-      "icon": "compass",
+      "id": "c15v0",
+      "name": "Inner Wisdom",
+      "icon": "moon",
       "status": "coming",
       "items": []
     },
     {
-      "id": "c5v0",
-      "name": "Talks That Change Minds",
+      "id": "c16v0",
+      "name": "Mind Shifts",
       "icon": "bulb",
       "status": "coming",
       "items": []
     },
     {
-      "id": "c6v0",
-      "name": "Wisdom for Life",
-      "icon": "book",
+      "id": "c17v0",
+      "name": "Quiet Heroes",
+      "icon": "flag",
+      "status": "coming",
+      "items": []
+    },
+    {
+      "id": "c18v0",
+      "name": "More to come",
+      "icon": "sparkle",
       "status": "coming",
       "items": []
     }
