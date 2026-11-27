@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": "2026-11-25.3",
+  "version": "2026-11-27.1",
   "collections": [
     {
       "id": "c3v0",
@@ -406,6 +406,394 @@
         "url": "https://piuli.app/voices/champions/welcome.v1.m4a",
         "seconds": 28.0
       }
+    },
+    {
+      "id": "c12v0",
+      "name": "Everyday Gifts",
+      "icon": "gift",
+      "status": "active",
+      "tagline": "Twelve gifts we give thanks for.",
+      "intro": "Everyday Gifts. Today, we use gifts a king never dreamed of. Light on a dark night. Medicine for a dangerous cut. The world's knowledge in our pocket. Others, before us, made them possible. We stand on the shoulders of giants. To them, for these twelve gifts: thank you.",
+      "introAudio": {
+        "url": "https://piuli.app/voices/everyday-gifts/welcome.v1.m4a",
+        "seconds": 28.6
+      },
+      "items": [
+        {
+          "id": "alchemy",
+          "word": "Alchemy",
+          "person": "The steam engine",
+          "channel": "Real Engineering",
+          "title": "Steam Engine - How Does It Work",
+          "youtubeId": "fsXpaPSVasQ",
+          "segments": [
+            {
+              "start": 0,
+              "end": 253
+            }
+          ],
+          "intro": "Alchemy. Throughout history, all heavy work relied on human and animal muscles. Then someone turned fire into powered motion.",
+          "quote": {
+            "text": "Any sufficiently advanced technology is indistinguishable from magic.",
+            "by": "Arthur C. Clarke",
+            "source": "Profiles of the Future, 1973"
+          },
+          "clue": "Thomas Newcomen",
+          "glyph": [
+            "M 5.9 2 v 15.5",
+            "M 12.9 2 v 15.5",
+            "M 5.9 2 h 7",
+            "M 7 8.5 h 4.8 v 4 h -4.8 z",
+            "M 9.4 12.5 V 22",
+            "M 16.8 6 v 9 M 16.8 6 l -1.3 1.6 M 16.8 6 l 1.3 1.6 M 16.8 15 l -1.3 -1.6 M 16.8 15 l 1.3 -1.6"
+          ],
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/everyday-gifts/alchemy.v1.m4a",
+            "seconds": 12.8
+          }
+        },
+        {
+          "id": "clarity",
+          "word": "Clarity",
+          "person": "The light bulb",
+          "channel": "HISTORY",
+          "title": "Ask History: Who Really Invented the Light Bulb? | History",
+          "youtubeId": "-Q4rQDN6Z4s",
+          "segments": [
+            {
+              "start": 0,
+              "end": 115
+            }
+          ],
+          "intro": "Clarity. Imagine lightning illuminating your room at night. Now, imagine catching a piece of that flash, to extend your day.",
+          "quote": {
+            "text": "Darkness cannot drive out darkness; only light can do that.",
+            "by": "Martin Luther King Jr.",
+            "source": "Strength to Love, 1963"
+          },
+          "clue": "Thomas Alva Edison",
+          "glyph": [
+            "M 12 5.4 a 6 6 0 0 0 -3.5 10.9 c 0.6 0.5 0.9 1.2 0.9 1.9 v 0.6 h 5.2 V 18.2 c 0 -0.7 0.3 -1.4 0.9 -1.9 A 6 6 0 0 0 12 5.4 z",
+            "M 9.4 20.8 h 5.2 M 10 22.8 h 4",
+            "M 10.7 18.6 v -5.2 M 13.3 18.6 v -5.2",
+            "M 10.7 13.4 c -0.25 -1.4 0.15 -2.7 1.3 -2.7 s 1.55 1.3 1.3 2.7",
+            "M 4 11.4 L 1.7 11.4 M 6.34 5.74 L 4.72 4.12 M 12 3.4 L 12 1.1 M 17.66 5.74 L 19.28 4.12 M 20 11.4 L 22.3 11.4"
+          ],
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/everyday-gifts/clarity.v1.m4a",
+            "seconds": 13.3
+          }
+        },
+        {
+          "id": "connection",
+          "word": "Connection",
+          "person": "The World Wide Web",
+          "channel": "TED-Ed",
+          "title": "What is the world wide web? - Twila Camp",
+          "youtubeId": "J8hzJxb0rpc",
+          "segments": [
+            {
+              "start": 4,
+              "end": 219
+            }
+          ],
+          "intro": "Connection. Before 1990, it did not exist. Today, it links billions of us. Its creator gave it away for free.",
+          "quote": {
+            "text": "This is for everyone.",
+            "by": "Tim Berners-Lee",
+            "source": "London 2012 Olympic opening ceremony"
+          },
+          "clue": "Tim Berners-Lee",
+          "glyph": [
+            "M10 14a4.2 4.2 0 0 0 6 0l3.2-3.2a4.2 4.2 0 0 0-6-6L11.6 6.4",
+            "M14 10a4.2 4.2 0 0 0-6 0l-3.2 3.2a4.2 4.2 0 0 0 6 6l1.6-1.6"
+          ],
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/everyday-gifts/connection.v1.m4a",
+            "seconds": 13.5
+          }
+        },
+        {
+          "id": "direction",
+          "word": "Direction",
+          "person": "The compass",
+          "channel": "TED",
+          "title": "How the compass unlocked the world | Small Thing Big Idea, a TED series",
+          "youtubeId": "Eup2J0oAq9Y",
+          "segments": [
+            {
+              "start": 7,
+              "end": 200
+            }
+          ],
+          "intro": "Direction. For thousands of years, sailors stayed close to the shore. Far at sea, they were lost. Then, a needle.",
+          "quote": {
+            "text": "The best way to predict the future is to invent it.",
+            "by": "Alan Kay",
+            "source": "1971"
+          },
+          "clue": "Ancient China",
+          "glyph": [
+            "M 5 14.7 a 7 7 0 1 0 14 0 a 7 7 0 1 0 -14 0",
+            "M 10.9 5.5 V 2.3 l 2.2 3.2 V 2.3",
+            "M 12 9.5 l 1.7 4.5 L 12 19.9 l -1.7 -5.9 z"
+          ],
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/everyday-gifts/direction.v1.m4a",
+            "seconds": 13.2
+          }
+        },
+        {
+          "id": "ease",
+          "word": "Ease",
+          "person": "The wheel",
+          "channel": "Happy Learning English",
+          "title": "The Wheel: great inventions that changed history | Educational Videos for Kids",
+          "youtubeId": "XzG1aPw7YBc",
+          "segments": [
+            {
+              "start": 0,
+              "end": 174
+            }
+          ],
+          "intro": "Ease. For ages, humans carried or dragged heavy loads. Then, someone placed logs underneath, and the load rolled.",
+          "quote": {
+            "text": "If I have seen further, it is by standing on the shoulders of giants.",
+            "by": "Isaac Newton",
+            "source": "letter to Robert Hooke, 1675"
+          },
+          "clue": "Mesopotamia",
+          "glyph": [
+            "M 17 7.1 H 6.5 a 4.5 4.5 0 0 0 0 9 H 17",
+            "M 12.5 11.6 a 4.5 4.5 0 1 0 9 0 a 4.5 4.5 0 1 0 -9 0",
+            "M 15 11.6 a 2 2 0 1 0 4 0 a 2 2 0 1 0 -4 0",
+            "M 5 10.1 h 3.5 M 7 13.1 h 3.5",
+            "M 2 16.9 h 20"
+          ],
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/everyday-gifts/ease.v1.m4a",
+            "seconds": 13.1
+          }
+        },
+        {
+          "id": "healing",
+          "word": "Healing",
+          "person": "Penicillin",
+          "channel": "OpenLearn from The Open University",
+          "title": "Alexander Fleming and the Accidental Mould Juice – The Serendipity of Science (2/3)",
+          "youtubeId": "0ZWjzcsTd5M",
+          "segments": [
+            {
+              "start": 0,
+              "end": 72
+            }
+          ],
+          "intro": "Healing. Once, a small cut could kill. Even a president's son. A scientist came back from holiday, observed, and wondered.",
+          "quote": {
+            "text": "Could you patent the sun?",
+            "by": "Jonas Salk",
+            "source": "CBS interview with Edward R. Murrow, 1955"
+          },
+          "clue": "Alexander Fleming",
+          "glyph": [
+            "M10.68 18.58L18.58 10.68A3.72 3.72 0 0 0 13.32 5.42L5.42 13.32A3.72 3.72 0 0 0 10.68 18.58z",
+            "M14.63 14.63L9.37 9.37"
+          ],
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/everyday-gifts/healing.v1.m4a",
+            "seconds": 14.8
+          }
+        },
+        {
+          "id": "heritage",
+          "word": "Heritage",
+          "person": "Writing",
+          "channel": "Extra History",
+          "title": "The History of Writing - Where the Story Begins - Extra History",
+          "youtubeId": "HyjLt_RGEww",
+          "segments": [
+            {
+              "start": 0,
+              "end": 297
+            }
+          ],
+          "intro": "Heritage. Long ago, stories and numbers passed by voice. Slow, fragile, trusted to memory. Until someone made marks that speak.",
+          "quote": {
+            "text": "Writing is perhaps the greatest of human inventions, binding together people who never knew each other, citizens of distant epochs.",
+            "by": "Carl Sagan",
+            "source": "Cosmos, 1980"
+          },
+          "clue": "The Sumerians",
+          "glyph": [
+            "M20.5 3.5c-6.5.2-11.6 4.6-13.8 12.5",
+            "M20.5 3.5c-.5 6.5-5.3 11.3-12.4 12.6",
+            "M4 20.5L15.6 8.4"
+          ],
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/everyday-gifts/heritage.v1.m4a",
+            "seconds": 15.9
+          }
+        },
+        {
+          "id": "immortality",
+          "word": "Immortality",
+          "person": "Photography",
+          "channel": "COOPH",
+          "title": "The history of photography in 5 minutes",
+          "youtubeId": "JoxGEymA8ro",
+          "segments": [
+            {
+              "start": 3,
+              "end": 303
+            }
+          ],
+          "intro": "Immortality. A smile, a face, an event: every moment used to fade. Then, a dark box kept it forever.",
+          "quote": {
+            "text": "The camera is an instrument that teaches people how to see without a camera.",
+            "by": "Dorothea Lange",
+            "source": "in an interview"
+          },
+          "clue": "Niépce and Daguerre",
+          "glyph": [
+            "M3 8.5a2 2 0 0 1 2-2h2.6l1.6-2.3h5.6l1.6 2.3H19a2 2 0 0 1 2 2V18a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z",
+            "M8.4 13a3.6 3.6 0 1 0 7.2 0a3.6 3.6 0 1 0 -7.2 0"
+          ],
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/everyday-gifts/immortality.v1.m4a",
+            "seconds": 13.6
+          }
+        },
+        {
+          "id": "knowledge",
+          "word": "Knowledge",
+          "person": "Books",
+          "channel": "TED-Ed",
+          "title": "The evolution of the book - Julie Dreyfuss",
+          "youtubeId": "_YqYtdPUis4",
+          "segments": [
+            {
+              "start": 0,
+              "end": 241
+            }
+          ],
+          "intro": "Knowledge. In the Middle Ages, a book took months to copy; few could read. Now, books belong to everyone.",
+          "quote": {
+            "text": "Books are the treasured wealth of the world and the fit inheritance of generations and nations.",
+            "by": "Henry David Thoreau",
+            "source": "Walden, 1854"
+          },
+          "clue": "Johannes Gutenberg",
+          "glyph": [
+            "M12 6.5c-2.2-1.6-5.2-2.1-8.5-1.6v13.2c3.3-.5 6.3 0 8.5 1.6 2.2-1.6 5.2-2.1 8.5-1.6V4.9c-3.3-.5-6.3 0-8.5 1.6z",
+            "M12 6.5v13.2"
+          ],
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/everyday-gifts/knowledge.v1.m4a",
+            "seconds": 13.2
+          }
+        },
+        {
+          "id": "nourishment",
+          "word": "Nourishment",
+          "person": "Fertilizer",
+          "channel": "TED-Ed",
+          "title": "The chemical reaction that feeds the world - Daniel D. Dulek",
+          "youtubeId": "o1_D4FscMnU",
+          "segments": [
+            {
+              "start": 5,
+              "end": 303
+            }
+          ],
+          "intro": "Nourishment. A century ago, the world feared famine. Nowadays, about half of us eat thanks to one idea.",
+          "quote": {
+            "text": "You can't build peace on empty stomachs.",
+            "by": "Norman Borlaug",
+            "source": "Nobel Peace Prize lecture, 1970"
+          },
+          "clue": "Haber–Bosch process",
+          "glyph": [
+            "M 12 21.3 V 5.3",
+            "M 10.74 15.88 A 1.15 0.4 -130 1 0 9.26 14.12 A 1.15 0.4 -130 1 0 10.74 15.88 z M 13.26 15.88 A 1.15 0.4 -50 1 0 14.74 14.12 A 1.15 0.4 -50 1 0 13.26 15.88 z M 10.74 12.08 A 1.15 0.4 -130 1 0 9.26 10.32 A 1.15 0.4 -130 1 0 10.74 12.08 z M 13.26 12.08 A 1.15 0.4 -50 1 0 14.74 10.32 A 1.15 0.4 -50 1 0 13.26 12.08 z",
+            "M 10.74 8.28 A 1.15 0.4 -130 1 0 9.26 6.52 A 1.15 0.4 -130 1 0 10.74 8.28 z M 13.26 8.28 A 1.15 0.4 -50 1 0 14.74 6.52 A 1.15 0.4 -50 1 0 13.26 8.28 z M 12 4.95 A 1.15 0.4 -90 1 0 12 2.65 A 1.15 0.4 -90 1 0 12 4.95 z"
+          ],
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/everyday-gifts/nourishment.v1.m4a",
+            "seconds": 11.7
+          }
+        },
+        {
+          "id": "protection",
+          "word": "Protection",
+          "person": "The smallpox vaccine",
+          "channel": "TED-Ed",
+          "title": "How we conquered the deadly smallpox virus - Simona Zompi",
+          "youtubeId": "yqUFy-t4MlQ",
+          "segments": [
+            {
+              "start": 0,
+              "end": 257
+            }
+          ],
+          "intro": "Protection. For centuries, one disease killed hundreds of millions: nobles, priests and farmers, equally. At last, it is gone. How?",
+          "quote": {
+            "text": "…the annihilation of the Small Pox, the most dreadful scourge of the human species, must be the final result of this practice.",
+            "by": "Edward Jenner",
+            "source": "The Origin of the Vaccine Inoculation, 1801"
+          },
+          "clue": "Edward Jenner",
+          "glyph": [
+            "M 18.06 3.96 L 20.04 5.94 M 19.05 4.95 L 15.93 8.07",
+            "M 14.24 6.37 L 17.63 9.76",
+            "M 14.8 6.93 L 7.45 14.29 L 9.71 16.55 L 17.07 9.2 z",
+            "M 8.58 15.42 L 3.91 20.09"
+          ],
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/everyday-gifts/protection.v1.m4a",
+            "seconds": 17.1
+          }
+        },
+        {
+          "id": "wings",
+          "word": "Wings",
+          "person": "The airplane",
+          "channel": "Sabin Civil Engineering",
+          "title": "The Brilliant Engineering of FIRST FLIGHT !",
+          "youtubeId": "LigpsX1KoQE",
+          "segments": [
+            {
+              "start": 0,
+              "end": 292
+            }
+          ],
+          "intro": "Wings. For millennia, people watched birds and dreamed of flying. Many tried and fell. Then, two brothers did it.",
+          "quote": {
+            "text": "For some years I have been afflicted with the belief that flight is possible to man.",
+            "by": "Wilbur Wright",
+            "source": "letter to Octave Chanute, May 13, 1900"
+          },
+          "clue": "The Wright brothers",
+          "glyph": [
+            "M 21.5 15.85 v -2 l -8 -5 V 4.15 a 1.5 1.5 0 0 0 -3 0 v 4.7 l -8 5 v 2 l 8 -2.5 v 5 l -2 1.5 V 21.35 l 3.5 -1 3.5 1 v -1.5 L 13.5 18.35 v -5 z"
+          ],
+          "live": true,
+          "introAudio": {
+            "url": "https://piuli.app/voices/everyday-gifts/wings.v1.m4a",
+            "seconds": 13.3
+          }
+        }
+      ]
     },
     {
       "id": "human-greatness",
